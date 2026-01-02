@@ -1,0 +1,69 @@
+{
+  "audio_name": "88316_68beea46e99d5_+4523488412 (1).mp3",
+  "audio_stem": "88316_68beea46e99d5_+4523488412 (1)",
+  "cases": [
+    {
+      "anchor_utterance_index": 46,
+      "suggested_tests": [
+        "close"
+      ],
+      "customer_text": "Okay, det kan jeg godt lide.",
+      "seller_action": "Super, jamen det er godt. Så tænker jeg, Tina, skal vi ikke lige få ordnet det med det samme?",
+      "reason": "Kunden udtrykker accept af betalingsformen (Trin 4), hvorefter sælgeren med det samme forsøger at lukke aftalen ved at spørge, om de skal få det ordnet med det samme (Trin 5 Close)."
+    },
+    {
+      "anchor_utterance_index": 48,
+      "suggested_tests": [
+        "close"
+      ],
+      "customer_text": "Jo, det synes jeg.",
+      "seller_action": "Yes. Dit fulde navn, hvordan lyder det?",
+      "reason": "Kunden bekræfter eksplicit, at de skal gå i gang med oprettelsen. Sælgeren følger op ved at starte indhentningen af personoplysninger (Assumptive Close)."
+    },
+    {
+      "anchor_utterance_index": 24,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Nå, det har jeg aldrig hørt om.",
+      "seller_action": "Nej, vi er også et lidt mindre selskab end de fleste andre. Og det er sådan set også derfor, hvorfor vi kan tilbyde en rigtig billig pris, fordi prisen her hos os, den hedder nemlig 5 øre, og så for hvert år, du er kunde herinde, så falder den faktisk yderligere med 1 øre. Så du samtidig er skærmet for det her med, at prisen lige pludselig går op, uden man lige sådan har sagt ja til det, men at man faktisk altså går ned i pris, jo længere tid man er kunde inde hos os.",
+      "reason": "Kunden udtrykker skepsis/manglende tillid, da hun ikke kender selskabet. Sælgeren skal her anerkende og forklare værdien ved at være et mindre selskab."
+    },
+    {
+      "anchor_utterance_index": 12,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Det hedder Energi Vest.",
+      "seller_action": "Ja, VestEnergi?",
+      "reason": "Type A: Konkurrent-Identifikation. Kunden nævner eksplicit sit nuværende selskab, som her er 'Energi Vest' (VestEnergi). Dette giver sælgeren mulighed for at lave research på kundens nuværende vilkår."
+    },
+    {
+      "anchor_utterance_index": 22,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Ja, det er det. Hvor er det fra?",
+      "seller_action": "Jeg ringer inde fra energiselskabet El, ligesom i dyret.",
+      "reason": "Type C: Præsentation af Regnestykket. Kunden anerkender de høje priser hos konkurrenten (50 øre i tillæg) og spørger ind til, hvem sælgeren repræsenterer, hvilket leder direkte over i prissammenligningen."
+    },
+    {
+      "anchor_utterance_index": 28,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Hvad har I sådan noget, ikke abonnementspris, men jeres som regel, så er der jo ligesom noget, altså energiafgiften er jo en, altså energiafgiften inde fra staten, det kan vi ikke røre ved.",
+      "seller_action": "Altså, vi har selvfølgelig abonnementet på de her 29 kroner, som det er ved de fleste forretninger.",
+      "reason": "Type C: Præsentation af Regnestykket. Kunden spørger ind til de specifikke priselementer (abonnement vs. afgifter). Dette tester agentens evne til at validere og forklare de faste omkostninger i sammenligningen."
+    },
+    {
+      "anchor_utterance_index": 2,
+      "suggested_tests": [
+        "opening"
+      ],
+      "customer_text": "Fra forsikring?",
+      "seller_action": "Øh, jeg ringer fra et energiselskab.",
+      "reason": "Dette er den klassiske åbning, hvor sælgeren (Noah) har præsenteret sig ved navn i ytring 1, og kunden (Tina) reagerer ved at spørge ind til formålet/firmaet. Dette markerer overgangen fra identifikation til samtalens emne."
+    }
+  ]
+}

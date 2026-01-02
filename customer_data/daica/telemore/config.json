@@ -1,0 +1,119 @@
+{
+    "campaign": {
+        "id": "daica_telmore",
+        "name": "DAICA Telemore",
+        "description": "Start up campagne",
+        "language": "Dansk"
+    },
+    "dataset": {
+        "name": "daica_telmore",
+        "action_types": [
+            "close",
+            "objection",
+            "price_comparison",
+            "text"
+        ]
+    },
+    "vad": {
+        "speech_minimum_duration_ms": 2000,
+        "silence_before_ai_ms": 500
+    },
+    "prompts": {
+        "generate_campaign_info": true,
+        "actions": {
+            "objection": {
+                "langfuse_name": "daica_telmore_objection",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "daica_telmore_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "objection_prompt"
+                    ]
+                }
+            },
+            "close": {
+                "langfuse_name": "daica_telmore_close",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "daica_telmore_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "close_prompt"
+                    ]
+                }
+            },
+            "ai_suggestion": {
+                "langfuse_name": "daica_telmore_ai_suggestion",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "daica_telmore_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "ai_suggestion"
+                    ]
+                }
+            },
+            "price_comparison": {
+                "langfuse_name": "daica_telmore_price_comparison",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": true,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "daica_telmore_info"
+                    ],
+                    "user": [
+                        "daica_telmore_price_comparison_prompt"
+                    ]
+                }
+            },
+            "text": {
+                "langfuse_name": "daica_telmore_text",
+                "enabled": true,
+                "config": {
+                    "use_internet": true,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "daica_telmore_info",
+                        "text_prompt"
+                    ],
+                    "user": [
+                    ]
+                }
+            }
+        }
+    },
+    "campaign_info_files": ["general_info.txt"]
+}

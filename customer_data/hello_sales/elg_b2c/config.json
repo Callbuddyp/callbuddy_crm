@@ -1,0 +1,101 @@
+{
+    "campaign": {
+        "id": "elg_b2c",
+        "name": "Energiselskabet ELG B2C",
+        "description": "ELG Business-to-Consumer sales",
+        "language": "Dansk"
+    },
+    "dataset": {
+        "name": "elg_b2c",
+        "action_types": [
+            "close",
+            "objection",
+            "price_comparison",
+            "opening"
+        ]
+    },
+    "vad": {
+        "speech_minimum_duration_ms": 2000,
+        "silence_before_ai_ms": 500
+    },
+    "prompts": {
+        "generate_campaign_info": true,
+        "actions": {
+            "objection": {
+                "langfuse_name": "elg_b2c_objection",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2c_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "objection_prompt"
+                    ]
+                }
+            },
+            "text": {
+                "langfuse_name": "elg_b2c_text",
+                "enabled": true,
+                "config": {
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2c_info",
+                        "text_prompt"
+                    ],
+                    "user": [
+                    ]
+                }
+            },
+            "close": {
+                "langfuse_name": "elg_b2c_close",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2c_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "close_prompt"
+                    ]
+                }
+            },
+            "price_comparison": {
+                "langfuse_name": "elg_b2c_price_comparison",
+                "enabled": true,
+                "config": {
+                    "use_internet": true,
+                    "output_type": "text",
+                    "search_sources": [
+                        "strømligning.dk"
+                    ]
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2c_info"
+                    ],
+                    "user": [
+                        "sammenligning_pris_elg_b2c_prompt"
+                    ]
+                }
+            }
+        }
+    },
+    "campaign_info_files": []
+}

@@ -1,0 +1,60 @@
+{
+  "audio_name": "89554_67f9015d8cab4_+4520132605 (2) (1).mp3",
+  "audio_stem": "89554_67f9015d8cab4_+4520132605 (2) (1)",
+  "cases": [
+    {
+      "anchor_utterance_index": 56,
+      "suggested_tests": [
+        "close"
+      ],
+      "customer_text": "Jeg ved, hvad, synes du ikke bare, at jeg skal skifte over hos dig, Bente?",
+      "seller_action": "Der er i hvert fald ikke, der er i hvert fald ikke noget, jeg tænker, der skulle gøre, at du ikke skulle være kunde herinde. Det er for det første, det bliver billigere igen. Vi er ærlige, der er ikke nogen binding på aftalen eller noget som helst igen, du er, ikke? Og jeg skal nok sørge for alt det praktiske og administrative herinde fra. Ja. Super. Jeg skal egentlig bare lige høre, i forhold til betaling, der kører du det jo over betalingsservicen i dag. Det tænker jeg vel bare, at vi skal fortsætte med.",
+      "reason": "Kunden giver her den ultimative accept (Trin 4) ved selv at foreslå skiftet. Sælgeren bekræfter og går direkte over i en assumptive close ved at spørge ind til betalingsmetode for at starte oprettelsen (Trin 5)."
+    },
+    {
+      "anchor_utterance_index": 6,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Jeg kan ikke skifte på et nuværende tidspunkt, så det kan jeg ikke.",
+      "seller_action": "Okay. Er du i noget binding, eller hvordan?",
+      "reason": "Kunden kommer med en tidlig afvisning/barriere ved at påstå, at hun ikke kan skifte nu. Sælgeren håndterer dette ved at spørge ind til årsagen (binding)."
+    },
+    {
+      "anchor_utterance_index": 12,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Lokal.",
+      "seller_action": "Øh, LokalEnergi. Okay. Øhm, det lyder lidt interessant. Er det så den, hvor du har et abonnement på 49 kroner om måneden, og et tillæg til spotprisen på 10 øre?",
+      "reason": "Type A: Konkurrent-identifikation. Kunden identificerer sit nuværende selskab (LokalEnergi), hvilket gør det muligt for sælgeren at lave en direkte prissammenligning."
+    },
+    {
+      "anchor_utterance_index": 14,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Ja, det ved jeg ikke. Jeg ved, at den stod på 3.000 her omkring for tre måneder.",
+      "seller_action": "Du har betalt 3.000 for tre måneder?",
+      "reason": "Type B: Missing Info. Kunden kender ikke sit specifikke tillæg eller abonnement, men giver i stedet en totalpris for en periode, som sælgeren skal bruge til at regne baglæns fra."
+    },
+    {
+      "anchor_utterance_index": 50,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Det er jo en halvering, ikke også?",
+      "seller_action": "Ja, ja, 100%, det er det. Øhm, altså, man kan jo også sige, det der jo også er med det inde ved LokalEnergi, der er to faktorer i det. Hvis man har den variable aftale, øhm, så kan jeg se her, at så har man et tillæg til spotprisen på det, der lyder på 10 øre per kilowatt-time. Det vil sige, hver gang at de køber strøm til 1 krone, så sælger de den til dig til 1 krone og 10 øre. Det er jo ud over deres abonnementspris, som lyder på 49 kroner om måneden. Der kan jeg gøre det til 29 kroner om måneden. Så har de et netadministrations, øh, hvad hedder det, gebyr på 10 kroner om måneden også. Øhm.",
+      "reason": "Type C: Præsentation af Regnestykket. Kunden opsummerer besparelsen som en 'halvering', og sælgeren uddyber de konkrete prisforskelle (tillæg, abonnement og gebyrer) for at validere regnestykket."
+    },
+    {
+      "anchor_utterance_index": 2,
+      "suggested_tests": [
+        "opening"
+      ],
+      "customer_text": "Goddag, hvem er du?",
+      "seller_action": "Jeg ringer lige ganske kort herinde fra energiselskabet El. Det var lige ved at falde i elregningen derhjemme. Kan det passe til dig, der skulle stå for den?",
+      "reason": "Dette er det klassiske åbningsscenarie. Sælgeren har indledt kontakten, og kunden reagerer ved at spørge ind til, hvem der ringer, hvilket giver sælgeren muligheden for at præsentere sig selv og formålet med opkaldet."
+    }
+  ]
+}

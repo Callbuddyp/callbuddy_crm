@@ -1,0 +1,11 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments and local settings
+.env
+.venv/
+
+# OS files
+.DS_Store

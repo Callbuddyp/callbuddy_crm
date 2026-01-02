@@ -1,0 +1,132 @@
+{
+  "audio_name": "260918_68d54b7f9ef3f_004525569535 (2) (1).mp3",
+  "audio_stem": "260918_68d54b7f9ef3f_004525569535 (2) (1)",
+  "cases": [
+    {
+      "anchor_utterance_index": 95,
+      "suggested_tests": [
+        "close"
+      ],
+      "customer_text": "Okay.",
+      "seller_action": "Og så tager vi en opfølgning i januar, når jeg kommer tilbage. Og hvis ikke du er tilfreds, så får du lov til at skælde mig ud. Så kan du komme forbi til kaffe i Viborg.",
+      "reason": "Kunden giver her sit første 'Okay' til sælgerens forslag om at skifte pr. 1.11. for at 'bevise sit værd' i de to koldeste måneder. Dette markerer overgangen til Commitment Zone, hvor kunden accepterer rammerne for aftalen."
+    },
+    {
+      "anchor_utterance_index": 99,
+      "suggested_tests": [
+        "close"
+      ],
+      "customer_text": "Sådan. Jo, det lyder sgu fornuftigt. Det er dejligt.",
+      "seller_action": "Det er godt.",
+      "reason": "Kunden bekræfter eksplicit, at løsningen lyder fornuftig. Herefter går sælgeren direkte videre til at indhente CPR-nummer (administration), hvilket gør dette til det primære closing-punkt i samtalen."
+    },
+    {
+      "anchor_utterance_index": 15,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Ja, ja. Hvis der er noget at komme efter. Men ved du hvad, jeg har ikke så lang tid siden, jeg har skiftet.",
+      "seller_action": "Næ, sig noget mere.",
+      "reason": "Kunden bruger 'Tid/Behov' indvendingen ved at sige, at han lige har skiftet udbyder, hvilket indikerer, at han ikke føler et behov for at skifte igen nu."
+    },
+    {
+      "anchor_utterance_index": 25,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Jamen, ved du hvad, ved du hvad, og det, det, det regner jeg med, at jeg stopper med inden udgangen af i år, nemlig. Jeg er en af dem, der skal få fjernvarme.",
+      "seller_action": "Nå, så det godt, jeg kan nå at spare dig nogle penge inden da, jo. Det er da altid lækkert.",
+      "reason": "Kunden afviser relevansen af et gastilbud, da han snart skifter til fjernvarme. Dette er en 'Behov' indvending."
+    },
+    {
+      "anchor_utterance_index": 29,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Jamen, det har jeg samme sted. Jeg får noget samlet rabat, og så har jeg noget.",
+      "seller_action": "Det har de faktisk ikke. De har faktisk ikke noget samlet rabat, for det må man ikke lave.",
+      "reason": "Kunden udtrykker modstand ved at henvise til en samlerabat hos nuværende udbyder (OK), hvilket er en barriere for at skifte."
+    },
+    {
+      "anchor_utterance_index": 35,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Nå, ved du hvad, og jeg synes, det er uoverskueligt. Jeg synes fandme, det er uoverskueligt. Ved du hvad, når alt kommer til alt, så sparer du ikke rigtig noget alligevel, jo. Det gør du sgu.",
+      "seller_action": "Og det er da også, jamen, jeg er jo ked af at sige det, men jeg synes altså, der er forskel på at købe, øhm, sin fødevarer i en fødevarebutik, sin energi af et energiselskab, og sin, sin benzin af en tankstation. Det ville jo være underligt, hvis vi skulle til at hente vores fødevarer nede hos vores energiselskab. Og det, jeg vil gøre for dig, det er, at jeg vil lave en el- og gasaftale med dig igennem et energiselskab, som sælger energiløsninger. Og så vil jeg gøre det billigere end der, hvor du er kun i dag.",
+      "reason": "Kunden udtrykker mistillid til produktet generelt ('man sparer ikke noget alligevel') og synes processen er uoverskuelig. Dette er en 'Tillid/Værdi' indvending."
+    },
+    {
+      "anchor_utterance_index": 53,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Nej, det er alligevel det. Jeg er da alligevel nået at spare ret meget. Jeg synes fandme lige, men jeg har prøvet det nogle gange, og ved du hvad, jeg synes, det er så overskueligt. Jeg synes sgu, der er noget, fordi der er nogen, de tager abonnement, og ikke nogen gør, og det er spotpris og ting, altså, ved du hvad, jeg synes fandme ikke, der er noget. Jeg kan ikke se det på pengepungen, det kan jeg altså ikke.",
+      "seller_action": "Kan du ikke det? ... Hvad er det for nogle firmaer, du har været i kløerne på da?",
+      "reason": "Kunden gentager og uddyber sin skepsis over for besparelser i branchen generelt. Han kan ikke se værdien 'på pengepungen'."
+    },
+    {
+      "anchor_utterance_index": 107,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Ja, men ved du hvad, det, jeg er ikke nøg for at oplyse CPR-nummeret en gang.",
+      "seller_action": "Nej, det er jeg ved godt, det er jeg sgu godt klar over, men jeg kan ikke bruge det til en skid endnu. Jeg skal ikke have dit MitID'er.",
+      "reason": "En klassisk 'Tillid' indvending (Hard Stop) i afslutningsfasen, hvor kunden nægter at oplyse personfølsomme oplysninger."
+    },
+    {
+      "anchor_utterance_index": 133,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Prøv at høre her, hvis du nu sender det, vi har snakket om, på mail til me, så sker der altså. Så svarer jeg.",
+      "seller_action": "Det er et fono, Morten. Det er et CPR-nummer på dig. Jeg har ikke noget farligt, I har givet til.",
+      "reason": "Kunden bruger 'Send en mail' som en undvigemanøvre for at undgå at tage beslutningen eller give sit CPR-nummer over telefonen."
+    },
+    {
+      "anchor_utterance_index": 199,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Ja, men prøv at høre, det er fordi, det er på mit budget, og jeg har ikke lige mit budgetnummer her.",
+      "seller_action": "Nej, men altså, så går du bare ind og ændrer det bagefter. På bagsiden af dit kort, der står der et registreringsnummer og kontonummer, så kan vi altid ændre det bagefter.",
+      "reason": "Kunden forsøger at blokere for betalingsoplysningerne med en praktisk hindring (mangler kontonummer til budgetkonto)."
+    },
+    {
+      "anchor_utterance_index": 19,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Med OK.",
+      "seller_action": "Altså tankstationen?",
+      "reason": "Type A: Konkurrent-Identifikation. Kunden identificerer eksplicit sit nuværende selskab som OK, hvilket giver sælgeren mulighed for at målrette sin sammenligning mod OK's prisstruktur."
+    },
+    {
+      "anchor_utterance_index": 53,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Nej, det er alligevel det. Jeg er da alligevel nået at spare ret meget. Jeg synes fandme lige, men jeg har prøvet det nogle gange, og ved du hvad, jeg synes, det er så overskueligt. Jeg synes sgu, der er noget, fordi der er nogen, de tager abonnement, og ikke nogen gør, og det er spotpris og ting, altså, ved du hvad, jeg synes fandme ikke, der er noget. Jeg kan ikke se det på pengepungen, det kan jeg altså ikke.",
+      "seller_action": "Kan du ikke det?",
+      "reason": "Type C: Præsentation af Regnestykket. Kunden udtrykker skepsis over for besparelser og manglende gennemsigtighed i markedet (abonnementer vs. spotpris). Dette er det kritiske øjeblik, hvor sælgeren skal begynde at opstille sit regnestykke."
+    },
+    {
+      "anchor_utterance_index": 101,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Nu siger du, I er, I, I, I de første tre år, øh, fire øre første år, ikke?",
+      "seller_action": "Nej, fem øre, fire øre, tre øre og to øre. Og det ender på to. Det ender på to.",
+      "reason": "Type C: Præsentation af Regnestykket. Kunden spørger ind til de specifikke tal i sælgerens loyalitetsmodel (tillæg i øre), hvilket tester agentens evne til at validere og bekræfte de præsenterede tal korrekt."
+    },
+    {
+      "anchor_utterance_index": 2,
+      "suggested_tests": [
+        "opening"
+      ],
+      "customer_text": "Det er dig der har ringet til mig.",
+      "seller_action": "Ja. Ja, det var det. Og så ringede du tilbage til mig.",
+      "reason": "Scenariet markerer samtalens reelle start efter den indledende hilsen. Kunden ringer tilbage (callback), og parterne etablerer her kontakten og formålet med opkaldet."
+    }
+  ]
+}

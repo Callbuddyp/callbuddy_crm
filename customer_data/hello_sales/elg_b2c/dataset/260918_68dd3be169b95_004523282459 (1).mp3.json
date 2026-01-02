@@ -1,0 +1,87 @@
+{
+  "audio_name": "260918_68dd3be169b95_004523282459 (1).mp3",
+  "audio_stem": "260918_68dd3be169b95_004523282459 (1)",
+  "cases": [
+    {
+      "anchor_utterance_index": 151,
+      "suggested_tests": [
+        "close"
+      ],
+      "customer_text": "Nej, men det ville da være meget dejligt.",
+      "seller_action": "Det er jeg glad for, du siger. Og ved du hvad, så det der mega høje abonnement, du har sagt ja til nede i Elgiganten, det sætter jeg ned til 9 kroner. Og fordi vi bor begge to på Fyn, så giver jeg gratis oprettelse.",
+      "reason": "Kunden udtrykker accept af løsningen (at slippe for bekymringer om elpriser), hvorefter sælgeren går direkte i gang med at præsentere de specifikke lukke-betingelser (pris og gratis oprettelse) for at sikre aftalen."
+    },
+    {
+      "anchor_utterance_index": 9,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Øh, det kommer an på, hvad det er.",
+      "seller_action": "Det drejer sig om din elaftale derhjemme og angående de her stigende priser, vi er, er, er, der forekommer lige nu. Det ved jeg ikke, om du har lagt mærke til?",
+      "reason": "Kunden udtrykker skepsis/modstand mod at give sælgeren tid til at tale, før emnet er kendt (Time/Interest barrier)."
+    },
+    {
+      "anchor_utterance_index": 17,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Næ, det er ikke lige noget, jeg sådan går op i, må jeg nok sige. Nej.",
+      "seller_action": "Du er ikke så heldig at have medarbejderrabat og have ansat dig?",
+      "reason": "Kunden udtrykker manglende interesse og behov (Indifference objection). Sælgeren skal her forsøge at skabe relevans."
+    },
+    {
+      "anchor_utterance_index": 69,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Det tror jeg i hvert fald, at jeg lige vil tænke over.",
+      "seller_action": "Ja. Hvornår har du sidst kigget på en elregning sidste gang?",
+      "reason": "Kunden bruger en klassisk tænke-over-det indvending for at udskyde beslutningen (Decision/Delay barrier)."
+    },
+    {
+      "anchor_utterance_index": 117,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Jeg ved ikke engang, hvad det er, altså, jeg, jeg har jo lige skiftet dertil, så jeg ved jo ikke engang, hvad, hvad det koster.",
+      "seller_action": "Har du fået en mail på det endnu?",
+      "reason": "Kunden udtrykker usikkerhed og modstand, fordi hun lige har skiftet selskab og derfor ikke ser et aktuelt behov for at skifte igen."
+    },
+    {
+      "anchor_utterance_index": 13,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Øh, Andel.",
+      "seller_action": "Du har valgt Andel Energi?",
+      "reason": "Type A: Konkurrent-identifikation. Kunden navngiver sit nuværende selskab (Andel), hvilket gør det muligt for sælgeren at målrette sin sammenligning mod deres specifikke gebyrer senere i samtalen."
+    },
+    {
+      "anchor_utterance_index": 97,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Hold da op, det var også noget, der lå nede i Svendborg.",
+      "seller_action": "Det kan da være os?",
+      "reason": "Type B: Missing Info / Research. Kunden kan ikke huske navnet på sit tidligere selskab, og sælgeren forsøger at hjælpe med at identificere dem for at forstå kundens historik (SEF/Sydfyns Elforsyning)."
+    },
+    {
+      "anchor_utterance_index": 117,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Jeg ved ikke engang, hvad det er, altså, jeg, jeg har jo lige skiftet dertil, så jeg ved jo ikke engang, hvad, hvad det koster.",
+      "seller_action": "Har du fået en mail på det endnu?",
+      "reason": "Type C: Præsentation af Regnestykket. Kunden er usikker på prisen hos den nye leverandør, hvilket giver sælgeren mulighed for at introducere sine egne tal (9 kr. i abonnement) og sammenligne med de typiske priser fra konkurrenten (Elgiganten/Andel)."
+    },
+    {
+      "anchor_utterance_index": 5,
+      "suggested_tests": [
+        "opening"
+      ],
+      "customer_text": "Øh, ja, det er det.",
+      "seller_action": "Du er simpelthen strømmindustri hjemme hos dig selv?",
+      "reason": "Dette er det klassiske åbningsscenarie. Sælgeren (Speaker 1) præsenterer sig selv og sit firma (Energiselskabet El) i ytring 4, hvorefter kunden (Speaker 2) bekræfter, at det er hende, der står for elaftalen. Dette markerer overgangen fra præsentation til selve salgsdialogen."
+    }
+  ]
+}

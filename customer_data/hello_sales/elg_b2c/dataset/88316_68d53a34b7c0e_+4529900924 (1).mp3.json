@@ -1,0 +1,123 @@
+{
+  "audio_name": "88316_68d53a34b7c0e_+4529900924 (1).mp3",
+  "audio_stem": "88316_68d53a34b7c0e_+4529900924 (1)",
+  "cases": [
+    {
+      "anchor_utterance_index": 210,
+      "suggested_tests": [
+        "close"
+      ],
+      "customer_text": "Tak. Jamen så prøv det. Og så, øh.",
+      "seller_action": "Jeg er glad for, at du siger det.",
+      "reason": "Dette er det primære closing-øjeblik (Commitment Zone). Efter en lang samtale og håndtering af kundens tidligere dårlige oplevelser, giver kunden her accept ('Jamen så prøv det'), hvorefter sælgeren bekræfter og bevæger sig mod den formelle oprettelse og indhentning af personoplysninger."
+    },
+    {
+      "anchor_utterance_index": 4,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Ja, og det bliver et nej tak herfra.",
+      "seller_action": "Hvad siger du nej til, unge dam?",
+      "reason": "Kunden kommer med en meget tidlig afvisning (Refleks-nej) lige efter sælgerens introduktion."
+    },
+    {
+      "anchor_utterance_index": 6,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Jeg siger nej tak til at få alle mulige dårlige tilbud.",
+      "seller_action": "Hold da op.",
+      "reason": "Kunden uddyber sin modstand og udtrykker mistillid til tilbud i branchen generelt."
+    },
+    {
+      "anchor_utterance_index": 8,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "For det er ikke første gang, jeg hopper på det.",
+      "seller_action": "Jeg tænker, du skal smage på min mad, før du ved, om du kan lide den. Sæt nu jer og din helt nye livret med, unge dame.",
+      "reason": "Kunden forklarer sin modstand med en dårlig tidligere erfaring, hvilket er en klassisk barriere for tillid."
+    },
+    {
+      "anchor_utterance_index": 112,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Fordi at jeg betaler kun det, jeg bruger, jeg betaler ikke alt muligt andet lort, som alle andre vil have.",
+      "seller_action": "Må jeg fortælle dig noget?",
+      "reason": "Kunden udtrykker, at hun er tilfreds med sin nuværende løsning og argumenterer for, hvorfor hun ikke ønsker at skifte (ingen skjulte gebyrer)."
+    },
+    {
+      "anchor_utterance_index": 138,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Øh, det er noget, der ikke eksisterer mere, fordi jeg fandt jo så ud af, at de var blevet politianmeldt om det flere gange. Og jeg ringer ind til det her firma, og så siger jeg, jeg vil gerne opsige min aftale. Jamen, det kan du ikke, fordi den er bindende. Jeg kan kraftedeme love dig for, der er ikke noget, der er bindende her. Det er tre dage siden, jeg sagde ja tak i telefonen. Og jeg har 14 dages betalingskraft. Nej, det har du ikke, fordi at, øh, du har sagt ja til, at det var en bindende aftale i telefonen, og det har vi på en optagelse af telefonen. I kan rende mig i røven, og jeg kan politianmelde jer lige med det samme. Så hørte jeg ikke mere fra ham. Og jeg gik tilbage til mit.",
+      "seller_action": "Men kan jeg ikke minde dig på en variabel elaftale?",
+      "reason": "En lang begrundelse for mistillid baseret på en traumatisk oplevelse med en anden sælger, der snød kunden med binding og falske optagelser."
+    },
+    {
+      "anchor_utterance_index": 164,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Det, jeg er glad for, det er, at jeg kun betaler for det, jeg bruger, altså.",
+      "seller_action": "Ja, det vil du også gøre ved mig, bare en måned forud ad gangen. Og så opgør vi det hver måned, ikke? Men du skal huske på, når Evi låner dig penge, så betaler du jo nogle kreditomkostninger, du ikke gør ved mig, jo. Og det er jo lige nøjagtig det, der er lidt ærgerligt, det er jo, det er, at de store firmaer tjener en formue på det der.",
+      "reason": "Kunden fastholder sit behov for gennemsigtighed og tryghed ved sin nuværende model som en barriere for at skifte."
+    },
+    {
+      "anchor_utterance_index": 184,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Nej, fanden i helvede. Jeg har travlt, jeg skal hjem og hente mit barn. Jeg har slet ikke tid til at være her.",
+      "seller_action": "Nå, for søren. Jeg kan sætte dig i gang ovre hos mig den 1.11.",
+      "reason": "En tydelig tids-indvending. Kunden forsøger at afslutte samtalen, fordi hun skal hente sit barn."
+    },
+    {
+      "anchor_utterance_index": 186,
+      "suggested_tests": [
+        "objection"
+      ],
+      "customer_text": "Jeg er nødt til at tænke først. Jeg vil, jeg tør simpelthen ikke sige ja, ligesom jeg gjorde sidst, og så får jeg et rap over nallerne. Jeg tør ikke.",
+      "seller_action": "Det kan jeg sgu da godt forstå.",
+      "reason": "En 'vil tænke over det'-indvending kombineret med frygt for at begå samme fejl som tidligere. En stærk følelsesmæssig barriere."
+    },
+    {
+      "anchor_utterance_index": 108,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Jeg har Evi.",
+      "seller_action": "Evi? Hvorfor?",
+      "reason": "Type A: Konkurrent-Identifikation. Kunden navngiver sit nuværende selskab (Ewii/Evi) som direkte svar på sælgerens spørgsmål."
+    },
+    {
+      "anchor_utterance_index": 152,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Øh, det ved jeg ikke lige nu. Det er da luft til vand, tror jeg.",
+      "seller_action": "Er det luft til vand varmepumpe? Og det er 66 83?",
+      "reason": "Type B: Missing Info / Usikkerhed. Kunden er usikker på sin varmekilde (\"det ved jeg ikke lige nu\"), hvilket kræver at sælgeren hjælper med at validere informationen for at kunne beregne prisen korrekt."
+    },
+    {
+      "anchor_utterance_index": 162,
+      "suggested_tests": [
+        "price_comparison"
+      ],
+      "customer_text": "Hvordan kan du sige, du laver en billigere?",
+      "seller_action": "Fordi at man betaler en måned ad gangen forud i stedet for en måned ad, altså, en måned ad gangen bagud. Så du skal ikke låne penge af mig, derfor ved jeg, at jeg har et mindre tillæg. Jeg tager fem øre det første år, fire øre det andet år, tre øre det tredje år, og to øre det fjerde år i tillæg.",
+      "reason": "Type C: Præsentation af Regnestykket. Sælgeren præsenterer de konkrete tal (øretillæg per kWh) og loyalitetsrabatten for at underbygge påstanden om en billigere pris."
+    },
+    {
+      "anchor_utterance_index": 2,
+      "suggested_tests": [
+        "opening"
+      ],
+      "customer_text": "Hej, Hans Peter.",
+      "seller_action": "Goddag, goddag. Jeg ringer fra Energiselskabet El angående din elaftalen derhjemme. Er det dig, der er minister for den del?",
+      "reason": "Dette er det klassiske åbningsscenarie. Sælgeren har præsenteret sit navn (Hans Peter), kunden anerkender dette, hvorefter sælgeren præsenterer firmaet (Energiselskabet El) og formålet med opkaldet."
+    }
+  ]
+}
