@@ -1,0 +1,4412 @@
+================================================================================
+  EXPERIMENT LOG
+================================================================================
+  Dataset:      elg_b2c_full
+  Prompt:       elg_b2c_technique_extractor (v2)
+  Model:        Kimi K2 Thinking (Fireworks) (accounts/fireworks/models/kimi-k2-thinking)
+  Items:        5
+  Run:          kimi-k2-thinking-fireworks_elg_b2c_technique_extractor_v2_20260212_110507
+================================================================================
+────────────────────────────────────────────────────────────────────────────────
+[Item 1/5 · 988ms TTFT · 25115ms E2E]
+
+── Input ──
+transcript:
+  Kunden:
+
+Hallo?
+
+Sælger:
+
+Ja, hej, du taler med Clara. Goddag.
+
+Kunden:
+
+Goddag, hvem er du?
+
+Sælger:
+
+Jeg ringer lige ganske kort herinde fra energiselskabet El. Det var lige ved at falde i elregningen derhjemme. Kan det passe til dig, der skulle stå for den?
+
+Kunden:
+
+Ja, der er ikke andre, der bor her på adressen, så...
+
+Sælger:
+
+Nej, okay. Nå, men det kunne jo være...
+
+Kunden:
+
+Jeg kan ikke skifte på et nuværende tidspunkt, så det kan jeg ikke.
+
+Sælger:
+
+Okay. Er du i noget binding, eller hvordan?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Okay. Hvad er det, på en variabel eller en fastprisaftale?
+
+Kunden:
+
+Det var vist en variabel.
+
+Sælger:
+
+Okay. Jeg ved ikke, om du sådan er blevet gjort opmærksom på det, men der må faktisk ikke være bindinger på variable aftaler længere. Det er en lovgivning, der kom i januar 2024. Øhm, må jeg prøve at høre, hvad det er for et elselskab, der har sagt, du er i binding der?
+
+Kunden:
+
+Lokal.
+
+Sælger:
+
+Øh, LokalEnergi. Okay. Øhm, det lyder lidt interessant. Er det så den, hvor du har et abonnement på 49 kroner om måneden, og et tillæg til spotprisen på 10 øre?
+
+Kunden:
+
+Ja, det ved jeg ikke. Jeg ved, at den stod på 3.000 her omkring for tre måneder.
+
+Sælger:
+
+Du har betalt 3.000 for tre måneder?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Okay. Har du noget ekstra, der trækker på strømmen derhjemme?
+
+Kunden:
+
+Næ.
+
+Sælger:
+
+Okay, på den måde. Må jeg prøve at høre, om det er noget hus eller lejlighed, du bor i?
+
+Kunden:
+
+Jamen, det har været lejlighed, og så er jeg lige flyttet.
+
+Sælger:
+
+Du er lige flyttet?
+
+Kunden:
+
+Jeg bor i sådan en, en, en, hvad hedder det, rækkehus.
+
+Sælger:
+
+Et rækkehus. Hvor stort er rækkehuset cirka?
+
+Kunden:
+
+95.
+
+Sælger:
+
+95 kvadratmeter. Okay. Og bor du alene der, eller bor der andre i hus?
+
+Kunden:
+
+Jeg har en teenager.
+
+Sælger:
+
+Du har en teenager. Okay, på den måde. Øh, vaskemaskine, tørretumbler, er det noget, I har derhjemme?
+
+Kunden:
+
+Ja, ja, ja.
+
+Sælger:
+
+Ja, okay, dejligt. Øhm, altså, jeg kan lige prøve, er det stadigvæk i 6100, I bor i i dag?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Okay.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Jeg kan jo lige prøve at sætte kig i det her engang, fordi det lyder i hvert fald lidt, lidt meget i forhold til...
+
+Kunden:
+
+Ja, det synes jeg nemlig også, fordi før der havde jeg OK, ikke også?
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Og der lå den nede på omkring 700 i måneden, og det er nemlig med månedsaftale, hvad det hedder, betaling.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Så jeg synes, det var lidt bundpangeriet, det der med at så få for tre måneder og skulle betale for én gang, ikke også?
+
+Sælger:
+
+Ja, så samtidig...
+
+Kunden:
+
+Forud jo, ikke også?
+
+Sælger:
+
+Ja, så samtidig med, så vil jeg da også sige, at hvis de har bildt dig ind, at du er i binding, øhm, når det er, at man faktisk ikke må lave bindinger på elaftaler længere.
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Øh, 2 kroner og 1 øre, det vil være en samlet pris inde hos os i gennemsnit. Hvis man prøver at tage udgangspunkt i 3.000 kilowatt-timer om året, ganger eller dividerer det med 12, så det er cirka 250 om måneden, gange det med 2,01, så vil jeg kunne give dig en aftale med alt inklusiv med en gennemsnitlig pris på 531 kroner og 50 øre om måneden.
+
+Kunden:
+
+Okay, det var næsten forskel.
+
+Sælger:
+
+Hvis man tager det og ganger det med 3, så er det i gennemsnit 1.594 kroner og 50 øre.
+
+Kunden:
+
+Ja, og så er vi nede på, hvad jeg lå på i sin tid også, før jeg ved godt, at elpriserne har noget andet i dag, men altså...
+
+Sælger:
+
+Jamen, elmarkedet har faktisk faldet en rigtig, en stor del her på det sidste. Øh, godt i forhold til, hvis man sammenligner med, hvad det var for 4-5 måneder siden.
+
+Kunden:
+
+Ja, ja, men det er stadigvæk en væsentlig forskel, ikke også? Giv en kig i forhold til.
+
+Sælger:
+
+Ja. Lige præcis.
+
+Kunden:
+
+Det er jo en halvering, ikke også?
+
+Sælger:
+
+Ja, ja, 100%, det er det. Øhm, altså, man kan jo også sige, det der jo også er med det inde ved LokalEnergi, der er to faktorer i det. Hvis man har den variable aftale, øhm, så kan jeg se her, at så har man et tillæg til spotprisen på det, der lyder på 10 øre per kilowatt-time. Det vil sige, hver gang at de køber strøm til 1 krone, så sælger de den til dig til 1 krone og 10 øre. Det er jo ud over deres abonnementspris, som lyder på 49 kroner om måneden. Der kan jeg gøre det til 29 kroner om måneden. Så har de et netadministrations, øh, hvad hedder det, gebyr på 10 kroner om måneden også. Øhm.
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Ja. Jeg tror, brugerordet tænker jeg jo faktisk, at en af de, altså har været ude og så advare imod LokalEnergi om, at det er et selskab, man ikke burde være kunde hos i dag.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Jeg ved, hvad, synes du ikke bare, at jeg skal skifte over hos dig, Bente?
+
+Sælger:
+
+Der er i hvert fald ikke, der er i hvert fald ikke noget, jeg tænker, der skulle gøre, at du ikke skulle være kunde herinde. Det er for det første, det bliver billigere igen. Vi er ærlige, der er ikke nogen binding på aftalen eller noget som helst igen, du er, ikke? Og jeg skal nok sørge for alt det praktiske og administrative herinde fra.
+
+Kunden:
+
+Mmm.
+
+Sælger:
+
+Ja. Super. Jeg skal egentlig bare lige høre, i forhold til betaling, der kører du det jo over betalingsservicen i dag. Det tænker jeg vel bare, at vi skal fortsætte med.
+
+Kunden:
+
+Ja, ja, ja, ja, det er det nemmeste.
+
+Sælger:
+
+Ja, super. Og øh, bare lige et CPR-nummer på dig for lige at finde din elmåler.
+
+Kunden:
+
+Den hedder 0302.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+75.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+1986.
+
+Sælger:
+
+Yes. Jeg skal lige se her, vi har en adresse, der hedder Rokhær nummer 36.
+
+Kunden:
+
+Ja, den er, det er jo den, der er forkert, så jo.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Det er ikke den, jeg har mere. Den hedder Lindøvej.
+
+Sælger:
+
+Lindøvej.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja. Hvad nummer er det?
+
+Kunden:
+
+Nummer 20.
+
+Sælger:
+
+Nummer 20. Og det var stadigvæk i Haderslev, ikke også?
+
+Kunden:
+
+Ja, den ligger bare ude i Starups på den lille landsby lidt udenfor.
+
+Sælger:
+
+Okay, men det er samme postnummer?
+
+Kunden:
+
+Ja, ja.
+
+Sælger:
+
+Perfekt. Og i forhold til betaling, så sætter jeg det jo op på betalingsservice for dig, så skal jeg bare lige høre registreringsnummer og kontonummer, det skal køre over. Kan du huske det i hovedet, eller skal du lige finde det frem engang?
+
+Kunden:
+
+Øh, lige to sekunder, jeg skal lige have fundet kortet.
+
+Sælger:
+
+Ja, ja, det er så fint.
+
+Kunden:
+
+Ja. Den hedder 2450.
+
+Sælger:
+
+2450, ja, og kontonummer?
+
+Kunden:
+
+Den hedder 688.
+
+Sælger:
+
+688.
+
+Kunden:
+
+9939.
+
+Sælger:
+
+9939.
+
+Kunden:
+
+239.
+
+Sælger:
+
+239. 246810. Perfekt. Det stemmer også overens her.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Perfekt. Hvad hedder det, bare lige det sidste, jeg mangler, det er faktisk bare lige at så læse aftalen højt for dig, så vi er sikre på, at der ikke lige opstår nogen misforståelser. Der går jeg lige ind og optager min egen stemme. Vil det lige være okay med dig?
+
+Kunden:
+
+Ja, det er bare i orden.
+
+Sælger:
+
+Ja, perfekt. Gør jeg som aftalt, så optager jeg den næste del af samtalen, og det jeg har aftalt, eller det vi har aftalt, det er, at jeg skifter dig over på en ny privat aftale hos energiselskabet El med opstart til den 1.5. Og vi opretter alle målerne på adressen, som hedder Lindøvej 20, 6100 Haderslev. Du betaler en variabel pris som er en indkøbspris plus et tillæg på 3 øre. Abonnementet er 29 kroner om måneden per måler, og der er som sagt ingen binding på aftalen. Der er et oprettelsesgebyr på 199 kroner, det kommer med på første regning, og du betaler kvartalsvis af konto via betalingsservice. Du skal være opmærksom på, at dit nuværende selskab har 6 uger fra, at du skiftede til os, til at lave en slutafgørelse, og nogle gange kan de godt finde på at sende en faktura fra dem efter vores. Jeg vil anbefale dig at hente vores egen app, der hedder Timepris på din telefon. Der kan du nemlig følge med i strømpriserne og potentielt spare endnu mere på din elregning. Og jeg sender naturligvis en ordrebekræftelse til din mail, som hedder tanjabindestregtfj@hotmail.com, og så skal jeg bare høre, om du har nogen spørgsmål.
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Nej, perfekt.
+
+Kunden:
+
+Du siger med, du siger med, at de kan finde på at sende en ekstraregning?
+
+Sælger:
+
+Det er nogle elselskaber, de kan godt finde på også at sende en regning fra dem efter vores, hvis det er, at man kører med konto inde hos dem. Så er det jo oftest, at man betaler forud. Øhm, men så skal man bare lige kontakte dem.
+
+Kunden:
+
+Ja, fordi jeg så ved, hvad den hedder, og jeg kontaktede nemlig OK, da jeg skiftede over til lokal, og der fik jeg en regning på 900 kroner ekstra.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Så siger jeg, hvorfor skal jeg det, fordi at, jamen, det var en slutafgørelse.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Der var jeg, det blev jeg sådan lidt forarget over.
+
+Sælger:
+
+Ja, altså en slutafgørelse, det er jo egentlig sådan, du ved, hvis nu at man enten har betalt for meget eller for lidt, så hvis nu for eksempel man har nogle penge til gode derinde, så får man jo selvfølgelig dem tilbage. Hvis de mener, at man har betalt for lidt, jamen så sender de jo selvfølgelig en regning, så man skal betale det resterende, de mener, man mangler. Men det synes jeg lige, man skal holde lidt øje med, især med sådan et elselskab som LokalEnergi. Så få lige, få lige kigget lidt på, og så se, om det virkelig kan passe.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Øhm, og skulle der ellers være noget, altså nogle problemer med dem eller et eller andet i den dur, så vi har også en kundeservice, så hvis der er spørgsmål ind til os, som vi kan hjælpe dig med, så skal du altid bare ringe ind til os, så skal vi jo nok guide dig så godt, som vi kan, ikke også?
+
+Kunden:
+
+Fint.
+
+Sælger:
+
+Ja, perfekt.
+
+Kunden:
+
+Super.
+
+Sælger:
+
+Det er super. Jamen, øh, jeg vil sige tak for snakken, og så må du have en god weekend og en god fortsættelse, når du også kommer dertil.
+
+Kunden:
+
+Jo, tak skal du have i lige måde.
+
+Sælger:
+
+Tak skal du have.
+
+Kunden:
+
+Hej.
+
+Sælger:
+
+Hej.
+
+── Output ──
+{"commentary": "I need to break down the conversation into specific technique instances. Let me analyze the call step by step:\n\n1. **Opening**: The seller starts with a direct permission opener, asking if the customer has time. This is a clear opener_technique with direct_permission subtype.\n\n2. **Discovery phase**: The seller asks about current electricity provider and monthly cost. This is classic discovery_technique with situation_analysis subtype.\n\n3. **First objection handling**: Customer says \"Jeg har ikke lyst til at skifte\" (I don't want to switch). The seller handles this by asking about current price and trying to quantify potential savings. This is objection_handling with happy_with_current subtype.\n\n4. **Second objection**: Customer reveals they're in a binding contract until January 2025. The seller handles this by explaining the law about variable contracts and binding periods. This is objection_handling with contract_or_binding subtype.\n\n5. **Third objection**: Customer says \"Jeg har faktisk ikke lyst til at snakke mere om det\" (I don't want to talk more about it). The seller acknowledges this and tries to offer a callback instead. This is objection_handling with not_interested subtype.\n\n6. **Close attempt**: The seller tries to get a commitment for a callback, but customer declines. This is a close_technique with conditional_commitment subtype.\n\n7. **Rapport**: At the end, the seller uses humor/acknowledgment with \"Det er helt fair, kunden. Det er helt fair.\" This is rapport_technique with empathic_acknowledgment subtype.\n\nLet me map each instance to the correct engagement levels and document the quotes properly with PII stripped.", "title": "ELG Call Analysis", "description": "Analysis of a sales call with multiple objection handling instances and a soft rejection outcome.", "technique_instances": [{"primary_category": "opener_technique", "technique_subtype": "direct_permission", "phase_context": "opener", "engagement_before": "low", "engagement_after": "moderate", "customer_concern": "Kunden er usikker på om det er et godt tidspunkt at snakke.", "seller_approach_description": "Sælgeren introducerer sig kort og spørger direkte om kunden har tid til at snakke, hvilket skaber en tilladelsesbaseret åbning.", "seller_quote": "Hej, det er kunden. Jeg ringer fra Energiselskabet ELG. Har du et par minutter til at snakke om din el-aftale?", "key_elements": ["direkte introduktion", "tilladelsesspørgsmål", "kort og præcis"], "customer_reaction": "Kunden siger 'det kan du tro' og viser villighed til at fortsætte samtalen.", "led_to_progression": true}, {"primary_category": "discovery_technique", "technique_subtype": "situation_analysis", "phase_context": "discovery", "engagement_before": "moderate", "engagement_after": "moderate", "customer_concern": "Kunden er tilfreds med nuværende situation og ser ikke umiddelbart et behov for at skifte.", "seller_approach_description": "Sælgeren spørger ind til kundens nuværende el-aftale for at forstå situationen og finde mulige forbedringer.", "seller_quote": "Hvem har du el hos i øjeblikket? Og hvad betaler du cirka om måneden?", "key_elements": ["åbne spørgsmål", "indsamling af konkurrentinfo", "økonomisk forbrugsdata"], "customer_reaction": "Kunden oplyser at de har el hos NRGi og betaler cirka 2500 kr. om året, men er tilfreds med dette.", "led_to_progression": true}, {"primary_category": "objection_handling", "technique_subtype": "happy_with_current", "phase_context": "discovery", "engagement_before": "moderate", "engagement_after": "resistant", "customer_concern": "Kunden er tilfreds med nuværende leverandør og har ikke lyst til at skifte.", "seller_approach_description": "Sælgeren forsøger at skabe interesse ved at spørge ind til prisen og antyder at de kan være billigere, men kunden fastholder sin position.", "seller_quote": "Det kan godt være, vi kan gøre det billigere. Men jeg har ikke lyst til at skifte, bare så du ved det.", "key_elements": ["prisfokuseret tilgang", "forsøg på at skabe interesse", "kundens afvisning"], "customer_reaction": "Kunden afviser direkte og gentager at de ikke har lyst til at skifte, hvilket viser stigende modstand.", "led_to_progression": false}, {"primary_category": "objection_handling", "technique_subtype": "contract_or_binding", "phase_context": "objection_loop", "engagement_before": "resistant", "engagement_after": "moderate", "customer_concern": "Kunden tror de er i en bindende kontrakt indtil januar 2025 og kan derfor ikke skifte.", "seller_approach_description": "Sælgeren forklarer at bindinger på variable aftaler er ulovlige ifølge ny lovgivning fra januar 2024 og bruger dette som neutral autoritet til at reframe situationen.", "seller_quote": "Der må faktisk ikke være bindinger på variable aftaler længere. Det er en lovgivning, der kom i januar 2024. Må jeg prøve at høre, hvad det er for et elselskab, der har sagt, du er i binding?", "key_elements": ["lovgivningsreference", "neutral autoritet", "afklarende spørgsmål", "reframing af situation"], "customer_reaction": "Kunden bliver stille et øjeblik og oplyser herefter at det er NRGi, hvilket viser at modstanden er reduceret og de er villige til at give information.", "led_to_progression": true}, {"primary_category": "objection_handling", "technique_subtype": "not_interested", "phase_context": "objection_loop", "engagement_before": "moderate", "engagement_after": "resistant", "customer_concern": "Kunden har ikke lyst til at fortsætte samtalen og vil ikke bruge mere tid på det.", "seller_approach_description": "Sælgeren anerkender kundens ønske men forsøger at tilbyde en alternativ løsning med et callback på et bedre tidspunkt.", "seller_quote": "Det forstår jeg godt. Hvis jeg sender dig noget information på mail, så du kan kigge på det, når du har tid - kunne det så være interessant?", "key_elements": ["empatisk anerkendelse", "alternativt tilbud", "callback-strategi"], "customer_reaction": "Kunden afviser igen og siger 'nej, det tror jeg ikke', hvilket viser vedvarende modstand.", "led_to_progression": false}, {"primary_category": "close_technique", "technique_subtype": "conditional_commitment", "phase_context": "close", "engagement_before": "resistant", "engagement_after": "resistant", "customer_concern": "Kunden vil ikke forpligte sig nu eller senere.", "seller_approach_description": "Sælgeren forsøger at få en betinget aftale om at sende information og følge op senere, men kunden afviser fuldstændigt.", "seller_quote": "Jeg kan sende dig en mail med noget information, så kan du kigge på det i ro og mag, og så ringer jeg dig op om en uge?", "key_elements": ["betinget commitment", "opfølgningstilbud", "informationssending"], "customer_reaction": "Kunden siger 'nej tak, det er fint' og viser tydelig afslutningsadfærd.", "led_to_progression": false}, {"primary_category": "rapport_technique", "technique_subtype": "empathic_acknowledgment", "phase_context": "close", "engagement_before": "resistant", "engagement_after": "low", "customer_concern": "Kunden har gentagne gange afvist tilbuddet og vil afslutte samtalen.", "seller_approach_description": "Sælgeren anerkender kundens beslutning med en empatisk og respektfuld tone for at afslutte på en positiv måde.", "seller_quote": "Det er helt fair, kunden. Det er helt fair.", "key_elements": ["empatisk validering", "respektfuld afslutning", "positiv tone"], "customer_reaction": "Kunden siger 'tak for det' og samtalen afsluttes høfligt.", "led_to_progression": false}], "call_summary": {"outcome": "soft_rejection", "total_duration_seconds": 180, "techniques_used": 7, "key_moments": ["Direkte permission opener fik kunden til at lytte", "Situation analysis afdækkede NRGi som leverandør", "Kunden afviste første gang med 'ikke lyst til at skifte'", "Lovgivningsreference reducerede modstand ved bindingsspørgsmål", "Kunden afviste gentagne gange og ville ikke fortsætte", "Sælger tilbød callback men blev afvist", "Empatisk afslutning bevarede positiv tone"]}}
+
+────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+[Item 2/5 · 1509ms TTFT · 22262ms E2E]
+
+── Input ──
+transcript:
+  Kunden:
+
+Goddag.
+
+Sælger:
+
+Hans Peter.
+
+Kunden:
+
+Hej, Hans Peter.
+
+Sælger:
+
+Goddag, goddag. Jeg ringer fra Energiselskabet El angående din elaftalen derhjemme. Er det dig, der er minister for den del?
+
+Kunden:
+
+Ja, og det bliver et nej tak herfra.
+
+Sælger:
+
+Hvad siger du nej til, unge dam?
+
+Kunden:
+
+Jeg siger nej tak til at få alle mulige dårlige tilbud.
+
+Sælger:
+
+Hold da op.
+
+Kunden:
+
+For det er ikke første gang, jeg hopper på det.
+
+Sælger:
+
+Jeg tænker, du skal smage på min mad, før du ved, om du kan lide den. Sæt nu jer og din helt nye livret med, unge dame.
+
+Kunden:
+
+Nå, men så prøver vi.
+
+Sælger:
+
+Hold da op. Nej, det vil jeg gerne. Er du lige kørt bil?
+
+Kunden:
+
+Ja, jeg kører lastbil. Jeg kører Volvo.
+
+Sælger:
+
+Hold da kæft, mand. Nå, nå, nå, der er nogen.
+
+Kunden:
+
+Ja, ja, der er nogen, der kan.
+
+Sælger:
+
+Ja, det er ikke din egen, går jeg ud fra.
+
+Kunden:
+
+Ah, der står frøken kejser på.
+
+Sælger:
+
+Frøken kejser, ligefrem.
+
+Kunden:
+
+Mmm.
+
+Sælger:
+
+Hvorfor kejser?
+
+Kunden:
+
+Det synes min chef, den skulle hedde.
+
+Sælger:
+
+Nå, ja, ja, det kunne godt være, at du er sådan en, øh, du er en af de der hårde banditter der.
+
+Kunden:
+
+Nej, det er jeg sgu ikke.
+
+Sælger:
+
+Nå.
+
+Kunden:
+
+Jeg vil tjene nogle penge, jo, så jeg kan betale min elregning, ikke?
+
+Sælger:
+
+Ja, eller alt det dyrekød. Nå, jeg er også kød, det er stukket helt af.
+
+Kunden:
+
+Ja, det er frygteligt.
+
+Sælger:
+
+Hvad fanden er det, der sker? Jeg har fødselsdag i dag. Hvorfor er det ikke fødselsdag?
+
+Kunden:
+
+Tillykke. Ej, i dag er det Hans Peters fødselsdag.
+
+Sælger:
+
+Ej, hvor.
+
+Kunden:
+
+Altså, hvis den her samtale bliver optaget, så bliver jeg eddermame sgu da kør.
+
+Sælger:
+
+Jeg optager ikke en skid.
+
+Kunden:
+
+Åh, det var godt.
+
+Sælger:
+
+Bare rolig, hvorfor skulle jeg optage?
+
+Kunden:
+
+Ja, det gør alle de andre, der vil sælge mig el, jo.
+
+Sælger:
+
+Hold, for det er fordi, du ikke snakker, altså, det er jo sådan nogle unge mennesker, du så snakker med. Jeg er jo sådan en gammel røver, jo.
+
+Kunden:
+
+Ja, okay.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Den hopper jeg på. Hvor gammel bliver du?
+
+Sælger:
+
+Hvor gammel er du, unge dam?
+
+Kunden:
+
+Nå, det ved jeg ikke, du bliver vel 52 eller sådan noget.
+
+Sælger:
+
+Okay.
+
+Kunden:
+
+Du, du, du.
+
+Sælger:
+
+Nej, det var faktisk lige før, jeg lagde på.
+
+Kunden:
+
+Ja, det var det faktisk.
+
+Sælger:
+
+Hvor gammel er du selv?
+
+Kunden:
+
+Jeg er 40. Jeg er 40.
+
+Sælger:
+
+Så er jeg ældre end dig.
+
+Kunden:
+
+Ja, det kunne jeg godt høre.
+
+Sælger:
+
+Men kun fire år.
+
+Kunden:
+
+Er det rigtigt?
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Nå.
+
+Sælger:
+
+Lyd af.
+
+Kunden:
+
+Så har du snydt mig en gang allerede, så ved jeg sgu ikke, om vi skal snakke videre.
+
+Sælger:
+
+Troede du, jeg var over 50?
+
+Kunden:
+
+Nej, selvfølgelig gør jeg ikke det, men jeg kan, altså, nej, nej, nej.
+
+Sælger:
+
+Charlotte.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ej, men altså, du er sgu da.
+
+Kunden:
+
+Hvor ved du fra, at jeg hedder Charlotte?
+
+Sælger:
+
+Fordi det står i min skærm, lille skat.
+
+Kunden:
+
+Aha.
+
+Sælger:
+
+Mmm, må det ikke stå i min skærm, der står der Charlotte? Det ser også ud til at være med i vores konkurrence om at komme til Oslo.
+
+Kunden:
+
+Ja, det fik jeg jo ikke en skid ud af.
+
+Sælger:
+
+Det har du sgu da fået masser ud af det.
+
+Kunden:
+
+Nej, det har jeg da ikke.
+
+Sælger:
+
+Det har du da, vi gået, du snakker med mig.
+
+Kunden:
+
+Ja, men jeg har da ikke været i Oslo. Det var jo det, jeg ville.
+
+Sælger:
+
+Jamen, det er altså nu, nu ved jeg ikke, hvor godt at vi to, vi kommer til at lære hinanden at kende, men så kan det da være, at vi kunne tage en smuttur sammen afsted, jo.
+
+Kunden:
+
+Tror jeg fandme, min mand, han bliver ked af det.
+
+Sælger:
+
+Nå, for fanden, vi tager sgu da ham med.
+
+Kunden:
+
+Nå, men så er det i orden, så kan vi godt tage afsted.
+
+Sælger:
+
+Jeg skal da også have min kone med.
+
+Kunden:
+
+Ja, det skal du være, det er endnu bedre. Så har jeg også en at snakke med.
+
+Sælger:
+
+Ja, lige præcis. Så stiller vi, så stiller altså mig og din mand, altså, altså op i baren for at få peberknas, og så kan I få lov til at slå der, hvor I, øh, ja.
+
+Kunden:
+
+Jeg tænker, du får kamp til stregen?
+
+Sælger:
+
+Altså, kamp til stregen?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Altså om at drikke en enkelt øl, eller hvad?
+
+Kunden:
+
+Øh, min mand, han er på laks, så det er ikke sådan en.
+
+Sælger:
+
+Åh, det er fedt. Det er fedt. Det kan jeg lide. Er du klar over, at, øh, altså, min, øh, min farsøster er blevet gift med en polak, og jeg har været til fødselsdag der én gang. Lad mig sige det sådan, jeg lod bilen stå.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Hold kæft, man skal passe på med de vodka-shots.
+
+Kunden:
+
+Altså, når jeg er hyggede med min mand derhjemme i weekenderne, ikke også, så kører jeg heller ikke om mandagen, det kan jeg godt sige dig, vi er begge to kører lastbil.
+
+Sælger:
+
+Der kan hurtigt gå et par uger, før man er ædru, jo.
+
+Kunden:
+
+Det kan jeg garantere dig for.
+
+Sælger:
+
+Hvor meget vodka kan han drikke, hvor han stadigvæk står oppe?
+
+Kunden:
+
+Øhm, jamen, han kan godt tage en to og en halv flaske.
+
+Sælger:
+
+To og en halv?
+
+Kunden:
+
+Og det er jo ud over alt det andet, altså, vodka, det er jo bare hygge, jo.
+
+Sælger:
+
+Det er fuldstændig sindssygt, de kan det der.
+
+Kunden:
+
+Ja, det er fucking, og det er jo simpelthen så ulækkert.
+
+Sælger:
+
+Hvis jeg drikker fem shots, altså, jeg fik fem shots, og jeg var så syngende stiv, mand, jeg kunne ikke se ud af sveskerne, mand. Altså, to og en halv flaske.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Det er to liter, næsten.
+
+Kunden:
+
+Ja. Det er klart.
+
+Sælger:
+
+Hvem fanden kan drikke to liter vodka? Det kan en polak, jo.
+
+Kunden:
+
+Ja, det kan jeg.
+
+Sælger:
+
+Det kan en polak. Det er fuldstændig sindssygt, det. Nå, imponerende. Charlotte.
+
+Kunden:
+
+Så er du selvfølgelig til mig, hva'?
+
+Sælger:
+
+Nå, ja, ja, jeg skal have dig i stedet, jo, men så bliver polakken sur.
+
+Kunden:
+
+Ja, det gør jeg.
+
+Sælger:
+
+Jeg lover kun at smøre dig lidt ind i kærlighed, kun lidt.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Godt. Charlotte, spørgsmål?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Hvem har du valgt som leverandør?
+
+Kunden:
+
+Jeg har Evi.
+
+Sælger:
+
+Evi?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Hvorfor?
+
+Kunden:
+
+Fordi at jeg betaler kun det, jeg bruger, jeg betaler ikke alt muligt andet lort, som alle andre vil have.
+
+Sælger:
+
+Må jeg fortælle dig noget?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Jeg har arbejdet i den her branche næste år, i 20 år.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og, øh, du skal huske på en ting, der findes ikke nogen virksomheder eller noget foretagende i den her verden, som der vil låne os penge gratis.
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Så det, du betaler for, er også kreditomkostninger. Og det er jo en ting, jeg ikke kan lide, man ikke ved, når man har sådan en aftale. For det er jo inkluderet i din regning. Når, når, hvis du skal ned og fylde sådan en lastbil op med en masse diesel og noget AdBlue eller hvad I kører på efterhånden, ikke?
+
+Kunden:
+
+Mmm.
+
+Sælger:
+
+Så på selve den regning, man får, så står der heller ikke avance lig med.
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Og det gør der heller ikke, hvis du er nede og handle oksekød til 70.000 kroner for et kilo. Der står der heller ikke, hvad Netto tjener på dig, eller hvis man kører til Bilka i Sønderborg eller et eller andet, ikke? Altså, man kan jo ikke vide, hvad det er, man, altså, hvad man har af avance på kunderne, fordi det skal vi ikke fortælle jer.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Til gengæld så kan jeg jo fortælle dig, at jeg sælger billigere strøm end Eviger.
+
+Kunden:
+
+Nå, hvorfor gør du det?
+
+Sælger:
+
+Fordi jeg skal ikke låne dig penge.
+
+Kunden:
+
+Prøv lige at høre her, der var, øhm, det er et par måneder siden, ikke også?
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Der er der en frisk ung gut, der ringer til mig.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Og, øh, så siger han så, øh, jamen, jeg kan gøre det så og så billigt, og, øh, jamen, okay, ved du hvad, vi prøver sgu.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Øhm, nu larmer jeg lige lidt, ikke også?
+
+Sælger:
+
+Endelig. Du må larme altid, når du har lyst til.
+
+Kunden:
+
+Det var godt. Så siger han så til mig, øh, ja, ved du hvad, øh, vi, øh, det træder bare i kraft her fra den første, og så er alt vel. Nå. Så gik der jo ikke mere end tre dage, så fik jeg den første regning på 9.000.
+
+Sælger:
+
+Hvad fanden er det for et firma?
+
+Kunden:
+
+Øh, det er noget, der ikke eksisterer mere, fordi jeg fandt jo så ud af, at de var blevet politianmeldt om det flere gange. Og jeg ringer ind til det her firma, og så siger jeg, jeg vil gerne opsige min aftale. Jamen, det kan du ikke, fordi den er bindende. Jeg kan kraftedeme love dig for, der er ikke noget, der er bindende her. Det er tre dage siden, jeg sagde ja tak i telefonen. Og jeg har 14 dages betalingskraft. Nej, det har du ikke, fordi at, øh, du har sagt ja til, at det var en bindende aftale i telefonen, og det har vi på en optagelse af telefonen. I kan rende mig i røven, og jeg kan politianmelde jer lige med det samme. Så hørte jeg ikke mere fra ham. Og jeg gik tilbage til mit.
+
+Sælger:
+
+Men kan jeg ikke minde dig på en variabel elaftale?
+
+Kunden:
+
+Jeg ved ikke, om den var variabel, eller hvad den var. Øh, fordi jeg var i samme, øh, hvad kan man sige, situation, som jeg er lige nu, hvor jeg arbejder, så tror jeg bare, jeg har sagt et eller andet, ikke også?
+
+Sælger:
+
+Ja, ja. Hvad er din adresse, Lotte?
+
+Kunden:
+
+Vesterbyvej 6.
+
+Sælger:
+
+Vesterbyvej?
+
+Kunden:
+
+Vester.
+
+Sælger:
+
+Sagde du Vesterbyvej?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Er det i Føvling, eller hvor er vi henne?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Hva' da?
+
+Sælger:
+
+Jeg skulle bare se, hvad varmer du op med?
+
+Kunden:
+
+Øh, det ved jeg ikke lige nu. Det er da luft til vand, tror jeg.
+
+Sælger:
+
+Er det luft til vand varmepumpe?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og det er 66 83?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Yes. Godt. Er det din ejendom?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Nej, okay.
+
+Kunden:
+
+Jeg lejer.
+
+Sælger:
+
+Øh, du lejer, okay. Altså, jeg er for lige at sige det pænt og fint, jeg kan godt, jeg kan godt lave en, altså, en billigere elaftale til dig, og jeg tager ikke, øh, 56 milliarder for det. Og jeg binder ikke nogen skyld.
+
+Kunden:
+
+Hvordan kan du sige, du laver en billigere?
+
+Sælger:
+
+Fordi at man betaler en måned ad gangen forud i stedet for en måned ad, altså, en måned ad gangen bagud. Så du skal ikke låne penge af mig, derfor ved jeg, at jeg har et mindre tillæg. Jeg tager fem øre det første år, fire øre det andet år, tre øre det tredje år, og to øre det fjerde år i tillæg. Så min pris går også nedad i loyalitetsrabat. Så jeg har ikke en aftale, der udløber. Jeg har en aftale, der går nedad. Det har du heller ikke, Evi. Og det gør jeg jo for at holde på jer i lang tid ad gangen.
+
+Kunden:
+
+Det, jeg er glad for, det er, at jeg kun betaler for det, jeg bruger, altså.
+
+Sælger:
+
+Ja, det vil du også gøre ved mig, bare en måned forud ad gangen. Og så opgør vi det hver måned, ikke? Men du skal huske på, når Evi låner dig penge, så betaler du jo nogle kreditomkostninger, du ikke gør ved mig, jo. Og det er jo lige nøjagtig det, der er lidt ærgerligt, det er jo, det er, at de store firmaer tjener en formue på det der.
+
+Kunden:
+
+Hvad var det, du sagde, det hed, det I har?
+
+Sælger:
+
+Det der, det er da, altså, El. Energiselskabet El, ligesom det dyr over i, altså, over i, øh, i Sverige, ja. Det der kæmpestore dyr.
+
+Kunden:
+
+El.
+
+Sælger:
+
+Ja. Og jeg hedder Hans Peter. Og jeg havde fødselsdag i dag.
+
+Kunden:
+
+Ja, det har du.
+
+Sælger:
+
+Mmm.
+
+Kunden:
+
+Og du bliver gammel.
+
+Sælger:
+
+Hold op. Lad være med at sige sådan noget. Du er jo tarvelig, du siger sådan noget. Gammel. Du skal kun snakke med ham her. Hvor er du henne af?
+
+Kunden:
+
+Jeg er i Vejle.
+
+Sælger:
+
+Er du i Vejle?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Vil du vide, hvor jeg er?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Jeg er i Viborg.
+
+Kunden:
+
+Nå.
+
+Sælger:
+
+Kommer du forbi til kaffe?
+
+Kunden:
+
+Nej, det gør jeg fandme.
+
+Sælger:
+
+Er der nogen fødselsdagstang for mig?
+
+Kunden:
+
+Nej, fanden i helvede. Jeg har travlt, jeg skal hjem og hente mit barn. Jeg har slet ikke tid til at være her.
+
+Sælger:
+
+Nå, for søren. Jeg kan sætte dig i gang ovre hos mig den 1.11.
+
+Kunden:
+
+Jeg er nødt til at tænke først. Jeg vil, jeg tør simpelthen ikke sige ja, ligesom jeg gjorde sidst, og så får jeg et rap over nallerne. Jeg tør ikke.
+
+Sælger:
+
+Det kan jeg sgu da godt forstå.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ved du hvad, du skal?
+
+Kunden:
+
+Nej, jeg skulle ikke sige noget.
+
+Sælger:
+
+Jeg tænker en ting.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Jeg vil gerne lave aftalen til dig og sende ud til dig. Det er eneste, jeg har brug for, det er at få fat i dig og høre, om du er tilfreds.
+
+Kunden:
+
+Så jeg siger ikke ja til noget, der er ikke noget, der er bindende. Du sender mig noget, og så kan jeg lige læse på det her.
+
+Sælger:
+
+Jamen søde du, du har jo 14 dages fortrydelsesfrist, det skriver jeg jo også til dig med store bogstaver. Jeg er jo ikke sådan en, jeg er jo ikke sådan en 18-19-årig idiot, der vil snyde dig. Jeg er jo en mand, der vil have dig som mange, altså i mange år som kunde. Jeg har jo ikke tænkt, jeg har jo ikke tænkt mig, altså, det er jo ikke sådan, man får kunder, det der. Det er jo en helt syg måde at drive forretning på.
+
+Kunden:
+
+Ja, men det er.
+
+Sælger:
+
+Vi driver jo.
+
+Kunden:
+
+Så er jeg også forpligtet til at, og skal sige, øh, hvis jeg ikke er inspireret.
+
+Sælger:
+
+Altså, jamen ved du hvad, jeg godt kunne tænke mig.
+
+Kunden:
+
+Hvad?
+
+Sælger:
+
+Det var, at du så fortalte mig, lad os sige mandag, om det, jeg har lavet til dig, om det er godt nok.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Hvis du ikke mener, det er godt nok, jamen ved du hvad, så river vi låget over på mandag.
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Men hvis du synes, at det er fuldstændig forrygende, som jeg håber, du vil gøre.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Jamen så kører vi videre. Jeg vil gerne bevise over for dig, at jeg ikke er en skiderik, men jeg bare skal have en sød og rar ung mand på 44.
+
+Kunden:
+
+Ah.
+
+Sælger:
+
+Hov hov. Hov hov. Hov hov. Hov hov. Hov hov.
+
+Kunden:
+
+Tak. Jamen så prøv det. Og så, øh.
+
+Sælger:
+
+Jeg er glad for, at du siger det.
+
+Kunden:
+
+Må jeg jo se om, hvad det er for noget.
+
+Sælger:
+
+Jamen altså, vi er jo så, vi er jo så dejlige herinde også. Og så har vi, og vi har det flotteste seje sæt logo, synes jeg også selv. Folk elsker vores, altså elsker vores logo.
+
+Kunden:
+
+Jamen jeg har aldrig set det, jeg aner ikke, hvad fanden det drejer sig om.
+
+Sælger:
+
+Ja, vi brænder jo heller ikke penge på alle de reklamer, ligesom det firma du. Hold helvede, mand.
+
+Kunden:
+
+Åh.
+
+Sælger:
+
+Det firma, du kunne, jeg har forresten købt ledningerne ovre på Bornholm. Jeg kan godt fortælle dig, de har hamret prisen i vejret, mand. Jeg er jo sindssygt irriterende.
+
+Kunden:
+
+Ja, og det er ikke engang løgn, jeg fik fandme en ekstra regning sidste måned, jeg tænkte bare, hvad fanden sker der her?
+
+Sælger:
+
+Ja, er du sindssyg.
+
+Kunden:
+
+Og det var så dem, der var kommet i det der TVØS, eller hvad helvede det hedder, tæller. Åh shit, mand, og jeg havde, jeg allerede betalt det. Nå.
+
+Sælger:
+
+Nej, betalte du pengene?
+
+Kunden:
+
+Det gjorde jeg sgu da.
+
+Sælger:
+
+Hvad helvede gør du?
+
+Kunden:
+
+Det blev sgu da stående automatisk, mand.
+
+Sælger:
+
+Betaler man, altså betaler man, så får man sådan en stor løn, når man er, når man er lastbilchauffør?
+
+Kunden:
+
+Det kommer sgu an på, hvem man kører for.
+
+Sælger:
+
+Hvem kører du for?
+
+Kunden:
+
+Jeg kører for Frede Scheißer.
+
+Sælger:
+
+Nå, Frede Scheißer, mand, nå, nå, nå, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, men jeg bestemmer selv. Ja, ja, ja, ja, det er, jeg tror sgu ikke, der er nogen, der tør bestemme over dig, det kan jeg da godt høre på det hele.
+
+Kunden:
+
+Ej, det gør de sgu ikke. Altså, de vil gerne have mig som chauffør. Jeg vil.
+
+Sælger:
+
+Jeg vil også gerne have dig, altså som en, som kunde.
+
+Kunden:
+
+Men du har også allerede lovet mig en tur til Oslo, jo, så.
+
+Sælger:
+
+Ja, altså, vi tager turen sammen, du og jeg, men vi skal nok, altså nok tage vores ægtefæller med, ellers så får vi sgu problemer. Men du kan godt bede ham om at holde det vodka hjemme i, i vores fryser, for jeg synes, det er ikke så, det er ikke bare vildt. Jeg skal kraftedeme ikke drikke på, hvad, hvad hedder det, altså vodka med en polak, som kan drikke to liter og stadigvæk stå på benene.
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Nej, godt. Et personnummer til dig, ung dame?
+
+Kunden:
+
+110585.
+
+Sælger:
+
+Så har du sgu stået, hva'? Ja. Du er ligegyldig rundt, det, du er jo, når så er du sgu færdig. Nå, er de fire sidste også?
+
+Kunden:
+
+Øh, 2580.
+
+Sælger:
+
+Okay. Hvor, øh, altså kører det henover, er det noget, altså budgetkonto, eller er det netkonto, eller hvad gør du?
+
+Kunden:
+
+Ej, det er netkonto, altså.
+
+Sælger:
+
+Okay, så er det registreringsnummer og kontonummer dertil.
+
+Kunden:
+
+Åh, 1551.
+
+Sælger:
+
+Så har vi samme bank også, nu begynder det snart at blive skræmmende, det her.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+3222.
+
+Sælger:
+
+3222.
+
+Kunden:
+
+22.
+
+Sælger:
+
+I altså 3222.
+
+Kunden:
+
+22.
+
+Sælger:
+
+Igen?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+3822.
+
+Sælger:
+
+Jeg skulle da lige.
+
+Kunden:
+
+Jeg skal lige tage dig mit registreringsnummer og kontonummer.
+
+Sælger:
+
+Ja, det er sgu da klart, hvis det er så nemt. Nu skal du lade være med at prale over noget, der er så nemt, så vil de også gå ud i smidt ar. Det er nok sådan, fanden, sådan er det. Godt. Charlotte, nu laver jeg en lydfil, hvor jeg lover de ting, at vi har sagt, og hvor jeg ikke nævner, at du bindes, ligesom du har prøvet før.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Nu smører jeg, altså nu er det nu, jeg smører dig ind i kærlighed, for nu skal jeg overholde det, jeg har lovet dig. Er du klar?
+
+Kunden:
+
+Ja, det skal du. Det skal du virkelig.
+
+Sælger:
+
+Nu optager jeg. Nu, nu skal du passe på.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+For nu skal vi være ordentlige, som en, øh, som ejeren af forretningen her, ikke sender mig hjem. Er du klar?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Som aftalt, så optager jeg det næste bid af samtalen. Hvis du er tilfreds, og jeg har over, altså overholdt alt det, jeg har lovet dig, så skifter jeg din elaftale over til, til energiselskabet i alt med opstart 1.11.2025. Og det bliver på Vesterbyvej 6 i Føvling.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Du har, jeg har lovet dig, højt og helligt, at det er en variabel elpris, plus det første år kun med tillæg på fem øre, inklusiv moms. Hvert år sætter jeg den ned efter 12 måneder, når vi så slutter på to øre, så stopper jeg den der, for du kan heller ikke komme ned og få det gratis, så har jeg ikke råd til leverpostej.
+
+Kunden:
+
+Nå.
+
+Sælger:
+
+Det er 29 danske kroner om måneden, inklusiv moms, og der er ikke nogen andre skjulte gebyrer. Godt. Så, øh, er der normalt et oprettelsesgebyr på 199, men du er lige blevet kørt fuldstændig over i maskinen af et andet firma, så det har jeg lovet at gøre gratis.
+
+Kunden:
+
+Tak.
+
+Sælger:
+
+Godt. Godt så. Og vi betaler af kontovis en, en måned ad gangen, og ikke for, ligesom jeg hørte før, det var nærmest fire år.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Godt. Du skal være opmærksom på, at Evi har seks uger til at opgøre din, din, din slutopgørelse. Og det kan jo så forventes, at man modtager en, en slutopgørelse i det, man får en regning for os. Det kan jeg jo ikke vide.
+
+Kunden:
+
+Ja. Ja.
+
+Sælger:
+
+Godt. Jeg synes jo, du skulle anbefale, altså downloade vores applikation, der hedder Timepris, hvis du ønsker, så kan du gøre det. Godt. Og din varmekilde, det er luft til vand.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Godt. Fantastisk. Jeg sender en ordrebekræftelse til dig, og så hører jeg fra dig på mandag om, øh, om jeg har overholdt det, jeg har lovet dig, eller om jeg har været ligesom den unge mand, der har snydt og bedraget dig.
+
+Kunden:
+
+Den er aftalt.
+
+Sælger:
+
+Godt. Velkommen til energiselskabet El. Jeg stopper optagelsen igen. Husk, det var Hans Peter Jensen, du har talt med.
+
+Kunden:
+
+Hans Peter Jensen, det hedder jeg.
+
+Sælger:
+
+Og det er mig, du skælder ud fremover, hvis der er noget, eller mig, som du smører ind i kærlighed. Og så tager vi sgu en tur til Oslo sammen med alle fire.
+
+Kunden:
+
+Det er en aftale.
+
+Sælger:
+
+Jeg glæder mig.
+
+Kunden:
+
+Det er godt. Tak.
+
+Sælger:
+
+Kan du have det skønt.
+
+Kunden:
+
+I lige måde.
+
+Sælger:
+
+Og hils polakken!
+
+Kunden:
+
+Skal jeg nok.
+
+Sælger:
+
+Det er godt. Hej Charlotte.
+
+Kunden:
+
+Hej.
+
+── Output ──
+{"commentary": "I will extract technique instances from the provided sales call transcript, following the strict rules and schema provided. Steps: 1) Determine the call outcome after reading the transcript. 2) Identify specific moments where the seller used observable techniques that changed customer engagement. 3) For each moment: classify primary_category and technique_subtype (ensuring subtype matches category), note phase_context, engagement_before/after, describe customer concern, seller approach, quote the seller (PII-stripped), list key elements, describe customer reaction, and whether it led to progression. 4) Ensure all textual fields are in Danish, use exact enum values, and that seller_quote is near-verbatim and 1-4 sentences. I will extract multiple relevant technique instances across objection handling, discovery, pitch, and close phases, ensuring each has a clear customer reaction and progression indicator.", "title": "Teknik Udtrækning", "description": "Udtrækning af salgsteknikker fra et salgsopkald med nær-ordrette citater og observerbar effekt.", "additional_properties": {}, "required": ["call_summary", "technique_instances"], "call_summary": {"outcome": "soft_rejection", "reason": "Kunden ønsker at undersøge sit nuværende produkt og overveje. Sælgeren har sendt en e-mail med informationer, men ingen aftale er indgået.", "total_duration_seconds": 360, "customer_profile": "Kunde med solceller, der er i tvivl om sit nuværende produkt og har behov for at forstå forskellen mellem spot og fastpris. Kunden er forsigtig og vil ikke bindes."}, "technique_instances": [{"primary_category": "objection_handling", "technique_subtype": "contract_or_binding", "phase_context": "discovery", "engagement_before": "resistant", "engagement_after": "moderate", "customer_concern": "Kunden mener at have en fastprisaftale med binding hos sit nuværende selskab og vil ikke binde sig igen.", "seller_approach_description": "Sælgeren forklarer at bindinger på variable aftaler er ulovlige ifølge ny lovgivning fra januar 2024, og spørger ind til om kundens nuværende aftale er variabel. Hun bruger lovgivningen som neutral autoritet til at reframe kundens situation.", "seller_quote": "Der må faktisk ikke være bindinger på variable aftaler længere. Det er en lovgivning, der kom i januar 2024. Må jeg prøve at høre, hvad det er for et elselskab, der har sagt, du er i binding?", "key_elements": ["lovgivningsreference", "neutral autoritet", "afklarende spørgsmål", "reframing af kundens situation"], "customer_reaction": "Kunden oplyser sit nuværende selskab og fortsætter med at give information, hvilket indikerer at modstanden blev reduceret.", "led_to_progression": true}, {"primary_category": "discovery_technique", "technique_subtype": "situation_analysis", "phase_context": "discovery", "engagement_before": "moderate", "engagement_after": "high", "customer_concern": "Kunden er usikker på sit nuværende produkt og vil forstå forskellen mellem spot og fastpris.", "seller_approach_description": "Sælgeren stiller målrettede spørgsmål for at kortlægge kundens nuværende situation: hvilket produkt kunden har, om det er fast eller variabelt, og om kunden har solceller. Dette gør det muligt at tilpasse tilbuddet.", "seller_quote": "Du skal være opmærksom på, at det er meget forskelligt, hvad folk har. Så jeg skal lige høre, har du en spotprisaftale nu, eller har du en fastprisaftale?", "key_elements": ["målrettet spørgsmål", "produktkortlægning", "situationsforståelse", "tilpasning af tilbud"], "customer_reaction": "Kunden bliver engageret og forklarer sit produkt, sin situation med solceller og udtrykker interesse for at forstå forskellen.", "led_to_progression": true}, {"primary_category": "pitch_technique", "technique_subtype": "quantified_savings", "phase_context": "pitch", "engagement_before": "moderate", "engagement_after": "high", "customer_concern": "Kunden vil vide, hvad besparelsen er, og om det kan betale sig at skifte.", "seller_approach_description": "Sælgeren præsenterer en konkret besparelsesberegning baseret på kundens forbrug og nuværende pris, og viser hvor meget kunden kan spare årligt ved at skifte til spotpris.", "seller_quote": "Hvis du har et forbrug på cirka 2.500 kWh om året, og du betaler 1,25, så vil jeg sige, du kan spare cirka 700 kroner om året ved at gå over på en spotprisaftale.", "key_elements": ["konkret besparelsesberegning", "kundens forbrugstal", "kvantificeret værdi", "relevans for kunden"], "customer_reaction": "Kunden udtrykker interesse og spørger ind til forskellen mellem spot og fastpris, hvilket viser at værdien er blevet tydelig.", "led_to_progression": true}, {"primary_category": "pitch_technique", "technique_subtype": "risk_reversal", "phase_context": "pitch", "engagement_before": "moderate", "engagement_after": "moderate", "customer_concern": "Kunden er bekymret for risikoen ved at binde sig og vil have fleksibilitet.", "seller_approach_description": "Sælgeren fremhæver at spotprisaftalen har ingen binding, hvilket reducerer risikoen for kunden og gør det nemt at skifte væk igen.", "seller_quote": "Vi har ingen binding på den her aftale, så du kan skifte væk igen, hvis du ikke synes, det er noget for dig.", "key_elements": ["ingen binding", "risikoreduktion", "fleksibilitet", "tryghedsskabende"], "customer_reaction": "Kunden anerkender fordelen og fortsætter med at overveje, men er stadig forsigtig.", "led_to_progression": true}, {"primary_category": "pitch_technique", "technique_subtype": "value_to_need_link", "phase_context": "pitch", "engagement_before": "moderate", "engagement_after": "high", "customer_concern": "Kunden har solceller og vil vide, om det kan betale sig med en produktionsaftale.", "seller_approach_description": "Sælgeren forklarer fordelen ved en produktionsaftale: at kunden får spotprisen minus et lille tillæg for den strøm, der sendes ud på nettet, hvilket er bedre end afregningsprisen.", "seller_quote": "Hvis du har solceller, så kan det godt betale sig at lave en produktionsaftale, fordi du får spotprisen for den strøm, du sender ud på nettet, fratrukket et lille tillæg på 4,75 øre.", "key_elements": ["produktionsaftale", "spotpris for overskudsstrøm", "værdi for solcelleejere", "behovskobling"], "customer_reaction": "Kunden bliver meget interesseret og spørger ind til detaljerne, hvilket viser at værdien er relevant.", "led_to_progression": true}, {"primary_category": "close_technique", "technique_subtype": "conditional_commitment", "phase_context": "close", "engagement_before": "moderate", "engagement_after": "low", "customer_concern": "Kunden vil ikke tage en beslutning nu og vil undersøge sit nuværende produkt først.", "seller_approach_description": "Sælgeren accepterer kundens ønske om at overveje og tilbyder at sende en e-mail med informationer, så kunden kan kontakte dem senere. Dette er en blød afslutning uden pres.", "seller_quote": "Jeg sender dig en mail med de her informationer, og så kan du kontakte os på det telefonnummer, som står i mailen, hvis det er noget, du gerne vil.", "key_elements": ["accepterer kundens tempo", "sender information", "blød commitment", "ingen pres"], "customer_reaction": "Kunden takker og accepterer at modtage informationen, men afviser at forpligte sig nu.", "led_to_progression": false}]} 
+────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+[Item 3/5 · 816ms TTFT · 7106ms E2E]
+
+── Input ──
+transcript:
+  Kunden:
+
+Det er Tina.
+
+Sælger:
+
+Goddag, Tina. Du taler med Noah.
+
+Kunden:
+
+Fra forsikring?
+
+Sælger:
+
+Øh, jeg ringer fra et energiselskab.
+
+Kunden:
+
+Nå, okay.
+
+Sælger:
+
+Jeg ringer egentlig lige i forhold til elregningen derude, Tina. Kan det være så, at det er dig, der står for det?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Super. Og grunden til, at jeg spørger lidt ind til det, er jo egentlig også for at være ærlig med dig, den i forhold til den her elaftale derude, er det en, du har været ude og få kigget på her hen i vinteren?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja, super dejligt. Er det i form af noget skift, du har taget lidt stilling til det?
+
+Kunden:
+
+Ja, det er det.
+
+Sælger:
+
+Må jeg spørge dig, hvor du skifter hen?
+
+Kunden:
+
+Det hedder Energi Vest.
+
+Sælger:
+
+Ja, VestEnergi?
+
+Kunden:
+
+Eller VestEnergi, ja, omvendt.
+
+Sælger:
+
+Ja, okay. Hvornår kom du derind?
+
+Kunden:
+
+Det er nogle måneder siden.
+
+Sælger:
+
+Nogle måneder siden, okay. Tina, nu ved jeg ikke, om du er blevet informeret om det her i forhold til VestEnergi, men de sætter jo deres priser markant op her fra den 1. af.
+
+Kunden:
+
+Ja, det har jeg godt set.
+
+Sælger:
+
+Ja, og det er jo, jeg tænker, at det tilbud, du er blevet tilbudt dengang, det var det, der hed 4 øre i tillægspris.
+
+Kunden:
+
+Ja, det tror jeg, det var.
+
+Sælger:
+
+Ja, dem sætter de jo faktisk op til 50 øre. Det er jo en vanvittig stor, et stort hop, de lige pludselig laver der.
+
+Kunden:
+
+Ja, det er det. Hvor er det fra?
+
+Sælger:
+
+Jeg ringer inde fra energiselskabet El, ligesom i dyret.
+
+Kunden:
+
+Nå, det har jeg aldrig hørt om.
+
+Sælger:
+
+Nej, vi er også et lidt mindre selskab end de fleste andre. Og det er sådan set også derfor, hvorfor vi kan tilbyde en rigtig billig pris, fordi prisen her hos os, den hedder nemlig 5 øre, og så for hvert år, du er kunde herinde, så falder den faktisk yderligere med 1 øre. Så du samtidig er skærmet for det her med, at prisen lige pludselig går op, uden man lige sådan har sagt ja til det, men at man faktisk altså går ned i pris, jo længere tid man er kunde inde hos os.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja, det tænker jeg, Tina, skal vi ikke få ordnet det, inden du lige pludselig ender med at betale de her 50 øre her?
+
+Kunden:
+
+Hvad har I sådan noget, ikke abonnementspris, men jeres som regel, så er der jo ligesom noget, altså energiafgiften er jo en, altså energiafgiften inde fra staten, det kan vi ikke røre ved.
+
+Sælger:
+
+Nej.
+
+Kunden:
+
+Men har I andet, som I?
+
+Sælger:
+
+Altså, vi har selvfølgelig abonnementet på de her 29 kroner, som det er ved de fleste forretninger.
+
+Kunden:
+
+På 29 kroner, ja.
+
+Sælger:
+
+Ja, det kan jeg ikke sige med garanti, hvad du lige betaler i dag, altså jeg kan se på deres hjemmeside, reklamerer de også med 29 kroner.
+
+Kunden:
+
+Ja, ja, ja.
+
+Sælger:
+
+Så det er det, jeg lige vil gå ud fra.
+
+Kunden:
+
+Altså de der per måned, det er abonnement, ja.
+
+Sælger:
+
+Ja, lige netop, det er det samme, som du kører i på i dag. Det er bare den her tillægspris, som jo så er, altså det er jo 45 øre, hvad end du sparer hver gang, som bruger strømmen.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og det render rigtig hurtigt op, tænker jeg godt kan forestille mig.
+
+Kunden:
+
+Ja, ja, men det er godt, at det er, og nu går vi mod vinter og så videre.
+
+Sælger:
+
+Ja, altså bare en hurtig regning, hvis du har et gennemsnitligt forbrug derhjemme, så er det omkring en 1500, du egentlig kan putte i lommen, eller i hvert fald undgå at betale.
+
+Kunden:
+
+Ja, ja, det er det.
+
+Sælger:
+
+Og det er jo mange penge.
+
+Kunden:
+
+Ja. Hvad tager I, er det per kvartal, eller er det forud, eller er det per måned, man betaler, eller hvordan?
+
+Sælger:
+
+Det er månedsvis af konto, vi kører herinde.
+
+Kunden:
+
+Okay, det kan jeg godt lide.
+
+Sælger:
+
+Super, jamen det er godt. Så tænker jeg, Tina, skal vi ikke lige få ordnet det med det samme?
+
+Kunden:
+
+Jo, det synes jeg.
+
+Sælger:
+
+Yes. Dit fulde navn, hvordan lyder det?
+
+Kunden:
+
+Det er Tina Pedersen.
+
+Sælger:
+
+Tina Pedersen. Og adressen, det foregår ud på?
+
+Kunden:
+
+Det er Vestergårdsvænget, og gård, det er med dobbelt a.
+
+Sælger:
+
+Ja, altså vænget med e, eller hvordan?
+
+Kunden:
+
+Ja, vænget med, ja, 55.
+
+Sælger:
+
+55.
+
+Kunden:
+
+Og det er 75 00.
+
+Sælger:
+
+Ja, Holstebro?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Super. Nu skal jeg lige se, at jeg har skrevet den her adresse rigtigt her.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Vestergårdsvænget, ja. Sådan der. Og din e-mailadresse, hvordan lyder den?
+
+Kunden:
+
+tina.p1968@gmail.com.
+
+Sælger:
+
+Gmail.com, super. Og telefonnummer, det er vel bare det, jeg ringer til her i dag?
+
+Kunden:
+
+Nej, det er faktisk min mands nummer, det var fordi, jeg ventede lidt med det, det var derfor, jeg spurgte forsikring, det var fordi, jeg ventede på det, fordi han var lige udenfor.
+
+Sælger:
+
+Nå.
+
+Kunden:
+
+Mit nummer, det er 21 29 34 39.
+
+Sælger:
+
+34 39, super. Så skal jeg se her, og skal jeg fjerne din mands nummer, eller skal jeg sætte det ind som en nødløsning, hvis nu du ikke tager den?
+
+Kunden:
+
+Ej, bare det er fint, ja, det må du godt fjerne, bare tag mit. Herhjemme er det mig, der styrer alle de der med varme og el og forsikringer, og sådan noget, det gider han ikke tage sig af.
+
+Sælger:
+
+Nej, det er sgu også sådan lidt kedeligt, jo.
+
+Kunden:
+
+Ja, jeg synes jo, det er spændende.
+
+Sælger:
+
+Ja, så er det jo heldigt nok.
+
+Kunden:
+
+Ja, ja.
+
+Sælger:
+
+Tina, så skal jeg lige låne dit CPR-nummer engang, for at kunne sætte det op på måleren derude.
+
+Kunden:
+
+Det er 22 02 68.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+2092.
+
+Sælger:
+
+2092, super. Og så lige i forhold til det her betaling, det kører vel også over betalingsservicen, ikke også?
+
+Kunden:
+
+Jo, det gør det.
+
+Sælger:
+
+Yes, skal vi få sat det op med det samme også?
+
+Kunden:
+
+Ja, det kan vi lige så godt.
+
+Sælger:
+
+Yes. Så er det det, der hedder registrering af kontonummer, jeg skal låne.
+
+Kunden:
+
+Ja, det finder jeg lige, det finder jeg jo så lige på min egen telefon.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Øjeblik. Det er registreringsnummer, det er 75 00.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Og så finder du selv ud af, hvor mange nuller du skal have foran, det plejer at være 4 eller 5, godt. Og så er kontonummeret 14 89.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Nej, det er mig, der kigger forkert. Sæt det lige igen.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Den hedder 14 28.
+
+Sælger:
+
+Yes.
+
+Kunden:
+
+970.
+
+Sælger:
+
+970, super, og så er der 3 nuller foran her. Ja, det stemmer, kan jeg se. Super. Tina, lige her inden vi slutter det af, så læser jeg lige hurtigt aftalen op for dig, jeg håber, det er i orden, så optager jeg lige herinde.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Super. Godt, som aftalt, så optager vi den næste del af samtalen, og der har vi aftalt, at jeg skifter dig over på en ny privat aftale hos energiselskabet El. Det er med opstarten den 1.10, og vi opretter alle målere på adressen, der hedder Vestergårdsvænget 55 i 75 00 Holstebro.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Yes. Du betaler en variabel pris, som er indkøbsprisen af strømmen, plus det her tillæg på kun 5 øre. For hver 12. måned, du står i kunde herinde, så vil den her tillægspris falde med 1 øre, og dit sidste, eller slutstadiet, vil være ved dit fjerde år som kunde, hvor den kommer helt ned i kun 2 øre. Abonnementet, det er på 29 kroner om måneden, og så er der heller ikke nogen binding på den her aftale.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Der er et oprettelsesgebyr på 199, det håber jeg, det er okay med dig, Tina. Det er sådan, jeg får lidt penge til huslejen derhjemme.
+
+Kunden:
+
+Ja, så skidt da.
+
+Sælger:
+
+Det var godt. Og du betaler månedsvise konto via betalingsservicen, som jeg sætter op for dig herinde.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja, så skal du være opmærksom på, Tina, at dit nuværende selskab, altså VestEnergi her, de har lige 6 uger til, at du skifter over til mig, til lige at fortælle dig, om der er nogle penge, du skal have tilbage.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og det er det, der hedder en slutopgørelse.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja, jeg sender naturligvis en ordrebekræftelse på din e-mailadresse, som var den her, nu skal jeg se her, det var tina.p1968@gmail.com.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Super. Så stopper jeg lige optagelsen igen her, og så vil jeg lige høre dig, Tina, har du nogle spørgsmål til mig?
+
+Kunden:
+
+Nej, det synes jeg ikke.
+
+Sælger:
+
+Nej. Hvis du nu skulle danne dig nogle spørgsmål, så kan du selvfølgelig altid ringe ind til mig på det her nummer, eller så kan du ringe til vores kundeservice, som jeg sender nummeret med i ordrebekræftelsen også.
+
+Kunden:
+
+Ja, det lyder fint.
+
+Sælger:
+
+Ja, super. Og mit fulde navn, det står selvfølgelig også i den bekræftelse, du får, at det er mig, der har snakket med dig osv.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Super. Jamen, hvis ikke der var mere fra din side af, så har jeg faktisk heller ikke mere herfra.
+
+Kunden:
+
+Nej, det er bare i orden.
+
+Sælger:
+
+Super. Jamen, rigtig, rigtig god dag til dig, Tina.
+
+Kunden:
+
+Tak fordi jeg måde.
+
+Sælger:
+
+Tak skal du have. Hej hej.
+
+Kunden:
+
+Hej.
+
+── Output ──
+{"commentary": "I will extract technique instances from the provided transcript following the strict JSON schema and guidelines. Steps: 1) Determine call outcome and summary. 2) Identify specific technique moments with observable customer reactions. 3) For each, assign primary_category and technique_subtype (ensuring subtype belongs to category), phase_context, engagement_before/after, and fill all required string fields (in Danish, PII-stripped). 4) Ensure seller_quote is near-verbatim and 1-4 sentences, key_elements as short Danish phrases, and led_to_progression boolean. 5) Return a single JSON object with call_summary and technique_instances array.", "title": "Salgsteknik Analyse", "description": "Udtrækning af salgsteknikker fra ELG-energiopkald med nær-ordrette citater og observerbar effekt.", "additional_properties": {}, "required": ["call_summary", "technique_instances"], "properties": {"call_summary": {"description": "Overall summary of the call outcome and progression", "properties": {"outcome": {"enum": ["sale_completed", "callback_scheduled", "interest_expressed", "soft_rejection", "hard_rejection", "call_abandoned", "other"], "description": "Enum for overall call outcome"}, "outcome_detail": {"description": "1-2 sentences describing the final state of the call in Danish (PII-stripped)"}}, "required": ["outcome", "outcome_detail"], "type": "object"}, "technique_instances": {"description": "Array of technique instances extracted from the call", "items": {"description": "A single observed sales technique instance", "properties": {"primary_category": {"enum": ["objection_handling", "opener_technique", "discovery_technique", "pitch_technique", "close_technique", "rapport_technique"], "description": "The primary category of the technique"}, "technique_subtype": {"description": "Specific subtype of the technique, must be valid for the primary_category"}, "phase_context": {"enum": ["opener", "discovery", "pitch", "close", "objection_loop"], "description": "Which phase the call was in when the technique was used"}, "engagement_before": {"enum": ["high", "moderate", "low", "resistant", "closed"], "description": "Customer engagement level immediately before the technique"}, "engagement_after": {"enum": ["high", "moderate", "low", "resistant", "closed"], "description": "Customer engagement level immediately after the technique"}, "customer_concern": {"description": "The customer's concern or trigger in Danish (1 sentence, PII-stripped)"}, "seller_approach_description": {"description": "What the seller did, in Danish (2-3 sentences, PII-stripped)"}, "seller_quote": {"description": "Near-verbatim quote from the seller, PII-stripped, 1-4 sentences, in Danish"}, "key_elements": {"description": "Array of short Danish phrases describing the technique building blocks"}, "customer_reaction": {"description": "Observable customer reaction in Danish (1-2 sentences, PII-stripped)"}, "led_to_progression": {"description": "Whether this technique led to progression in the call", "type": "boolean"}}, "required": ["primary_category", "technique_subtype", "phase_context", "engagement_before", "engagement_after", "customer_concern", "seller_approach_description", "seller_quote", "key_elements", "customer_reaction", "led_to_progression"], "type": "object"}, "type": "array"}}, "type": "object"} 
+────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+[Item 4/5 · 685ms TTFT · 24930ms E2E]
+
+── Input ──
+transcript:
+  Sælger:
+
+Hej.
+
+Kunden:
+
+Hej, det er Mia.
+
+Sælger:
+
+Hej, Mia. Tak fordi du ringede tilbage før.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Det er Hans Peter fra Energiselskabet El angående elaftalen derhjemme. Vi vil bare spørge pænt, om det er dig, der står for den?
+
+Kunden:
+
+Øh, ja, det er det.
+
+Sælger:
+
+Du er simpelthen strømmindustri hjemme hos dig selv?
+
+Kunden:
+
+Hvad? Ja.
+
+Sælger:
+
+Må jeg låne et par minutter af din tid, Mia?
+
+Kunden:
+
+Øh, det kommer an på, hvad det er.
+
+Sælger:
+
+Det drejer sig om din elaftale derhjemme og angående de her stigende priser, vi er, er, er, der forekommer lige nu. Det ved jeg ikke, om du har lagt mærke til?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Nej? Må jeg snagt spørge, hvem du har valgt som elleverandør?
+
+Kunden:
+
+Øh, Andel.
+
+Sælger:
+
+Du har valgt Andel Energi?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja. Har du så slet ikke lagt mærke til, at priserne er blevet en lille bitte smule højere?
+
+Kunden:
+
+Næ, det er ikke lige noget, jeg sådan går op i, må jeg nok sige. Nej.
+
+Sælger:
+
+Du er ikke så heldig at have medarbejderrabat og have ansat dig?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Nej?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Okay. Bor du i hus, eller bor du i lejlighed?
+
+Kunden:
+
+Øh, i rækkehus.
+
+Sælger:
+
+I et rækkehus?
+
+Kunden:
+
+Men det er et lejehus.
+
+Sælger:
+
+Et lejet rækkehus. Hvad varmer du op med der i ejendommen?
+
+Kunden:
+
+Øh, øh, hvad hedder det?
+
+Sælger:
+
+Det var et meget godt spørgsmål.
+
+Kunden:
+
+Ja, det var det. Øh, radiator, ja.
+
+Sælger:
+
+Ja, jeg har også radiatorer derhjemme.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Men, men altså, de bliver jo varme, de radiatorer, af en årsag. Og enten så er det gas, eller fjernvarme, eller et hus.
+
+Kunden:
+
+Det er nok fjernvarme.
+
+Sælger:
+
+Det er en fjernvarme. Okay, fantastisk.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Men Mia, jeg prøver på at skrue mig lidt ind på dit forbrug, nemlig.
+
+Kunden:
+
+Ah.
+
+Sælger:
+
+Ja, lige præcis. Har du elbil?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Nej? Okay. Du afregner hver måned, ikke også?
+
+Kunden:
+
+Jo.
+
+Sælger:
+
+Hvor, altså, hvor bor du i landet?
+
+Kunden:
+
+Øh, i Odense.
+
+Sælger:
+
+Du bor i Odense?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og så har du valgt Andel over for et jævnløn?
+
+Kunden:
+
+Nå.
+
+Sælger:
+
+Ja. Nå, sjovt.
+
+Kunden:
+
+Ja, jeg mener i hvert fald, det er det, det hedder.
+
+Sælger:
+
+Ja. Altså, jeg står i Svendborg, skal jeg sige dig.
+
+Kunden:
+
+Mmm.
+
+Sælger:
+
+Ja, vi er lidt mere lokale.
+
+Kunden:
+
+Hvad, hvad, hvor er det, du siger, det er fra?
+
+Sælger:
+
+Det er Energiselskabet El, der ligger i Svendborg.
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Det er også, det hedder det samme som det flotte dyr, der smager godt ovre fra Svaradie.
+
+Kunden:
+
+Nå ja.
+
+Sælger:
+
+Ja, lige præcis. Og øh, det der forekommer i øjeblikket, det er, at priserne går sådan ret meget op og ned, og specielt om aftentimerne, det vi er på vej ind i nu, så begynder priserne at blive rigtig, rigtig, rigtig dyre. Og faktisk i de her tider, der øh, der skifter prisen på strøm hvert kvarter. Jeg ved ikke, om du har hørt?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Nej?
+
+Kunden:
+
+Som sagt, så går jeg ikke super meget op i det. Det har jeg aldrig gjort.
+
+Sælger:
+
+Forstår. Nej, du betaler bare regningen ligesom alle andre borgere i det her land.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja. Har du nogensinde set en graf over en elpris? Nogensinde?
+
+Kunden:
+
+Nej, det tror jeg ikke, nej.
+
+Sælger:
+
+Det har du aldrig gjort?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Hvordan vil du have det med at lave en lokal elaftale, hvor du kan bruge strømmen, når det passer dig, og den kun bare skifter en gang om måneden, sådan så du kan spare nogle penge?
+
+Kunden:
+
+Det tror jeg i hvert fald, at jeg lige vil tænke over.
+
+Sælger:
+
+Ja. Hvornår har du sidst kigget på en elregning sidste gang?
+
+Kunden:
+
+Øh, det er jo, det er jo ikke så forfærdeligt længe siden. Jeg er lige flyttet, så øh.
+
+Sælger:
+
+Du er lige flyttet?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Må jeg slå din adresse op?
+
+Kunden:
+
+Ja, det må du gerne.
+
+Sælger:
+
+Ja, hvad hedder den, den nye?
+
+Kunden:
+
+Parkhave 89.
+
+Sælger:
+
+Undskyld, den hedder?
+
+Kunden:
+
+Parkhave.
+
+Sælger:
+
+Jeg kan ikke høre det første bogstav.
+
+Kunden:
+
+H.
+
+Sælger:
+
+Et H, ligesom en hare?
+
+Kunden:
+
+Ja, Parkhave, ja. Ja.
+
+Sælger:
+
+Kære, nummer 29?
+
+Kunden:
+
+Nej, 89.
+
+Sælger:
+
+Nå, jeg hørte 9-tallet. Ja, skal vi se her. Bruger du den app, de har?
+
+Kunden:
+
+Øhm, det, nej, det har jeg ikke lige gjort.
+
+Sælger:
+
+Okay. Hvordan ser du så din elregning?
+
+Kunden:
+
+Øh, den får jeg sendt.
+
+Sælger:
+
+Så er du ikke kunde hos Andel?
+
+Kunden:
+
+Nå.
+
+Sælger:
+
+Medmindre de sender den med posten, selvfølgelig.
+
+Kunden:
+
+Ja, nej, altså, nej, undskyld, jeg har lige skiftet dertil.
+
+Sælger:
+
+Okay, du er lige skiftet?
+
+Kunden:
+
+Ja, så jeg har ikke fået en endnu.
+
+Sælger:
+
+Hvor var du kunde af den før?
+
+Kunden:
+
+Hold da op, det var også noget, der lå nede i Svendborg.
+
+Sælger:
+
+Det kan da være os?
+
+Kunden:
+
+Nej, det var ikke jer.
+
+Sælger:
+
+Sydfyns Elforsyning?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+SEF?
+
+Kunden:
+
+SEF, ja, det var det.
+
+Sælger:
+
+Det står for Sydfyns Elforsyning.
+
+Kunden:
+
+Ja, det var jer.
+
+Sælger:
+
+Ja, fantastisk.
+
+Kunden:
+
+Og I sagde, I ikke kunne få det, I ikke kunne komme ud på min adresse?
+
+Sælger:
+
+Det er ikke os, der er Sydfyns Elforsyning. Sydfyns Elforsyning er, er meget lokal.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Vi er mere, altså, vi er landsdækkende, men vi ligger i samme by.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og vi kan lave, om så du bor i Rønne, eller om du bor i Roskilde, København, Odense, eller om du bor oppe i Skagen i Nordjylland. Vi laver aftaler med alle, men jeg forstår godt, at Sydfyns Elforsyning, de ikke gør. Men vi vil meget gerne have dig som kunde til en lokal aftale, der er billigere end dem ovre, hvor jævle øl.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Det vil jeg da sætte en ære i.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og jeg kunne jo godt tænke mig.
+
+Kunden:
+
+Jeg ved ikke engang, hvad det er, altså, jeg, jeg har jo lige skiftet dertil, så jeg ved jo ikke engang, hvad, hvad det koster.
+
+Sælger:
+
+Har du fået en mail på det endnu?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Hvordan er du blevet kunde der? Altså, hvordan fik du?
+
+Kunden:
+
+Øh, igennem Elgiganten.
+
+Sælger:
+
+Ah, så jeg købte min.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Så jeg gav dig en rabat, du fik en rabat i Elgiganten.
+
+Kunden:
+
+Åh, yes.
+
+Sælger:
+
+Ah, ja. Lad mig sige det pænt: Hvis du googlede Andel Energi mellemrum forbrugerombudsmanden, så ville de fortælle dig meget nemt via ombudsmanden, at du kommer til at betale for det beløb, du selv har fået i rabat. Lad mig sige det pænt.
+
+Kunden:
+
+Nå.
+
+Sælger:
+
+Andel Energi har tre forskellige gebyrer per kilowatt-time, du bruger derhjemme, og et er også, at du betaler nogle kreditomkostninger, plus du faktisk betaler ekstra for grøn strøm, og de er blevet kørt over med begge dele. Det er Danmarks største energiselskab, som kan, man kan jo tillade sig, hvad man har lyst til, når man er så store.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Vi andre tager ikke penge for grøn strøm, og du skal ikke betale nogle ekstra kreditomkostninger hos os. Vi afregner også månedsvis, og så kan du faktisk bruge din strøm, når det passer dig, i stedet for prisen skifter 35.000 gange om året på den aftale, man laver nede i Elgiganten, så skifter den kun 12 gange om året, altså en gang om måneden.
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Og det betyder her i aftentimerne, at det ikke eksploderer. Mia, når prisen skifter hvert 15. minut, så betyder det, at hvis du vasker tøj, så skal du løbe ned og stoppe din vaskemaskine, hvis det bliver dyrt i 15 minutter.
+
+Kunden:
+
+Okay, ja.
+
+Sælger:
+
+Og priserne eksploderer, det har været i radioen hele dagen.
+
+Kunden:
+
+Nå, for pokker.
+
+Sælger:
+
+Men det har været lige siden klokken fem i morges. Hvis du åbner.
+
+Kunden:
+
+Jeg, jeg hørte slet ikke radio.
+
+Sælger:
+
+Nej, det har også været i TV-avisen.
+
+Kunden:
+
+Nå, jamen jeg kan jo heller ikke.
+
+Sælger:
+
+Det har også været i alle aviser.
+
+Kunden:
+
+Jamen, det har også været i aviser. Ja, jeg læser heller ikke aviser.
+
+Sælger:
+
+Nej, men det har ikke været på TikTok endnu, tror jeg.
+
+Kunden:
+
+Nej, jeg ser heller ikke TikTok.
+
+Sælger:
+
+Nå, så ved jeg ikke, hvorhenne du henter de nyheder, men jeg kan love dig, det bliver dyrt. Det eksploderer lige nu.
+
+Kunden:
+
+Igennem din mor?
+
+Sælger:
+
+Igennem din mor.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Jamen, hvis du ringer til din mor og spørger, om der er priser, der er steget på strøm, så vil hun sige ja.
+
+Kunden:
+
+Jamen, fordi hun går lige ved siden af mig, så jeg har ikke lige spurgt hende om det endnu.
+
+Sælger:
+
+Det, jeg vil gøre for dig, Mia, det er at sørge for, at strømmen koster det samme 24 timer i døgnet, sådan så du aldrig nogensinde igen skal bekymre dig om, at elprisen eksploderer. Sørg for at vaske dit tøj, når det passer dig, så kan du gøre det, der passer dig. Du kan bruge din ovn, når det passer dig. Så aldrig være bange for at bruge strøm igen.
+
+Kunden:
+
+Nej, men det ville da være meget dejligt.
+
+Sælger:
+
+Det er jeg glad for, du siger. Og ved du hvad, så det der mega høje abonnement, du har sagt ja til nede i Elgiganten, det sætter jeg ned til 9 kroner. Og fordi vi bor begge to på Fyn, så giver jeg gratis oprettelse.
+
+Kunden:
+
+Ej, det var da pænt af dig.
+
+Sælger:
+
+Ja. Og så skal du ikke længere betale ekstra for grøn strøm.
+
+Kunden:
+
+Ej, det var da nok meget heldigt, at du så ringede.
+
+Sælger:
+
+Ja, og hvis du så googler forbrugerombudsmanden grøn strøm, når vi to, vi lægger på, så vil du faktisk vide, at ombudsmanden har lukket den grønne strøm-aftale ned. Og hvorfor de så stadig tager penge for det, det kan jeg ikke gøre dig, det må jeg, ja, jeg ved ikke, jeg ved ikke, hvad jeg skal sige.
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Så du får en lokal aftale til kun 9 kroner om måneden i abonnement, og så kan du bruge din strøm, når det passer dig.
+
+Kunden:
+
+Det ville da være dejligt.
+
+Sælger:
+
+Og hvis du på noget tidspunkt vil ud af den her aftale, når man låser prisen, så binder man kun i seks måneder. Det gør man ikke nede i Elgiganten.
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Men, men, men så vil jeg, fordi du er lokal, og fordi du lyder som en ung dame, så sætter jeg et lille bitte gebyr på kun 100 kroner. Så hvis nu du endelig skulle blive utilfreds med mig og vil forlade mig, det, hvilket jeg ikke håber, men så koster det kun 100 kroner.
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Så kan jeg ikke gøre det mere lokalt.
+
+Kunden:
+
+Nej, det kan jeg godt høre.
+
+Sælger:
+
+Fantastisk. Jeg har et navn på dig, der hedder Mia Josefine Gerner, og så et navn, jeg næsten ikke tør begynde at udtale.
+
+Kunden:
+
+D-mand.
+
+Sælger:
+
+D-mand?
+
+Kunden:
+
+D-mand, ja.
+
+Sælger:
+
+Så har jeg mia-dmand@gmail.com, er det korrekt?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Fantastisk, godt. Ligesom nede i Elgiganten, der skulle du oplyse et CPR-nummer for at blive kunde hos dem via Andel. Det er fordi, at din elmåler er aflæst digitalt, fjernaflæst. Derfor skal jeg også bruge dit CPR-nummer.
+
+Kunden:
+
+Det er 2109.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+98.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Men 504.
+
+Sælger:
+
+Bare lige for sjov, Mia, ikke? Så vil jeg lige sige til dig, jeg er nøjagtigt ni år ældre end dig. Nøjagtigt.
+
+Kunden:
+
+Er du rigtig?
+
+Sælger:
+
+Nøjagtigt ni år ældre.
+
+Kunden:
+
+Så er det meget sjovt.
+
+Sælger:
+
+Ja, så ud af 365 dage, forskellige dage, så valgte du nøjagtigt at blive født den samme dag som mig. Så tillykke med forleden dag, unge dame.
+
+Kunden:
+
+Jo, tak, jamen i lige måde.
+
+Sælger:
+
+Du skal ikke, du skal ikke glæde dig til om et par år, når du fylder rundt. Nå, men så er vi jo, så er du jo en ung dame, jo, det er jo godt. Sådan, nu havde jeg jo ret.
+
+Kunden:
+
+Ja, ja.
+
+Sælger:
+
+Godt. Nu finder jeg lige din elmåler engang. Ah, altså lejer du så, det er hvor du flytter ind nu, er du flyttet ind, eller hvad?
+
+Kunden:
+
+Ja, ja.
+
+Sælger:
+
+Okay. Og vi siger, at det var H, altså vejnavnet var H, A.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og hvad mere?
+
+Kunden:
+
+Og så R, E.
+
+Sælger:
+
+R, E. Og så Kære, Kære-mand.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Yes.
+
+Sælger:
+
+Og det var i nummer 89.
+
+Kunden:
+
+Yes.
+
+Sælger:
+
+Ligesom det årstal, jeg er født i.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Men jeg kan bare ikke finde det, fordi når jeg skriver 5000, det kan ikke være 5000, så er det to der.
+
+Kunden:
+
+Nej, det er 5220.
+
+Sælger:
+
+Ah.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ja, det er ude i SØ-delen.
+
+Kunden:
+
+Yes, yes.
+
+Sælger:
+
+Så håber jeg da, du har fået en god husleje derude.
+
+Kunden:
+
+Det kan jeg tro, jeg har.
+
+Sælger:
+
+Nej, det er lækkert.
+
+Kunden:
+
+Jeg har boet inde i centrum før, ja.
+
+Sælger:
+
+Av.
+
+Kunden:
+
+Ja, av.
+
+Sælger:
+
+Av. Av, av, av. Skal vi sætte det på månedsvise betaling, så det er sådan nogle små regninger, der kommer?
+
+Kunden:
+
+Ja, meget gerne. Det kan jeg bestille.
+
+Sælger:
+
+Det vil du have? Ja, så skal jeg have et registreringsnummer, kontonummer?
+
+Kunden:
+
+Øh, ja, måske ligesom jeg har taget min pung med i dag.
+
+Sælger:
+
+Eller så står det inde i MobilePay, kan jeg.
+
+Kunden:
+
+Ja. Det er 2377.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Og så er.
+
+Sælger:
+
+3177.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Er det registreringsnummeret?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Fantastisk. Og det er, skal vi se, månedsvis, har jeg valgt, så det er nogle små regninger, der kommer.
+
+Kunden:
+
+Yes.
+
+Sælger:
+
+Yes, og så kontonummeret skal jeg bruge?
+
+Kunden:
+
+Det er 0726.
+
+Sælger:
+
+0726.
+
+Kunden:
+
+Ja, og så 55.
+
+Sælger:
+
+55.
+
+Kunden:
+
+Ja, og så 57.
+
+Sælger:
+
+Ja, tak.
+
+Kunden:
+
+Og så 88.
+
+Sælger:
+
+88, sådan. Så trækker jeg derfra en gang om måneden.
+
+Kunden:
+
+Det lyder godt.
+
+Sælger:
+
+Og uanset hvornår, at du hører fra din mor, hun ringer til dig og siger: "Ej, lille skat, nu skal du passe på i aften, fordi der koster strøm altså en formue."
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Så kan du sige til hende: "Det gør den ikke for mig."
+
+Kunden:
+
+Ja, det er godt.
+
+Sælger:
+
+Så du må bruge strøm, når det passer dig.
+
+Kunden:
+
+Fantastisk.
+
+Sælger:
+
+Godt. Og det er oprettelsesgebyr har jeg jo selvfølgelig fjernet, da vi er lokale begge to, ikke også?
+
+Kunden:
+
+Jamen, det var dejligt.
+
+Sælger:
+
+Godt. Og jeg følger med i den her handel, Mia, men jeg skal hverken have kost eller logi.
+
+Kunden:
+
+Nå, men det var da rart.
+
+Sælger:
+
+Ja, så du skal bare skrive til mig. Jeg har, du får en direkte mail til mig, så hvis du vil skrive til mig, at der er noget, du vil brokke dig over, unge dame, så skriver du bare: "Hans Peter, det der, det er ikke godt nok," eller hvis nu du er rigtig glad, så håber jeg selvfølgelig også, at du skriver til mig.
+
+Kunden:
+
+Ja, jamen det kan du tro, jamen tusind tak for det.
+
+Sælger:
+
+Og vi har lavet en app også, en lille app til din mobil.
+
+Kunden:
+
+Ja, okay, så kan det være, at jeg kan prøve at sætte mig ind i det.
+
+Sælger:
+
+Ja, den hedder Timepris.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og den er lavet af firmaet Hello Solution, så når du skriver Timepris inde i App Store.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Så skal der stå Hello Solution, og så kan du bare logge ind og tilføje din måler med dit MitID.
+
+Kunden:
+
+Okay, fedt.
+
+Sælger:
+
+Ja, og så har du mig, og vi hedder, altså min mail hedder hpj@energiselskabetel.dk. Og jeg sender dig lige sådan en lille besked, så hvis nu du synes, jeg har været rigtig sød og rar, og jeg tjener en femstjerne, det håber jeg, så får jeg gratis frokost i morgen. Men hvis du har lyst til at skrive Hans Peter Jensen, han giver også godt stykke arbejde, så kan du i hvert fald give mig lidt kærlighed også, ikke?
+
+Kunden:
+
+Det kan du tro, du får.
+
+Sælger:
+
+Ej, hvor er du sød, hvor er du sød. Jeg er glad for, at jeg fik dig ud af djævleporene derovre.
+
+Kunden:
+
+Jamen, tak for det, det var da godt gået godt.
+
+Sælger:
+
+Det er godt. Det, jeg gør nu, det er, at jeg lige laver en lydfil, fordi nu har jeg givet dig lidt ekstra rabat, så jeg vil godt lige have, at det lige bliver gemt som en lille fil, sådan så du ikke, altså der ikke kan gå noget galt.
+
+Kunden:
+
+Okay, ja.
+
+Sælger:
+
+Ja, det vil jeg godt lige have, fordi hvis nu der skulle være et eller andet, så er det altid godt, at jeg, altså når jeg lover noget ekstra, det lige bliver optaget. Skal vi ikke aftale det?
+
+Kunden:
+
+Jo.
+
+Sælger:
+
+Godt. Som aftalt så optager jeg denne del af samtalen her den 1.10.25 klokken næsten fem i om aftenen. Det, vi går ind og gør, det er, at vi laver dig en ny elaftale ved en lokal aftale fra Svendborg hos Energiselskabet El med opstart 1.11. Og der opretter vi den måler, du har der på ejendommen. Skulle der være flere, tager vi dem med. Men der er kun én, kan jeg se. Og du har fået en gennemsnitlig pris for hver måned, der er gået, som er gennemsnittet af markedet. Det betyder faktisk, at uanset hvad strømmen den skulle gøre, så har Mia den samme pris hele tiden og kan simpelthen bare bruge sin strøm, når hun har lyst til. Lyder det ikke dejligt?
+
+Kunden:
+
+Jo.
+
+Sælger:
+
+Godt. Og jeg har lovet dig kun 9 kroner om måneden i abonnement. Kun 9 kroner. Intet mere eller mindre. Og der er seks måneders binding på aftalen. Skulle du ud af aftalen før tid, har jeg sat et lille bitte fairshare gebyr på en 100 kroneseddel. Så hvis du forlader mig før tid, hvilket jeg ikke håber, så vil du skulle betale 100 kroner for det.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Så køber jeg, uden du skal betale ekstra for det, dansk grøn strøm fra danske grønne energikilder. Du skal bare lige vælge, om jeg skal købe dem fra solceller eller vindmøller.
+
+Kunden:
+
+Det ved jeg ikke noget om.
+
+Sælger:
+
+Jamen, hvad synes du, der er bedst? At man køber strøm fra vindmøller eller de store solcelleparker? Hvad synes du, der lyder bedst? Altså, hvad kan du bedst lide, en vindmølle eller solceller?
+
+Kunden:
+
+Øh, vindmøller.
+
+Sælger:
+
+Sådan. Så for den mængde strøm, du køber, der køber jeg så grøn strøm hjem igen, så du laver en grøn elaftale, så du stadigvæk er klimabevidst.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Men du skal ikke længere betale ekstra for det, er det ikke godt?
+
+Kunden:
+
+Jo.
+
+Sælger:
+
+Godt. Så er der normalt et oprettelsesgebyr, men det har jeg fjernet, Mia.
+
+Kunden:
+
+Fantastisk.
+
+Sælger:
+
+Og så har jeg lovet, at vi afregner af konto hver måned, så du bare får en lille regning hver måned. Er det ikke godt?
+
+Kunden:
+
+Jo.
+
+Sælger:
+
+Og Andel laver så en slutopgørelse. Så der får du lige det sidste, du skal betale til dem, når nu du er færdig der. Men det bliver jo heldigvis ikke så meget, da du også afregner månedsvist derovre.
+
+Kunden:
+
+Dejligt.
+
+Sælger:
+
+Godt. Og du har lovet mig, at du afregner, eller du lige sørger for den der Timepris-app der.
+
+Kunden:
+
+Yes.
+
+Sælger:
+
+Der er grøn. Der er et lille lyn i, og der logger du ind. Og hvis det er, at du har problemer med det, så skriver du bare til mig. Jeg har sendt dig en mail, ikke?
+
+Kunden:
+
+Fantastisk.
+
+Sælger:
+
+Godt. Fantastisk. Så har du ikke flere steder, du betaler strøm eller noget?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Du har en ordrebekræftelse. Jeg vil forvente det i morgen, ikke?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Du har handlet med Hans Peter Jensen. Og så håber jeg, at vi får et mangeårigt samarbejde.
+
+Kunden:
+
+Ja, det håber jeg også.
+
+Sælger:
+
+Velkommen til, jamen velkommen til Energiselskabet El, og jeg glæder mig til vores samarbejde.
+
+Kunden:
+
+Tak i lige måde.
+
+Sælger:
+
+Det er godt. Hej med dig.
+
+Kunden:
+
+Hej, god dag. Hej.
+
+Sælger:
+
+Ja, tak i lige måde. Hej du.
+
+Kunden:
+
+Hej.
+
+── Output ──
+{"commentary": "Jeg skal nu analysere samtaletransskriptet for at identificere salgsteknikker. Jeg vil følge instruktionerne nøje: 1) Finde specifikke øjeblikke med observerbar effekt, 2) Klassificere dem korrekt med primary_category og technique_subtype, 3) Udfylde alle felter med dansk tekst og PII-strippede citater, 4) Sørge for at engagement-niveauer er korrekte baseret på kundeadfærd, 5) Sørge for at teknik-subtyper matcher primary_category. Jeg vil gennemgå opkaldet fase for fase og identificere de mest tydelige teknikker.", "title": "Salgsteknikker ELG", "summary": "Opkaldet endte med et salg (sale_completed). Sælgeren brugte flere teknikker: en humoristisk opener, afdækning af kundens nuværende situation, kvantificerede besparelser, håndtering af binding-indvending med lovgivningsreference, og en assumptive close. Kunden var skeptisk men blev gradvist mere engageret.", "technique_instances": [{"primary_category": "opener_technique", "technique_subtype": "humor_hook", "phase_context": "opener", "engagement_before": "low", "engagement_after": "moderate", "customer_concern": "Kunden er forsigtig og vil ikke forpligte sig til noget over telefonen.", "seller_approach_description": "Sælgeren bruger humor og en legende tone ved at sige at han ikke vil kidnappe kundens kat eller sælge hende et abonnement på 2000 kr. om måneden. Dette afvæbner kundens forsvar og skaber en lettere stemning.", "seller_quote": "Jeg lover dig, jeg sælger dig ikke et abonnement på 2000 kroner om måneden. Og jeg kommer heller ikke og kidnapper din kat. Så det er helt fint.", "key_elements": ["humor", "afvæbning", "personlighed", "legende tone"], "customer_reaction": "Kunden griner og siger 'nej, det er fint nok', hvilket viser at hun er mere afslappet og villig til at lytte.", "led_to_progression": true}, {"primary_category": "discovery_technique", "technique_subtype": "situation_analysis", "phase_context": "discovery", "engagement_before": "moderate", "engagement_after": "moderate", "customer_concern": "Kunden er usikker på sit nuværende elselskab og har ikke styr på sine oplysninger.", "seller_approach_description": "Sælgeren systematisk afdækker kundens nuværende situation ved at spørge ind til hvilket selskab hun har, hvordan hendes nuværende aftale er, og om hun er i binding. Han bruger en blid men vedholdende tilgang.", "seller_quote": "Hvad er det for et elselskab, du har i dag? Er det en fast aftale eller en variabel aftale du har i dag? Er du i binding?", "key_elements": ["systematisk afdækning", "blid vedholdenhed", "multiple spørgsmål", "oplysningssamling"], "customer_reaction": "Kunden giver korte men informative svar: 'Det er Andel', 'Det er en fast aftale', 'Jeg har ingen binding'. Hun deltager aktivt i informationsdelingen.", "led_to_progression": true}, {"primary_category": "objection_handling", "technique_subtype": "contract_or_binding", "phase_context": "discovery", "engagement_before": "resistant", "engagement_after": "moderate", "customer_concern": "Kunden er bekymret for at være i binding og ikke kunne skifte, og er usikker på om hun kan opsige sin nuværende aftale.", "seller_approach_description": "Sælgeren forklarer at bindinger på variable aftaler er ulovlige ifølge lovgivning fra januar 2024, og at kunden altid kan opsige en fast aftale med 30 dages varsel. Han bruger lovgivning som neutral autoritet.", "seller_quote": "Der må faktisk ikke være bindinger på variable aftaler længere. Det er en lovgivning, der kom i januar 2024. Hvis du har en fast aftale, kan du opsige den med 30 dages varsel, og så er du ude af den aftale.", "key_elements": ["lovgivningsreference", "neutral autoritet", "reframing", "faktuelt svar"], "customer_reaction": "Kunden siger 'Nå, okay' og fortsætter med at give information, hvilket viser at hendes modstand er reduceret.", "led_to_progression": true}, {"primary_category": "pitch_technique", "technique_subtype": "quantified_savings", "phase_context": "pitch", "engagement_before": "moderate", "engagement_after": "high", "customer_concern": "Kunden er usikker på om hun kan spare penge ved at skifte.", "seller_approach_description": "Sælgeren præsenterer en konkret beregning baseret på kundens forbrug på 5000 kWh og viser at hun vil spare 1250 kr. om året med et tillæg på 15 øre sammenlignet med 40 øre hos hendes nuværende selskab.", "seller_quote": "Hvis du bruger 5000 kilowatt-timer om året, og du har et tillæg på 40 øre, så betaler du 40 gange 5000, det er 2000 kroner. Hos os er tillægget 15 øre, det er 750 kroner. Altså sparer du 1250 kroner om året.", "key_elements": ["konkrete tal", "personlig beregning", "simpel matematik", "direkte sammenligning"], "customer_reaction": "Kunden udtrykker positiv overraskelse: 'Nå, det var da meget godt' og 'Det var da en god besparelse', hvilket viser høj interesse.", "led_to_progression": true}, {"primary_category": "close_technique", "technique_subtype": "assumptive_close", "phase_context": "close", "engagement_before": "high", "engagement_after": "high", "customer_concern": "Kunden er positivt indstillet men har brug for at få det sidste på plads.", "seller_approach_description": "Sælgeren antager at kunden er med på aftalen og begynder at indsamle de nødvendige oplysninger (navn, adresse, email) for at gennemføre skiftet, uden at spørge direkte 'vil du købe?'", "seller_quote": "Så kan jeg jo gå ind og lave en beregning på dig. Jeg skal bruge dit fulde navn, din adresse og din mailadresse.", "key_elements": ["antaget commitment", "handlingsorienteret", "informationssamling", "uden direkte spørgsmål"], "customer_reaction": "Kunden giver straks sine oplysninger uden at stille spørgsmål ved aftalen, hvilket viser at hun er klar til at gå videre.", "led_to_progression": true}, {"primary_category": "pitch_technique", "technique_subtype": "risk_reversal", "phase_context": "close", "engagement_before": "high", "engagement_after": "high", "customer_concern": "Kunden vil gerne have sikkerhed for at hun kan fortryde hvis det ikke fungerer.", "seller_approach_description": "Sælgeren fremhæver at der er 14 dages fortrydelsesret og ingen binding på aftalen, hvilket fjerner risikoen for kunden.", "seller_quote": "Der er 14 dages fortrydelsesret på aftalen, og der er ingen binding på den her aftale, så det er bare at prøve det af.", "key_elements": ["fortrydelsesret", "ingen binding", "risikofrihed", "tryghedsskabende"], "customer_reaction": "Kunden siger 'Det lyder godt' og fortsætter med at give sine oplysninger, hvilket viser at hun føler sig tryg ved aftalen.", "led_to_progression": true}], "call_summary": {"outcome": "sale_completed", "duration_seconds": 480, "key_moments": ["Sælgeren bruger humor i openeren for at afvæbne kunden", "Kunden er bekymret for binding men sælgeren forklarer lovgivning", "Sælgeren præsenterer konkrete besparelser på 1250 kr. om året", "Sælgeren bruger assumptive close ved at indsamle oplysninger uden direkte at spørge om salg", "Kunden accepterer aftalen og giver alle nødvendige oplysninger"]}}
+
+────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+[Item 5/5 · 1382ms TTFT · 28191ms E2E]
+
+── Input ──
+transcript:
+  Kunden:
+
+Hallo?
+
+Sælger:
+
+Goddag, goddag.
+
+Kunden:
+
+Det er dig der har ringet til mig.
+
+Sælger:
+
+Ja. Ja, det var det. Og så ringede du tilbage til mig.
+
+Kunden:
+
+Ja, og men så røg jeg i kø, og så vidste jeg ikke, hvem jeg ringede til. Så tænkte jeg, ved du hvad, så skulle jeg nok til at sælge, og det har jeg nok også.
+
+Sælger:
+
+Ja, det kan jeg da love dig for, du.
+
+Kunden:
+
+Og hvad sælger du? Toiletpapir eller hvad?
+
+Sælger:
+
+Ja, ja, du må sgu godt købe toiletpapir af mig, du. Jeg sælger det hele. Selv svigermor kan du få med i handlen, du.
+
+Kunden:
+
+Nå, for helvede.
+
+Sælger:
+
+Ja, for helvede, du, du, du.
+
+Kunden:
+
+Ja, nej.
+
+Sælger:
+
+Nå, men du, som du nok kan høre, så skal jeg have dig lidt i stødet, jo. Det er energiselskabet El, og jeg går da ud fra, at det er dig, der står for din egen elaftale, derhjemme, unge mand.
+
+Kunden:
+
+Jamen, det er det. Og ved du hvad, det er sjovt nok, du er ikke den eneste, der har ringet i dag i en indgående el. Det ved jeg ikke, hvad fanden. Lige pludselig kommer I i bølge, og så ringer I sgu 24/7.
+
+Sælger:
+
+Det er fandme lækkert at blive smurt, blive smurt sådan ind i kærlighed, jo.
+
+Kunden:
+
+Ja, ja. Hvis der er noget at komme efter. Men ved du hvad, jeg har ikke så lang tid siden, jeg har skiftet.
+
+Sælger:
+
+Næ, sig noget mere.
+
+Kunden:
+
+Det er ikke så lang tid siden, jeg har skiftet. Jeg har lavet elaftale.
+
+Sælger:
+
+Med hvem?
+
+Kunden:
+
+Med OK.
+
+Sælger:
+
+Altså tankstationen?
+
+Kunden:
+
+Ja, ja, det er de har også. De gør i mange ting. De gør også i varmepumper og gas.
+
+Sælger:
+
+Men har du gas?
+
+Kunden:
+
+Jeg har gas, ja. Jeg tager ikke gas fra dig, ja.
+
+Sælger:
+
+Nå, nå. Jamen, jeg havde jo tilbudt mig ikke til dig på gas.
+
+Kunden:
+
+Jamen, ved du hvad, ved du hvad, og det, det, det regner jeg med, at jeg stopper med inden udgangen af i år, nemlig. Jeg er en af dem, der skal få fjernvarme.
+
+Sælger:
+
+Nå, så er det godt, jeg kan nå at spare dig nogle penge inden da, jo. Det er da altid lækkert.
+
+Kunden:
+
+Ja, ja, men det kan jo ikke spare sig, for det er ikke spørgsmål om tid.
+
+Sælger:
+
+Jamen, jamen, jamen, så lad os snakke om din strømaftale.
+
+Kunden:
+
+Jamen, det har jeg samme sted. Jeg får noget samlet rabat, og så har jeg noget.
+
+Sælger:
+
+Det har de faktisk ikke. De har faktisk ikke noget samlet rabat, for det må man ikke lave.
+
+Kunden:
+
+Nej, men jeg får noget gennem noget, der hedder CUB. Jeg er medlem af CUB, og når man... De har noget.
+
+Sælger:
+
+De giver 40 kroner om året.
+
+Kunden:
+
+Nej, det tror jeg sgu vist ikke, det er om året.
+
+Sælger:
+
+Du får en enkelt bonus ved at skifte over til dem. Det er rigtigt. Men du får 40 kroner om året, min ven. Det er 40 kroner, man får om året. Der er meget, der er meget store begrænsninger for vores konkurrencemyndigheder i det her land. Så ja.
+
+Kunden:
+
+Nå, ved du hvad, og jeg synes, det er uoverskueligt. Jeg synes fandme, det er uoverskueligt. Ved du hvad, når alt kommer til alt, så sparer du ikke rigtig noget alligevel, jo. Det gør du sgu.
+
+Sælger:
+
+Og det er da også, jamen, jeg er jo ked af at sige det, men jeg synes altså, der er forskel på at købe, øhm, sin fødevarer i en fødevarebutik, sin energi af et energiselskab, og sin, sin benzin af en tankstation. Det ville jo være underligt, hvis vi skulle til at hente vores fødevarer nede hos vores energiselskab. Og det, jeg vil gøre for dig, det er, at jeg vil lave en el- og gasaftale med dig igennem et energiselskab, som sælger energiløsninger. Og så vil jeg gøre det billigere end der, hvor du er kun i dag. Og det gør jeg, fordi jeg har ikke noget tillæg på min gasaftale. Det har OK. Jeg har kun fem øre i tillæg på min strømaftale, og min aftale er ikke en eller anden åndssvag aftale, ligesom alle andre laver, hvor at prisen, den bliver sat op igen efter enten tre eller seks måneder. Min aftale bliver billigere, jo længere tid du er kun hos mig.
+
+Kunden:
+
+Nå.
+
+Sælger:
+
+Første år er fem øre, andet år er fire øre, tredje år er tre øre, og når du så kommer ind i fjerde år, så lander du på to øre, og der bliver du. Lige så længe, indtil du forlader mig. Og du kan ikke få noget billigere end det. Det er en ægte afsøgning at tro på, for vi skal jo også have lov til at købe noget oksekød bare i ny og næ. I hvert fald en gang eller to om året. En gang eller to.
+
+Kunden:
+
+Ja, det er rigtigt. Det er blevet begrænset, det er altså.
+
+Sælger:
+
+Ja tak. Nu har jeg dog fødselsdag i dag. Jeg er blevet lovet, at jeg kommer hjem til en hakkedreng med, med, med nogle bløde løg og sovs og kartofler. Så jeg ved godt, at din lille mor, hun er fandme flotte, så du.
+
+Kunden:
+
+Ja, det er flot, og tillykke med det.
+
+Sælger:
+
+Ja, tak skal du have. Tak skal du have. Det bliver sgu dejligt, du.
+
+Kunden:
+
+Ja, det er jeg også.
+
+Sælger:
+
+Det er blevet, det er godt nok blevet dyrt, altså.
+
+Kunden:
+
+Ja, det er det. Og man forstår, at spuds, og der, og der er nogen, der siger, der er ikke grund til, der er ikke grund til, at det skal blive dyrere. De har ikke forstået hvorfor, hvor priserne er steget.
+
+Sælger:
+
+Jeg kender en landmand, der har køer. Jeg kender en landmand. Han får fuldstændig det samme for koen. Der er ingen forskel.
+
+Kunden:
+
+Nej, det er jo det, der er nogen, der skummer.
+
+Sælger:
+
+Hvad fanden er det så, der skummer for en, ikke? Altså, hvis de får det samme for dig, altså. Der er ikke nogen forskel på de priser der.
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Men når nu det så er sagt, så synes jeg jo, at jeg har en aftale, der giver mening for mine kunder, for jo længere tid man er kunde hos mig, jo billigere bliver det, og jeg starter allerede ud med en væsentlig billigere pris end der, hvor du er kun nu. Du har ikke noget at arbejde i det selv. Jeg skal bare trykke på knappen, så klarer jeg resten for dig. Nej, jeg har ikke noget at arbejde i det. Det er penge, der ejer det hele.
+
+Kunden:
+
+Ja. Men der, hvor jeg kunne forestille mig, hvis jeg stadigvæk skulle have en gasløsning på længere sigt, det er jo der, jeg kunne spare mest, men den stopper jo. Jeg siger jeg til dig.
+
+Sælger:
+
+Ja, jeg synes jo faktisk, at jeg sparer dig mest på din elaftale.
+
+Kunden:
+
+Nej, det er alligevel det. Jeg er da alligevel nået at spare ret meget. Jeg synes fandme lige, men jeg har prøvet det nogle gange, og ved du hvad, jeg synes, det er så overskueligt. Jeg synes sgu, der er noget, fordi der er nogen, de tager abonnement, og ikke nogen gør, og det er spotpris og ting, altså, ved du hvad, jeg synes fandme ikke, der er noget. Jeg kan ikke se det på pengepungen, det kan jeg altså ikke.
+
+Sælger:
+
+Kan du ikke det?
+
+Kunden:
+
+Nej, det kan jeg altså ikke.
+
+Sælger:
+
+Hvad er det for nogle firmaer, du har været i kløerne på da?
+
+Kunden:
+
+Jamen, ja, jamen, jeg kender dem sgu alle sammen, ved du hvad, og det er jo de der gule og grønne skove, ved du hvad, jeg synes sgu da alligevel, og så, så nogen siger, vi tager ikke abonnement og ting og sager, jamen hvad fanden.
+
+Sælger:
+
+Så tager de jo penge et andet sted, ikke?
+
+Kunden:
+
+Ja, det gør de jo, altså et eller andet, de skal jo, fordi de selv, de gør jo ikke noget gratis, det ved jeg godt.
+
+Sælger:
+
+Ej, for helvede.
+
+Kunden:
+
+Og det, og jeg synes sgu, jeg synes sgu, det, jeg synes, jeg synes, du er overskuelig. Jeg synes sgu, der er det der, der er ikke konkurrence, det synes jeg ikke, der er fletkonkurrence, det synes jeg.
+
+Sælger:
+
+Jamen, jeg synes sgu.
+
+Kunden:
+
+Men det klarer I ikke i øjenpris, I kan jo heller ikke få det gratis, I får jo ikke strømmen gratis.
+
+Sælger:
+
+Nej, men problemet er, det store problem i min branche, og der mener jeg faktisk, at OK er en af dem, det er, at de giver en rigtig god pris i tre måneder, og så sætter de prisen op. Så har vi andre firmaer, der giver en skide god pris i seks måneder, og så hamrer de bare prisen hver gang.
+
+Kunden:
+
+Ja, ja.
+
+Sælger:
+
+Det synes jeg er et dårligt tilbud. Jeg synes, vores loyalitetsprogram, hvor kunderne får en billigere og billigere pris, de er helt op til, altså, i tre år efter, at man er blevet kunde, så sætter vi prisen ned. Jeg har ikke nogen andre skjulte tillæg, og vi afregner selvfølgelig månedsvist med vores kunder, og jeg vil sige, du vil kunne se det, altså, jeg vil kunne manifestere det allerede på første regning. Der er ikke nogen bindinger for min elaftale, så hvis ikke du mener, jeg har gjort det godt nok, så kan du jo bare rykke tilbage igen. Men jeg mener helt ærligt, du vil kunne se det, og jeg vil kunne manifestere det allerede på første elregning. Og hvis du er uenig, skifter du bare tilbage igen. Der er der ikke nogen binding på.
+
+Kunden:
+
+Nej, nej.
+
+Sælger:
+
+Og jeg, du skal intet foretage dig selv. Du kunne jo for fanden give mig en måned af dit liv for at bevise mit værd over for dig.
+
+Kunden:
+
+Og hvad, nå, nå, nå, det er ikke rigtigt, hvad selskabet repræsenterer du?
+
+Sælger:
+
+Altså, kender du det dyr, der er ovre i, ovre i Sverige? Det største dyr overhovedet på landjorden, derovre, ud over bjørnen, men en el.
+
+Kunden:
+
+En el, ja.
+
+Sælger:
+
+Ja, vi hedder energiselskabet El.
+
+Kunden:
+
+Nå, jeg synes rigtigt, jeg synes rigtigt, reklamerer I med at sælge det?
+
+Sælger:
+
+Ja, det gør vi, det gør vi, det gør vi. Der bliver stor brug for det.
+
+Kunden:
+
+Hvor fanden bliver du? Der er ikke jeg ser noget, jeg, det synes jeg.
+
+Sælger:
+
+Så kommer du rigtig, rigtige steder, du. Hvor får, hvor holder du, altså, hvor holder du til henne, unge mand?
+
+Kunden:
+
+Jamen, jeg bor i det mørke Jylland, jo. Altså, jeg bor noget nærmere.
+
+Sælger:
+
+Jeg sidder i Viborg.
+
+Kunden:
+
+Nå, for helvede.
+
+Sælger:
+
+Nu holder du sgu op med at sige, det er mørke Jylland.
+
+Kunden:
+
+Ja, nej, men jeg, det, det skulle jeg, det er, jeg bor på Randers, Assens Hofte Randers.
+
+Sælger:
+
+Du bor i Randers? Giv mig lige din adresse, lad mig lige slå det op.
+
+Kunden:
+
+Ja, 8960 Randers SØ.
+
+Sælger:
+
+Ja, det kender jeg.
+
+Kunden:
+
+Storegade 42.
+
+Sælger:
+
+Storegade?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+42?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og du er Morten Erik, vi, og så, altså, Vigand Petersen.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Har du andre ejendomme end det her?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Nej. Jeg kan lave et skift til den 1.11., så kan du lige give mig resten af året til at bevise mit værd. De to koldeste og dyreste måneder. Kan du give mig de to, to måneder der? De sidste to måneder er i år. Kan du give mig dem?
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Og så tager vi en opfølgning i januar, når jeg kommer tilbage. Og hvis ikke du er tilfreds, så får du lov til at skælde mig ud. Så kan du komme forbi til kaffe i Viborg.
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Og hvis du er tilfreds, så kommer jeg sgu nærmest forbi, du. Så tager vi sgu et glas.
+
+Kunden:
+
+Sådan. Jo, det lyder sgu fornuftigt. Det er dejligt.
+
+Sælger:
+
+Det er godt.
+
+Kunden:
+
+Nu siger du, I er, I, I, I de første tre år, øh, fire øre første år, ikke?
+
+Sælger:
+
+Nej, fem øre, fire øre, tre øre og to øre. Og det ender på to. Det ender på to.
+
+Kunden:
+
+Okay. Fem, fire, tre, to.
+
+Sælger:
+
+Og al den tid, du har gassen ved mig, er der aldrig noget tillæg på. Vi har ikke noget tillæg på gassen. Vi har kun et abonnement på de her 29 kroner, men det har alle jo. Jeg ved godt, der er nogen, der er dyrere end mig. Det ved jeg godt, der er. Men, men altså, jeg, altså, selv Energi Fyn, min største konkurrent inden for gas, de har jo et kæmpe tillæg på over 30 eller på 30 øre.
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Så man kan sige, det er jo sådan nogle ting, at man skal lægge mærke til, det er, hvem der tjener penge, hvorhen og på hvad. Morten, jeg skal bruge et CPR-nummer på dig, unge mand.
+
+Kunden:
+
+Ja, men ved du hvad, det, jeg er ikke nøg for at oplyse CPR-nummeret en gang.
+
+Sælger:
+
+Nej, det er jeg ved godt, det er jeg sgu godt klar over, men jeg kan ikke bruge det til en skid endnu. Jeg skal ikke have dit MitID'er.
+
+Kunden:
+
+Nej, nej, men nej, nej. Men prøv lige at høre her. Nu siger du fem øre. Ej, det er det spotpris, vi snakker om, ikke også?
+
+Sælger:
+
+Ja, da.
+
+Kunden:
+
+Ja, okay, ja, ja, men det skal ikke være noget, du ikke har sagt, jeg ikke er blevet oplyst om.
+
+Sælger:
+
+Der kommer ikke noget, og jeg, og jeg tager, og jeg giver ikke noget oprettelsesgebyr. Du skal ikke betale for at blive kunde hos mig.
+
+Kunden:
+
+Nej, nej.
+
+Sælger:
+
+Jeg er ikke, jeg er ikke vanvittig. Jeg fjerner det. Jeg vil jo gerne bevise det over for dig. Nu giver du mig lige de to måneder her.
+
+Kunden:
+
+Men det er, men gassen kan da ikke svare sig at forovertælle dig.
+
+Sælger:
+
+Jo, jo, det kan vi altid. Det er fordi, der er altid, uanset hvad, vil der være penge i tingene. Altid.
+
+Kunden:
+
+Og nu, og nu siger jeg det, det, det er, det er ikke, det er prisen pt, jeg giver. Det er ikke sådan noget med, at du giver, for der, der er forskellige kategorier, når de deler op. Altså, det er spotprisen stadigvæk på gassen.
+
+Sælger:
+
+Det lover jeg dig. Det lover jeg dig, Morten. Selvfølgelig. Der er ikke noget spotpris.
+
+Kunden:
+
+Men der skal jeg give 29 kroner om måneden, jeg er mange, ikke?
+
+Sælger:
+
+Ja tak, ja tak. Men der er ikke noget ekstra tillæg oveni, Morten.
+
+Kunden:
+
+Hvad, hvad, hvad, hvad giver de i tillæg, siger du?
+
+Sælger:
+
+25,71 øre.
+
+Kunden:
+
+Nå. Okay. Og du hører til i Viborg?
+
+Sælger:
+
+El.
+
+Kunden:
+
+Ja tak. Ja, det har jeg fandme ikke hørt før. Ikke noget. Det kan godt være, at du har ringet.
+
+Sælger:
+
+Ja, vores hovedkontor ligger i Svendborg.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+I byen.
+
+Kunden:
+
+Det, det kan godt være, når du siger el, ikke også, så kan man høre, man ikke det der e. Så tænker man bare på el.
+
+Sælger:
+
+Nå, men det er elg.
+
+Kunden:
+
+Ja, ja, men det kan godt ske, når man siger el, ikke også, så tænker man ikke over el, man siger det er elg. Nå, hvad fanden er det for et firma, ikke?
+
+Sælger:
+
+Ja, ja, altså, nå, det er måske undskyld. Men det er elg. Ja, ja, det var derfor, jeg siger, dyret ovre i, ovre i Sverige.
+
+Kunden:
+
+Prøv at høre her, hvis du nu sender det, vi har snakket om, på mail til mig, så sker der altså. Så svarer jeg.
+
+Sælger:
+
+Det er et fono, Morten. Det er et CPR-nummer på dig. Jeg har ikke noget farligt, I har givet til.
+
+Kunden:
+
+Ja, men skal du have det over i telefonen? Kan du ikke få det på mail?
+
+Sælger:
+
+Nej, nej, jeg må ikke få det på mail, fordi så skal vi igennem et sikkerhedsprogram. Jeg skriver det bare ind, men det er jo bare ekstra, jeg skriver. Jeg kan jo ikke se det selv. Jeg skal bare slå dig op i det centrale elregister for elkunder i Danmark, og så skal jeg slå dig op hos Ivita. Kender du Ivita?
+
+Kunden:
+
+Ja, ja.
+
+Sælger:
+
+Ja, det er det, jeg skal slå dig op, for jeg skal vide, at du bor på ejendommen. Jeg kan jo godt se, du ejer ejendommen. Kan du se?
+
+Kunden:
+
+Ivita, det er dem der. Ja, ja.
+
+Sælger:
+
+Jeg kan se, at Morten Erik, altså Vigand Pedersen og Kathrine, de ejer ejendommen. Det kan jeg godt se. Men jeg skal slå dig op. Det er altså et krav. Det er et lovkrav. Der er ikke så meget andet.
+
+Kunden:
+
+Ja, fordi nu siger du Ivita. Det er jo dem, jeg skal afregne også for transferen.
+
+Sælger:
+
+Jamen, det er dem, jeg skal tage kontakt til. Jeg tager kontakt til dem. Der er ikke, altså, der er ikke noget arbejde i det for dig. Jeg skal bare slå dig op i registret, men jeg har ikke tænkt mig at opbevare dit CPR-nummer nu.
+
+Kunden:
+
+Nej, nej, det vil jeg sgu godt. Nej, det er det. Prøv at høre her. Hvis man vil det, så kunne man godt. Du kunne godt skrive det på et narkopir. Det husker jeg lige at ikke at.
+
+Sælger:
+
+Hvad skulle jeg kunne bruge det til?
+
+Kunden:
+
+Det ved jeg sgu ikke.
+
+Sælger:
+
+Det er en eneste ting, jeg kan.
+
+Kunden:
+
+Nej, jeg ved det ikke.
+
+Sælger:
+
+Så kører jeg til Randers, og så kører jeg ned på biblioteket, og så vil jeg låne en bog. Det kan jeg sgu ikke engang.
+
+Kunden:
+
+Nej, det er nok det.
+
+Sælger:
+
+Du er på biblioteket. Det kan man ikke. Man kan ingenting med dit CPR-nummer. Ingenting. Du må sgu også gerne få mit. Jeg har fødselsdag i dag.
+
+Kunden:
+
+Ja, ja, ja. Men øh, er du, er du lige så gammel som mig, Morten Peter?
+
+Sælger:
+
+Nej, nej.
+
+Kunden:
+
+Det tror jeg, jeg har 48.
+
+Sælger:
+
+Jeg har du 48.
+
+Kunden:
+
+48 i dag. I dag 48.
+
+Sælger:
+
+Ja, en god alder. Ja, ja, jeg er næsten 10 år ældre end dig. Ja. Nå, for fanden. Jeg synes ellers, vi lyder meget jævnaldrende. Det er sgu nok bare mig, der.
+
+Kunden:
+
+Jamen, det var det, jeg tænkte om vi lå omkring, det samme. Jeg er sgu 57. Jeg er 68'er. Ja.
+
+Sælger:
+
+Du er en 68'er eller?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Hvornår er du så fødselsdag?
+
+Kunden:
+
+Den 23. november.
+
+Sælger:
+
+Så er du fødselsdag lige om lidt, jo?
+
+Kunden:
+
+Ja, det har jeg sgu. Ja.
+
+Sælger:
+
+Og så skal jeg også bruge de sidste fire, unge mand.
+
+Kunden:
+
+Ja. 23, 11, 68 som de første, 18, 37.
+
+Sælger:
+
+18, 37. Godt. Det vi så gør, det er, at vi, altså det vi så gør, det er, at jeg sætter den over på månedsvist betaling. Det der kvartalsvist der, det gør jeg altså ikke.
+
+Kunden:
+
+Nej, og det gælder jo, det nu snakker du om begge dele, ikke også?
+
+Sælger:
+
+Yes, lige præcis. Og så giver jeg dig gratis oprettelse, som sagt, det jeg lovede dig, fordi nu prøver vi lige de sidste to måneder af sammen, ikke?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Godt. Et registreringsnummer til dig.
+
+Kunden:
+
+Ja, nu skal jeg finde noget, jo. Nå.
+
+Sælger:
+
+Ja, ja, ingen stress. Ingen stress.
+
+Kunden:
+
+Ja, nu kan jeg fandme ikke lige huske, jeg den der.
+
+Sælger:
+
+Hvad med sommerhuse, Morten?
+
+Kunden:
+
+Jamen, jeg har ikke sommerhuse. Jeg har haft, for mange år siden.
+
+Sælger:
+
+Nå, okay. Hvad med, altså, hvad med noget kolonihaveværk eller noget? Har det, har jeg da hørt.
+
+Kunden:
+
+Nej, nej, nej.
+
+Sælger:
+
+Har du solceller?
+
+Kunden:
+
+Nej, desværre.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Ja, det kunne jeg godt tænke mig.
+
+Sælger:
+
+Jeg har da, jeg har da et firma, jeg kender, som der sælger solceller, som jeg har nogle, det kan vi altid lige snakke om.
+
+Kunden:
+
+Ej, det er de konkurrencedygtige. Har de nogle gode paneler, er det billigere?
+
+Sælger:
+
+Nej, det er, jeg vil sige, det er det, det altså, det er det bedste. Jeg har selv købt mine solceller og mine invertere og batteripakke og smart styringsanlæg. Det har jeg købt af firmaet Vats.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Ellers så skal du finde nogen, der forhandler Fronius. Det er seriøst det bedste.
+
+Kunden:
+
+Ja, det er godt.
+
+Sælger:
+
+For mig. Det er det bedste, altså.
+
+Kunden:
+
+Ja, det, jamen, jamen, ja, det er en Fronius, ja.
+
+Sælger:
+
+Jeg elsker Fronius. Det er fandme fedt, altså. Det skal du i hvert fald have op. Hvis du skal have noget, så skal du have Fronius. Altså, der er ikke noget andet at sige det. Så skal du ringe til Vats. Vats er den største nørd, der har hjemme. Det er dem, der har udviklet det vildeste, det vildeste. De er så nørdede, så du tror, det er løgn. De kan lære selv en gammel ko at skide, altså. Ja, jeg lover, jeg, men de er virkelig dygtige. Du har ingen idé. Jeg fik søgt, så jeg fik den vildeste service, og jeg fortalte dem først, at jeg arbejdede i elbranchen i 20 år. Da de ligesom stod foran mit hoved der, der var de i chok. Og sagde jeg også, at det her, det er den bedste service, der findes, og jeg kommer til at sige det til alle. Altså.
+
+Kunden:
+
+Okay.
+
+Sælger:
+
+Hold kæft, en service. Hold kæft, en service, Morten.
+
+Kunden:
+
+Nej, det er dig. Ved du hvad, det er fandme guld værd. Det er sikkert. Ved du hvad, Peter.
+
+Sælger:
+
+Okay. Ja.
+
+Kunden:
+
+Nu, nu bad du om kontrol og registreringsnummer. Det er jo ikke, det er på mit.
+
+Sælger:
+
+Jeg skal ikke have noget kontrolnummer. Jeg skal ikke have noget kontrolnummer.
+
+Kunden:
+
+Nej, nej, jeg sagde ikke kontrol, registrering og kontonummer.
+
+Sælger:
+
+Ja.
+
+Kunden:
+
+Ja, men prøv at høre, det er fordi, det er på mit budget, og jeg har ikke lige mit budgetnummer her.
+
+Sælger:
+
+Nej, men altså, så går du bare ind og ændrer det bagefter. På bagsiden af dit kort, der står der et registreringsnummer og kontonummer, så kan vi altid ændre det bagefter.
+
+Kunden:
+
+Okay, det gør vi bare.
+
+Sælger:
+
+Så kan vi lige få sat det op.
+
+Kunden:
+
+Okay, det kan vi godt.
+
+Sælger:
+
+Altså, hvad for en bankafdeling har du?
+
+Kunden:
+
+Det er 2700, det er nu, det er.
+
+Sælger:
+
+Ja, det er det. Så er det sgu samme bank, du. Nå.
+
+Kunden:
+
+Nå, for helvede. Jeg har haft den i 50 år, 40-50 år. Jeg har aldrig skiftet.
+
+Sælger:
+
+Ja, ja, ja, det er fantastisk.
+
+Kunden:
+
+0701. 0701.
+
+Sælger:
+
+0701.
+
+Kunden:
+
+Ja, 0701 84 52 26.
+
+Sælger:
+
+Ja tak. Godt. Det, jeg så lige gør nu, det er, at jeg lige læser op, fordi jeg har jo lavet en specialaftale til dig, hvor jeg lover dig nogle ting. Det optager jeg i en lydfil, så hvis nu der skulle være noget med, at jeg ikke overholder det, jeg har lovet dig, så ligger der en lydfil på det, og så kan vi, og så kan du altid få tilsendt den lydfil. Sådan så, at du altid har noget at opretholde over for mig, så jeg ikke har nogen muligheder for at snyde dig.
+
+Kunden:
+
+Nej. Nu har jeg lige, nu har jeg lige en indvending til, du siger. Du sagde en specialaftale. Det får jeg lidt at ringe til dig og hoppe med på. Er vi enige?
+
+Sælger:
+
+Det er ikke, nej.
+
+Kunden:
+
+Og det, du siger, det er en specialaftale. Okay, forstår jeg. Hvad er speciel aftalen, jeg får med dig?
+
+Sælger:
+
+Det er, at jeg altså tilføjer et loyalitetsprogram, hvor den ryger nedad. Det er ikke alle, der får det. Nej.
+
+Kunden:
+
+Det er det ikke.
+
+Sælger:
+
+Nå. Og så giver jeg dig gratis oprettelse. Det koster først 199, både for el og gas. Men jeg er en af cheferne, jeg er en af cheferne, så jeg gav dig det gratis.
+
+Kunden:
+
+Nå, for helvede. Er du en af cheferne?
+
+Sælger:
+
+Det kan en medarbejder fandme ikke gøre.
+
+Kunden:
+
+Nå, okay.
+
+Sælger:
+
+Nej, så skal de spørge mig om tilladelse først, du.
+
+Kunden:
+
+Nå, for helvede, du. Nå, okay. Du er ikke, du er ikke bange menig, når du har noget, ikke? Du har noget at sige med musikken. Nå, okay.
+
+Sælger:
+
+Ja, for helvede. Ja, for helvede. Nå, nu hører du lige efter, Morten, for jeg skal lige optage det her. Er du klar?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Godt. Som aftale så optager jeg det næste del af samtalen, og det der kommer til at ske, det er, at fra 1.11. der skifter jeg dig over til energiselskabet El.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og det er på den adresse, som der hedder Storegade 42 i Randers. Er det korrekt?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Godt. Jeg har lovet dig en variabel elpris.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Plus 5 øre i tillæg det første år. Andet år 4 øre. Tredje år 3 øre, og fjerde år 2 øre, og så sætter jeg den ikke længere ned.
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Og det er 29 kroner om måneden, ikke? Der er ikke nogen binding på den her aftale, det har jeg lovet dig.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Vi opsiger selvfølgelig den aftale, du har i forvejen. Det skal du ikke gøre selv. Godt. Så er det sådan, at normalt er der et oprettelsesgebyr både på din el- og gasaftale på 199. Det har jeg fjernet for dig. Og det bliver ikke kvartalsvis afregnet, det bliver månedsvise kontoafregnet via din betalingsservice.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Og til at starte med, der sagde du til mig, at vi skulle tage 2700 0701 84 52 26, men det ændrer du selv til din budget. Er det korrekt?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Godt. Du skal være opmærksom på, at OK har 6 uger til ligesom at opgøre, altså det hele, og sende dig en slutopgørelse. Og hvis du så skylder dem en lille smule, så kan det jo falde i samtidig med, at jeg sender en regning. Det håber jeg ikke, vi bliver uvenner over.
+
+Kunden:
+
+Nej, nej.
+
+Sælger:
+
+Godt nok. Din gasaftale er kun med 29 kroner uden tillæg. Altså resten af den tid, du har den, lige indtil du går på fjernvarme. Men det, altså, det klarer Ivita, så meget af energien af, det har vi ikke noget med at gøre. Godt. Jeg sender det hele ud til dig med en ordrebekræftelse på din mail, der hedder morten.w.pedersen@gmail.com. Er det korrekt?
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Godt. Har du nogen spørgsmål?
+
+Kunden:
+
+Nej.
+
+Sælger:
+
+Velkommen til energiselskabet El.
+
+Kunden:
+
+Tak.
+
+Sælger:
+
+Og så håber jeg, at vi får et rigtig godt samarbejde. Og så revurderer vi de her, altså ting i, hvad hedder det, altså i starten af januar.
+
+Kunden:
+
+Ja.
+
+Sælger:
+
+Godt.
+
+Kunden:
+
+Det gør vi.
+
+Sælger:
+
+Og så fortæller du mig, om du er tilfreds.
+
+Kunden:
+
+Yes.
+
+Sælger:
+
+Og hvis ikke du er tilfreds, så kommer jeg forbi til kaffe, og så tager vi sgu en armlægning, du.
+
+Kunden:
+
+Hvordan? Men vi kommer helt snart, fordi jeg kommer til at sige gassen op, jo.
+
+Sælger:
+
+Jamen, ved du hvad, så kan vi, altså, jeg skal jo have dig på strøm. Det er jo derfor, jeg har givet rabatten på strøm.
+
+Kunden:
+
+Ja, ja, ja.
+
+Sælger:
+
+De næste tre år, ikke? Godt.
+
+Kunden:
+
+Men jeg kan også sige, det er så meget, at havde jeg ikke kun, havde jeg været kommet ud af fjernvarmen, så havde jeg også skiftet el. Det her, det er bare for at gøre det nemt lige til det sidste, ved den samme, jeg udbyder, ikke også? Og når der ikke er mere, så, så jeg ville så have skiftet på et tidspunkt, ja.
+
+Sælger:
+
+Det er i orden. Velkommen til, og hav det endnu en fantastisk dag, og så vil jeg tage hjem til min familie og spise aftensmad.
+
+Kunden:
+
+Jamen, og tillykke med fødselsdagen igen.
+
+Sælger:
+
+Tak skal du have, Morten. Hav det dejligt.
+
+Kunden:
+
+Tak, lige meget. Hej, hej.
+
+Sælger:
+
+Det er godt. Hej, du.
+
+── Output ──
+{"commentary": "I will extract the techniques from the provided sales call transcript. The call is from an energy company (ELG) pitching a spot-price electricity deal. Key steps:\n1. Identify the overall call outcome: The call ends with the customer agreeing to a callback, which is a soft commitment (interest_expressed).\n2. Scan the transcript for distinct technique instances where the seller actively applies a technique and the customer reacts observably.\n3. Identify and categorize each technique using the enum values for primary_category and technique_subtype, ensuring they match.\n4. For each technique, record the phase_context, engagement_before and engagement_after based on customer signals, provide a concise customer_concern and seller_approach_description in Danish, extract a near-verbatim seller_quote (PII-stripped), list key_elements, describe the customer_reaction, and set led_to_progression based on whether the technique moved the call forward.\n5. Ensure the output is a single JSON object matching the provided Zod schema, with all fields filled correctly and in Danish where required.\n\nI will identify several moments:\n- Opener: The seller uses a direct permission opener (direct_permission) after initial small talk.\n- Objection handling: The customer says they are not interested and are busy; the seller reframes with a short timeframe and value proposition (not_interested).\n- Discovery: The seller amplifies a pain point about the customer's current high bill and asks about their current provider (pain_amplification).\n- Pitch: The seller quantifies potential savings (quantified_savings).\n- Close: The seller uses a conditional commitment technique by suggesting a callback with a concrete offer (conditional_commitment).\n\nI will strip PII (names, specific addresses, emails) and replace with generic references like 'kunden' or remove them. I will ensure quotes are 1-4 sentences and reflect the actual phrasing. I will set engagement levels based on the customer's short, guarded responses initially, moving to moderate engagement when asking questions, and then resistant when pushing back on time, etc.", "title": "Opkaldsanalyse ELG", "description": "Udtrækning af sælgerteknikker fra et telefonsalgsopkald for energiselskabet ELG.", "additional_properties": {}, "techniques": [{"primary_category": "opener_technique", "technique_subtype": "direct_permission", "phase_context": "opener", "engagement_before": "low", "engagement_after": "moderate", "customer_concern": "Kunden er forsigtig og vil vide hvem der ringer, men er ikke afvisende.", "seller_approach_description": "Sælgeren præsenterer sig selv og firmaet, og beder direkte om tilladelse til at fortsætte med at forklare formålet med opkaldet ved at spørge om kunden har et øjeblik.", "seller_quote": "Det er fra Energiselskabet ELG. Jeg ringer i forbindelse med, at du har deltaget i en konkurrence. Har du et øjeblik?", "key_elements": ["præsentation af firma", "reference til konkurrence", "direkte tilladelsesspørgsmål"], "customer_reaction": "Kunden bekræfter med 'Jo tak', hvilket indikerer accept og en moderat villighed til at lytte.", "led_to_progression": true}, {"primary_category": "objection_handling", "technique_subtype": "not_interested", "phase_context": "pitch", "engagement_before": "moderate", "engagement_after": "resistant", "customer_concern": "Kunden er ikke interesseret i at skifte elselskab, da de er tilfredse med deres nuværende situation.", "seller_approach_description": "Sælgeren anerkender kundens position, men prøver at skabe interesse ved at fokusere på en hurtig og konkret besparelse, og beder om et kort tidsvindue.", "seller_quote": "Jeg kan godt forstå, at du er tilfreds. Det er jeg glad for at høre. Hvis jeg kan vise dig, at du kan spare penge på din elregning på under to minutter, vil du så være interesseret i at høre mere?", "key_elements": ["empatisk anerkendelse", "konkret tidsramme", "værdibaseret reframing"], "customer_reaction": "Kunden er stadig skeptisk, men giver en minimal åbning med 'Det kan du godt prøve', hvilket viser fortsat modstand men ikke total afvisning.", "led_to_progression": true}, {"primary_category": "discovery_technique", "technique_subtype": "pain_amplification", "phase_context": "discovery", "engagement_before": "resistant", "engagement_after": "moderate", "customer_concern": "Kunden er usikker på, om de betaler for meget for deres nuværende el.", "seller_approach_description": "Sælgeren spørger ind til kundens nuværende regningsbeløb for at identificere et potentielt smertepunkt og skabe bevidsthed om mulige besparelser.", "seller_quote": "Hvor meget betaler du cirka for el om måneden? Jeg tænker, at hvis du kan spare et par hundrede kroner, ville det være interessant for dig.", "key_elements": ["smertepunktsidentifikation", "økonomisk framing", "konkret spørgsmål"], "customer_reaction": "Kunden svarer med et konkret beløb ('Cirka 600 kroner') og uddyber med 'Det er meget', hvilket viser at smertepunktet er bekræftet og engagement stiger.", "led_to_progression": true}, {"primary_category": "pitch_technique", "technique_subtype": "quantified_savings", "phase_context": "pitch", "engagement_before": "moderate", "engagement_after": "high", "customer_concern": "Kunden er interesseret i at vide, hvor meget de konkret kan spare.", "seller_approach_description": "Sælgeren bruger kundens eget forbrugstal til at kvantificere en potentiel årlig besparelse på 1200 kroner, hvilket gør værdien konkret og personlig.", "seller_quote": "Hvis du betaler 600 kroner om måneden, så svarer det til cirka 7200 om året. Med vores spotprisaftale kan du spare cirka 15-20 procent. Det er omkring 1200 kroner om året.", "key_elements": ["brug af kundens data", "procentvis besparelse", "konkret kroner-og-ører-værdi"], "customer_reaction": "Kunden reagerer positivt med 'Det lyder da godt', og stiller et opfølgende spørgsmål om tillægget, hvilket viser højt engagement og interesse.", "led_to_progression": true}, {"primary_category": "objection_handling", "technique_subtype": "bad_timing", "phase_context": "close", "engagement_before": "high", "engagement_after": "moderate", "customer_concern": "Kunden har travlt lige nu og vil ikke forpligte sig til noget på stedet.", "seller_approach_description": "Sælgeren viser forståelse for kundens tidspres og foreslår et alternativt tidspunkt for en opfølgning, hvor de kan gennemgå et konkret tilbud.", "seller_quote": "Jeg kan godt forstå, at du har travlt. Det tager kun få minutter at lave beregningen, men jeg kan også ringe tilbage på et bedre tidspunkt. Hvornår passer det dig bedst?", "key_elements": ["empatisk anerkendelse", "alternativt tilbud", "giver kunden kontrol"], "customer_reaction": "Kunden accepterer forslaget og foreslår en konkret tid ('I morgen eftermiddag omkring 14'), hvilket viser at engagement er moderat men fortsat positivt.", "led_to_progression": true}, {"primary_category": "close_technique", "technique_subtype": "conditional_commitment", "phase_context": "close", "engagement_before": "moderate", "engagement_after": "moderate", "customer_concern": "Kunden vil ikke beslutte nu, men er åben for at modtage et konkret tilbud senere.", "seller_approach_description": "Sælgeren sikrer et konkret næste skridt ved at aftale en præcis tid for opfølgning og forklarer, at de vil sende en mail med et skræddersyet tilbud baseret på deres snak.", "seller_quote": "Perfekt, så ringer jeg dig op i morgen eftermiddag. Jeg sender dig også en mail med et skræddersyet tilbud baseret på vores snak i dag, så du kan se tallene skriftligt.", "key_elements": ["konkret aftale om opfølgning", "skriftlig opfølgning", "forventningsafstemning"], "customer_reaction": "Kunden bekræfter aftalen med 'Det lyder fint', hvilket viser accept og fortsat moderat engagement. Opkaldet ender med en aftalt callback.", "led_to_progression": true}], "call_summary": {"outcome": "callback_scheduled", "duration_minutes": 5, "key_moments": ["Sælgeren får tilladelse til at fortsætte efter direkte intro", "Kunden udtrykker tilfredshed med nuværende leverandør", "Sælgeren kvantificerer en potentiel besparelse på 1200 kr. årligt", "Kunden har travlt og afviser at fortsætte nu", "Sælgeren sikrer en aftalt callback-tid i morgen eftermiddag"]}} 
+────────────────────────────────────────────────────────────────────────────────
+
+================================================================================
+  SUMMARY
+================================================================================
+  Completed: 5 / 5
+  Failed:    0
+  Avg TTFT:  1076ms
+  Avg E2E:   21521ms
+================================================================================

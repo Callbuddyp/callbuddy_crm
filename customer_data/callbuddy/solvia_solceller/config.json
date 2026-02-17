@@ -1,0 +1,135 @@
+{
+    "campaign": {
+        "id": "solvia_solceller",
+        "name": "Solvia Solceller",
+        "description": "Demo kampagne for solcellesalg",
+        "language": "Dansk",
+        "status": "active"
+    },
+    "dataset": {
+        "name": "solvia_solceller",
+        "action_types": [
+            "close",
+            "objection",
+            "text",
+            "price_comparison"
+        ]
+    },
+    "firm": {
+        "name": "Callbuddy"
+    },
+    "api_keys": {
+        "gemini": "AIzaSyCHjuyc4Uidi3QUEDNwVqcPXne9f1OOfX0",
+        "soniox": "dad995edb001959887cd69f3d4dc1b072f93abfa235c679e0296b13258721454"
+    },
+    "admin_users": [
+        {
+            "email": "mikkeljanusdahl@gmail.com",
+            "name": "Mikkel Dahl"
+        }
+    ],
+    "vad": {
+        "speech_minimum_duration_ms": 2000,
+        "silence_before_ai_ms": 500
+    },
+    "prompts": {
+        "generate_campaign_info": true,
+        "actions": {
+            "objection": {
+                "langfuse_name": "solvia_solceller_objection",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "solvia_solceller_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "objection_prompt"
+                    ]
+                }
+            },
+            "close": {
+                "langfuse_name": "solvia_solceller_close",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "solvia_solceller_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "close_prompt"
+                    ]
+                }
+            },
+            "ai_suggestion": {
+                "langfuse_name": "solvia_solceller_ai_suggestion",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "solvia_solceller_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "ai_suggestion"
+                    ]
+                }
+            },
+            "text": {
+                "langfuse_name": "solvia_solceller_text",
+                "enabled": true,
+                "config": {
+                    "use_internet": true,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "solvia_solceller_info"
+                    ],
+                    "user": [
+                        "text_prompt"
+                    ]
+                }
+            },
+            "price_comparison": {
+                "langfuse_name": "solvia_solceller_price_comparison",
+                "enabled": true,
+                "config": {
+                    "use_internet": true,
+                    "output_type": "text",
+                    "search_sources": [
+                        "solcellepriser.dk",
+                        "bolius.dk"
+                    ]
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "solvia_solceller_info"
+                    ],
+                    "user": [
+                        "sammenligning_pris_solvia_prompt"
+                    ]
+                }
+            }
+        }
+    }
+}

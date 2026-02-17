@@ -7,16 +7,20 @@ This document describes how to create and configure new campaigns for the Callbu
 Each campaign requires the following directory structure:
 
 ```
-customer_data/<client>/<campaign>/
-├── config.json              # Campaign configuration (required)
-├── campaign_info/           # Raw campaign materials (optional)
-│   ├── product_info.txt
-│   ├── sales_script.txt
-│   └── objection_guide.txt
-├── conversations/           # Audio files for dataset generation (optional)
-├── speaker_map.json         # Speaker mapping for audio files (optional)
-├── processed_conversations/ # Auto-generated transcriptions
-└── dataset/                 # Auto-generated test cases
+customer_data/<client>/
+├── firm_config.json         # Firm configuration (name)
+├── users.csv                # List of users for all campaigns (optional)
+└── <campaign>/
+    ├── config.json          # Campaign configuration (required)
+    ├── users.csv            # Campaign-specific users (optional, overrides parent)
+    ├── campaign_info/       # Raw campaign materials (optional)
+    │   ├── product_info.txt
+    │   ├── sales_script.txt
+    │   └── objection_guide.txt
+    ├── conversations/       # Audio files for dataset generation (optional)
+    ├── speaker_map.json     # Speaker mapping for audio files (optional)
+    ├── processed_conversations/ # Auto-generated transcriptions
+    └── dataset/             # Auto-generated test cases
 ```
 
 ---
@@ -31,7 +35,25 @@ customer_data/<client>/<campaign>/
     "id": "my_campaign",
     "name": "My Campaign Display Name",
     "description": "Optional description",
-    "language": "Dansk"
+    "language": "Dansk",
+    "status": "draft"
+  },
+  "api_keys": {
+    "gemini": "sk-...",
+    "soniox": "..."
+  },
+  "admin_users": [
+    {
+      "email": "admin@example.com",
+      "name": "Admin Name"
+    }
+  ],
+  "campaign": {
+    "id": "my_campaign",
+    "name": "My Campaign Display Name",
+    "description": "Optional description",
+    "language": "Dansk",
+    "status": "draft"
   },
   "dataset": {
     "name": "my_campaign",
@@ -61,11 +83,23 @@ customer_data/<client>/<campaign>/
 
 | Section | Description |
 |---------|-------------|
+| `api_keys` | API keys to be stored securely in Supabase (Gemini, Soniox) |
+| `admin_users` | List of admins to be created and linked to the campaign |
 | `campaign` | Basic campaign identification and metadata |
 | `dataset` | Dataset generation settings and action types |
 | `vad` | Voice Activity Detection configuration |
 | `prompts` | Langfuse prompt configuration |
 | `campaign_info_files` | List of files in `campaign_info/` to process |
+
+### firm_config.json (in parent directory)
+
+```json
+{
+  "name": "My Firm Name"
+}
+```
+
+The firm configuration is placed in the parent directory (e.g., `customer_data/daica/firm_config.json`) and is shared across all campaigns for that firm. This avoids duplicating firm info in each campaign.
 
 ---
 
@@ -207,3 +241,18 @@ User Prompt:
 | "Invalid action types" | Check that action types in config match the valid types above |
 | "Langfuse prompt not found" | Ensure the base prompts exist in Langfuse (salescall_system1, etc.) |
 | "GEMINI_API_KEY missing" | Set the environment variable or add to scripts/.env |
+| "Supabase sync failed" | Ensure SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY are set in scripts/.env |
+
+## User Access (users.csv)
+
+To bulk onboard users and assign them to the campaign, create a `users.csv` file in the campaign directory (or firm directory for shared users):
+
+```csv
+email
+john@example.com
+jane@example.com
+```
+
+- Users are identified by email only
+- Firm is automatically assigned from `firm_config.json` in the parent directory
+- Running the script multiple times is safe (idempotent) - existing users won't be duplicated

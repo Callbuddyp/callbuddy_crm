@@ -1,0 +1,257 @@
+{
+    "transcript": "Kunden:\n\nDet er Tina.\n\nSælger:\n\nGoddag, Tina. Du taler med Noah.\n\nKunden:\n\nFra forsikring?\n\nSælger:\n\nØh, jeg ringer fra et energiselskab.\n\nKunden:\n\nNå, okay.\n\nSælger:\n\nJeg ringer egentlig lige i forhold til elregningen derude, Tina. Kan det være så, at det er dig, der står for det?\n\nKunden:\n\nJa.\n\nSælger:\n\nSuper. Og grunden til, at jeg spørger lidt ind til det, er jo egentlig også for at være ærlig med dig, den i forhold til den her elaftale derude, er det en, du har været ude og få kigget på her hen i vinteren?\n\nKunden:\n\nJa.\n\nSælger:\n\nJa, super dejligt. Er det i form af noget skift, du har taget lidt stilling til det?\n\nKunden:\n\nJa, det er det.\n\nSælger:\n\nMå jeg spørge dig, hvor du skifter hen?\n\nKunden:\n\nDet hedder Energi Vest.\n\nSælger:\n\nJa, VestEnergi?\n\nKunden:\n\nEller VestEnergi, ja, omvendt.\n\nSælger:\n\nJa, okay. Hvornår kom du derind?\n\nKunden:\n\nDet er nogle måneder siden.\n\nSælger:\n\nNogle måneder siden, okay. Tina, nu ved jeg ikke, om du er blevet informeret om det her i forhold til VestEnergi, men de sætter jo deres priser markant op her fra den 1. af.\n\nKunden:\n\nJa, det har jeg godt set.\n\nSælger:\n\nJa, og det er jo, jeg tænker, at det tilbud, du er blevet tilbudt dengang, det var det, der hed 4 øre i tillægspris.\n\nKunden:\n\nJa, det tror jeg, det var.\n\nSælger:\n\nJa, dem sætter de jo faktisk op til 50 øre. Det er jo en vanvittig stor, et stort hop, de lige pludselig laver der.\n\nKunden:\n\nJa, det er det. Hvor er det fra?\n\nSælger:\n\nJeg ringer inde fra energiselskabet El, ligesom i dyret.\n\nKunden:\n\nNå, det har jeg aldrig hørt om.\n\nSælger:\n\nNej, vi er også et lidt mindre selskab end de fleste andre. Og det er sådan set også derfor, hvorfor vi kan tilbyde en rigtig billig pris, fordi prisen her hos os, den hedder nemlig 5 øre, og så for hvert år, du er kunde herinde, så falder den faktisk yderligere med 1 øre. Så du samtidig er skærmet for det her med, at prisen lige pludselig går op, uden man lige sådan har sagt ja til det, men at man faktisk altså går ned i pris, jo længere tid man er kunde inde hos os.\n\nKunden:\n\nJa.\n\nSælger:\n\nJa, det tænker jeg, Tina, skal vi ikke få ordnet det, inden du lige pludselig ender med at betale de her 50 øre her?\n\nKunden:\n\nHvad har I sådan noget, ikke abonnementspris, men jeres som regel, så er der jo ligesom noget, altså energiafgiften er jo en, altså energiafgiften inde fra staten, det kan vi ikke røre ved.\n\nSælger:\n\nNej.\n\nKunden:\n\nMen har I andet, som I?\n\nSælger:\n\nAltså, vi har selvfølgelig abonnementet på de her 29 kroner, som det er ved de fleste forretninger.\n\nKunden:\n\nPå 29 kroner, ja.\n\nSælger:\n\nJa, det kan jeg ikke sige med garanti, hvad du lige betaler i dag, altså jeg kan se på deres hjemmeside, reklamerer de også med 29 kroner.\n\nKunden:\n\nJa, ja, ja.\n\nSælger:\n\nSå det er det, jeg lige vil gå ud fra.\n\nKunden:\n\nAltså de der per måned, det er abonnement, ja.\n\nSælger:\n\nJa, lige netop, det er det samme, som du kører i på i dag. Det er bare den her tillægspris, som jo så er, altså det er jo 45 øre, hvad end du sparer hver gang, som bruger strømmen.\n\nKunden:\n\nJa.\n\nSælger:\n\nOg det render rigtig hurtigt op, tænker jeg godt kan forestille mig.\n\nKunden:\n\nJa, ja, men det er godt, at det er, og nu går vi mod vinter og så videre.\n\nSælger:\n\nJa, altså bare en hurtig regning, hvis du har et gennemsnitligt forbrug derhjemme, så er det omkring en 1500, du egentlig kan putte i lommen, eller i hvert fald undgå at betale.\n\nKunden:\n\nJa, ja, det er det.\n\nSælger:\n\nOg det er jo mange penge.\n\nKunden:\n\nJa. Hvad tager I, er det per kvartal, eller er det forud, eller er det per måned, man betaler, eller hvordan?\n\nSælger:\n\nDet er månedsvis af konto, vi kører herinde.\n\nKunden:\n\nOkay, det kan jeg godt lide.\n\nSælger:\n\nSuper, jamen det er godt. Så tænker jeg, Tina, skal vi ikke lige få ordnet det med det samme?\n\nKunden:\n\nJo, det synes jeg.\n\nSælger:\n\nYes. Dit fulde navn, hvordan lyder det?\n\nKunden:\n\nDet er Tina Pedersen.\n\nSælger:\n\nTina Pedersen. Og adressen, det foregår ud på?\n\nKunden:\n\nDet er Vestergårdsvænget, og gård, det er med dobbelt a.\n\nSælger:\n\nJa, altså vænget med e, eller hvordan?\n\nKunden:\n\nJa, vænget med, ja, 55.\n\nSælger:\n\n55.\n\nKunden:\n\nOg det er 75 00.\n\nSælger:\n\nJa, Holstebro?\n\nKunden:\n\nJa.\n\nSælger:\n\nSuper. Nu skal jeg lige se, at jeg har skrevet den her adresse rigtigt her.\n\nKunden:\n\nJa.\n\nSælger:\n\nVestergårdsvænget, ja. Sådan der. Og din e-mailadresse, hvordan lyder den?\n\nKunden:\n\ntina.p1968@gmail.com.\n\nSælger:\n\nGmail.com, super. Og telefonnummer, det er vel bare det, jeg ringer til her i dag?\n\nKunden:\n\nNej, det er faktisk min mands nummer, det var fordi, jeg ventede lidt med det, det var derfor, jeg spurgte forsikring, det var fordi, jeg ventede på det, fordi han var lige udenfor.\n\nSælger:\n\nNå.\n\nKunden:\n\nMit nummer, det er 21 29 34 39.\n\nSælger:\n\n34 39, super. Så skal jeg se her, og skal jeg fjerne din mands nummer, eller skal jeg sætte det ind som en nødløsning, hvis nu du ikke tager den?\n\nKunden:\n\nEj, bare det er fint, ja, det må du godt fjerne, bare tag mit. Herhjemme er det mig, der styrer alle de der med varme og el og forsikringer, og sådan noget, det gider han ikke tage sig af.\n\nSælger:\n\nNej, det er sgu også sådan lidt kedeligt, jo.\n\nKunden:\n\nJa, jeg synes jo, det er spændende.\n\nSælger:\n\nJa, så er det jo heldigt nok.\n\nKunden:\n\nJa, ja.\n\nSælger:\n\nTina, så skal jeg lige låne dit CPR-nummer engang, for at kunne sætte det op på måleren derude.\n\nKunden:\n\nDet er 22 02 68.\n\nSælger:\n\nJa.\n\nKunden:\n\n2092.\n\nSælger:\n\n2092, super. Og så lige i forhold til det her betaling, det kører vel også over betalingsservicen, ikke også?\n\nKunden:\n\nJo, det gør det.\n\nSælger:\n\nYes, skal vi få sat det op med det samme også?\n\nKunden:\n\nJa, det kan vi lige så godt.\n\nSælger:\n\nYes. Så er det det, der hedder registrering af kontonummer, jeg skal låne.\n\nKunden:\n\nJa, det finder jeg lige, det finder jeg jo så lige på min egen telefon.\n\nSælger:\n\nJa.\n\nKunden:\n\nØjeblik. Det er registreringsnummer, det er 75 00.\n\nSælger:\n\nJa.\n\nKunden:\n\nOg så finder du selv ud af, hvor mange nuller du skal have foran, det plejer at være 4 eller 5, godt. Og så er kontonummeret 14 89.\n\nSælger:\n\nJa.\n\nKunden:\n\nNej, det er mig, der kigger forkert. Sæt det lige igen.\n\nSælger:\n\nJa.\n\nKunden:\n\nDen hedder 14 28.\n\nSælger:\n\nYes.\n\nKunden:\n\n970.\n\nSælger:\n\n970, super, og så er der 3 nuller foran her. Ja, det stemmer, kan jeg se. Super. Tina, lige her inden vi slutter det af, så læser jeg lige hurtigt aftalen op for dig, jeg håber, det er i orden, så optager jeg lige herinde.\n\nKunden:\n\nJa.\n\nSælger:\n\nSuper. Godt, som aftalt, så optager vi den næste del af samtalen, og der har vi aftalt, at jeg skifter dig over på en ny privat aftale hos energiselskabet El. Det er med opstarten den 1.10, og vi opretter alle målere på adressen, der hedder Vestergårdsvænget 55 i 75 00 Holstebro.\n\nKunden:\n\nJa.\n\nSælger:\n\nYes. Du betaler en variabel pris, som er indkøbsprisen af strømmen, plus det her tillæg på kun 5 øre. For hver 12. måned, du står i kunde herinde, så vil den her tillægspris falde med 1 øre, og dit sidste, eller slutstadiet, vil være ved dit fjerde år som kunde, hvor den kommer helt ned i kun 2 øre. Abonnementet, det er på 29 kroner om måneden, og så er der heller ikke nogen binding på den her aftale.\n\nKunden:\n\nJa.\n\nSælger:\n\nDer er et oprettelsesgebyr på 199, det håber jeg, det er okay med dig, Tina. Det er sådan, jeg får lidt penge til huslejen derhjemme.\n\nKunden:\n\nJa, så skidt da.\n\nSælger:\n\nDet var godt. Og du betaler månedsvise konto via betalingsservicen, som jeg sætter op for dig herinde.\n\nKunden:\n\nJa.\n\nSælger:\n\nJa, så skal du være opmærksom på, Tina, at dit nuværende selskab, altså VestEnergi her, de har lige 6 uger til, at du skifter over til mig, til lige at fortælle dig, om der er nogle penge, du skal have tilbage.\n\nKunden:\n\nJa.\n\nSælger:\n\nOg det er det, der hedder en slutopgørelse.\n\nKunden:\n\nJa.\n\nSælger:\n\nJa, jeg sender naturligvis en ordrebekræftelse på din e-mailadresse, som var den her, nu skal jeg se her, det var tina.p1968@gmail.com.\n\nKunden:\n\nJa.\n\nSælger:\n\nSuper. Så stopper jeg lige optagelsen igen her, og så vil jeg lige høre dig, Tina, har du nogle spørgsmål til mig?\n\nKunden:\n\nNej, det synes jeg ikke.\n\nSælger:\n\nNej. Hvis du nu skulle danne dig nogle spørgsmål, så kan du selvfølgelig altid ringe ind til mig på det her nummer, eller så kan du ringe til vores kundeservice, som jeg sender nummeret med i ordrebekræftelsen også.\n\nKunden:\n\nJa, det lyder fint.\n\nSælger:\n\nJa, super. Og mit fulde navn, det står selvfølgelig også i den bekræftelse, du får, at det er mig, der har snakket med dig osv.\n\nKunden:\n\nJa.\n\nSælger:\n\nSuper. Jamen, hvis ikke der var mere fra din side af, så har jeg faktisk heller ikke mere herfra.\n\nKunden:\n\nNej, det er bare i orden.\n\nSælger:\n\nSuper. Jamen, rigtig, rigtig god dag til dig, Tina.\n\nKunden:\n\nTak fordi jeg måde.\n\nSælger:\n\nTak skal du have. Hej hej.\n\nKunden:\n\nHej."
+}
+
+```json
+{
+  "call_id": "call_001",
+  "seller_id": null,
+  "customer_id": null,
+  "call_duration_ms": 459000,
+  "phase_journey": [
+    {
+      "phase": "opener",
+      "start_time": 0,
+      "end_time": 12000,
+      "entered_by": "natural_progression",
+      "exited_by": "natural_progression",
+      "summary": "Sælgeren præsenterede sig selv og sit firma, afklarede kundens ansvar for elregningen og fik tilladelse til at fortsætte.",
+      "seller_effectiveness": {
+        "strengths": ["Direkte og tydelig introduktion", "Hurtig afklaring af kundens rolle"],
+        "weaknesses": ["Lille tøven i starten ('Øh')"],
+        "primary_technique": "direkte introduktion",
+        "notes": "Samlet set effektiv."
+      }
+    },
+    {
+      "phase": "discovery",
+      "start_time": 17000,
+      "end_time": 85000,
+      "entered_by": "natural_progression",
+      "exited_by": "objection_interruption",
+      "summary": "Sælgeren undersøgte kundens nuværende elaftale, fik oplyst leverandør og pris, og informerede om kommende prisstigning.",
+      "seller_effectiveness": {
+        "strengths": ["God brug af åbne spørgsmål", "Viser viden om kundens situation"],
+        "weaknesses": ["Lidt langtrukken forklaring"],
+        "primary_technique": "åbne spørgsmål",
+        "notes": "Effektiv informationsindsamling."
+      }
+    },
+    {
+      "phase": "objection_loop",
+      "start_time": 85000,
+      "end_time": 101000,
+      "entered_by": "objection_interruption",
+      "exited_by": "natural_progression",
+      "summary": "Kunden udtrykte usikkerhed omkring selskabets kendthed. Sælgeren forklarede, at selskabet er mindre og derfor billigere.",
+      "seller_effectiveness": {
+        "strengths": ["Hurtig og relevant afhjælpning", "Omdanner bekymring til fordel"],
+        "weaknesses": [],
+        "primary_technique": "omformulering af indvending",
+        "notes": "Bekymring blev løst."
+      }
+    },
+    {
+      "phase": "pitch",
+      "start_time": 101000,
+      "end_time": 186000,
+      "entered_by": "natural_progression",
+      "exited_by": "natural_progression",
+      "summary": "Sælgeren præsenterede et tilbud med variabel pris plus 5 øre, faldende over tid, og 29 kr abonnement, og illustrerede en årlig besparelse.",
+      "seller_effectiveness": {
+        "strengths": ["Klar værdiproposition", "Kvantificerer besparelse"],
+        "weaknesses": ["Monolog-præget"],
+        "primary_technique": "værdibaseret salg",
+        "notes": "Tydeligt tilbud."
+      }
+    },
+    {
+      "phase": "close",
+      "start_time": 186000,
+      "end_time": 459000,
+      "entered_by": "natural_progression",
+      "exited_by": "call_ended",
+      "summary": "Sælgeren indsamlede kundens personlige og betalingsoplysninger, læste aftalen op og fik endelig bekræftelse.",
+      "seller_effectiveness": {
+        "strengths": ["Struktureret dataindsamling", "Bekræfter hvert trin"],
+        "weaknesses": [],
+        "primary_technique": "forudsættende lukning",
+        "notes": "Effektiv lukning."
+      }
+    }
+  ],
+  "objections": [
+    {
+      "type": "other",
+      "core_concern": "Kunden kender ikke til selskabet og udtrykker usikkerhed.",
+      "recurring": false,
+      "handling_steps": [
+        {
+          "technique": "omformulering",
+          "description": "Sælger forklarede, at selskabet er mindre, hvilket muliggør lavere priser.",
+          "customer_reaction": "Kunden svarede 'Ja' og fortsatte med samtalen.",
+          "moved_toward_resolution": true
+        }
+      ],
+      "resolved": true,
+      "resolution_summary": "Kunden accepterede forklaringen, og samtalen fortsatte mod tilbud."
+    }
+  ],
+  "trigger_points": [
+    {
+      "timestamp": 5000,
+      "trigger_type": "customer_confusion",
+      "customer_action": "Kunden spørger, om opkaldet er fra forsikring.",
+      "seller_action": "Sælger afklarer, at det er fra et energiselskab.",
+      "impact": "Kunden får klarhed, og samtalen kan fortsætte.",
+      "technique": null
+    },
+    {
+      "timestamp": 17000,
+      "trigger_type": "information_disclosed",
+      "customer_action": "Kunden bekræfter, at hun står for elregningen.",
+      "seller_action": "Sælger takker og spørger ind til nuværende aftale.",
+      "impact": "Sælger har identificeret den rette person og kan udforske situationen.",
+      "technique": null
+    },
+    {
+      "timestamp": 85000,
+      "trigger_type": "objection_surfaced",
+      "customer_action": "Kunden siger, at hun aldrig har hørt om selskabet.",
+      "seller_action": "Sælger forklarer, at de er et mindre selskab med lavere priser.",
+      "impact": "Kundens usikkerhed mindskes, og samtalen bevæger sig mod tilbud.",
+      "technique": {
+        "category": "håndtering af indvending",
+        "description": "Omdanner bekymring til fordel",
+        "framework_mapping": "spin:implication"
+      }
+    },
+    {
+      "timestamp": 101000,
+      "trigger_type": "value_connected",
+      "customer_action": "Kunden lytter til besparelsesberegning.",
+      "seller_action": "Sælger præsenterer besparelse og foreslår at ordne skiftet nu.",
+      "impact": "Kunden viser interesse ved at spørge til betalingsvilkår.",
+      "technique": {
+        "category": "værdibaseret salg",
+        "description": "Kvantificerer besparelse og foreslår handling",
+        "framework_mapping": null
+      }
+    },
+    {
+      "timestamp": 191000,
+      "trigger_type": "commitment_gained",
+      "customer_action": "Kunden siger 'Jo, det synes jeg' til at gå videre.",
+      "seller_action": "Sælger anerkender og beder om personlige oplysninger.",
+      "impact": "Samtalen går ind i lukkefasen med dataindsamling.",
+      "technique": {
+        "category": "lukning",
+        "description": "Direkte opfordring til handling",
+        "framework_mapping": null
+      }
+    },
+    {
+      "timestamp": 257000,
+      "trigger_type": "information_disclosed",
+      "customer_action": "Kunden oplyser eget telefonnummer og beder om at fjerne mandens.",
+      "seller_action": "Sælger tilbyder at opdatere kontaktoplysningerne.",
+      "impact": "Kunden viser tillid og sikrer korrekt kommunikation.",
+      "technique": {
+        "category": "aktiv lytning",
+        "description": "Tilpasser oplysninger efter kundens ønske",
+        "framework_mapping": null
+      }
+    },
+    {
+      "timestamp": 343000,
+      "trigger_type": "commitment_gained",
+      "customer_action": "Kunden lytter og bekræfter aftalens detaljer.",
+      "seller_action": "Sælger læser hele aftalen højt og optager samtykke.",
+      "impact": "Aftalen er formelt bekræftet, og kunden er bundet.",
+      "technique": {
+        "category": "lukning",
+        "description": "Formel aftalebekræftelse",
+        "framework_mapping": null
+      }
+    },
+    {
+      "timestamp": 452000,
+      "trigger_type": "rapport_moment",
+      "customer_action": "Kunden takker sælgeren.",
+      "seller_action": "Sælger ønsker god dag.",
+      "impact": "Samtalen afsluttes positivt med gensidig tak.",
+      "technique": null
+    }
+  ],
+  "engagement_arc": [
+    {
+      "timestamp": 17000,
+      "engagement_level": "moderate",
+      "signals": ["Kort bekræftende svar"],
+      "trend": "improving",
+      "cause": "Kunden får klarhed over opkaldets formål"
+    },
+    {
+      "timestamp": 85000,
+      "engagement_level": "moderate",
+      "signals": ["Lytter, men udtrykker usikkerhed"],
+      "trend": "stable",
+      "cause": "Kunden overvejer informationen"
+    },
+    {
+      "timestamp": 101000,
+      "engagement_level": "high",
+      "signals": ["Spørger ind til betalingsvilkår"],
+      "trend": "improving",
+      "cause": "Kunden ser værdi i tilbuddet"
+    },
+    {
+      "timestamp": 191000,
+      "engagement_level": "high",
+      "signals": ["Giver samtykke til at fortsætte"],
+      "trend": "improving",
+      "cause": "Kunden er klar til at handle"
+    },
+    {
+      "timestamp": 257000,
+      "engagement_level": "high",
+      "signals": ["Delar personlige kontaktoplysninger"],
+      "trend": "stable",
+      "cause": "Kunden føler sig tryg"
+    },
+    {
+      "timestamp": 343000,
+      "engagement_level": "moderate",
+      "signals": ["Lytter og bekræfter med korte svar"],
+      "trend": "stable",
+      "cause": "Formel aftalegennemgang"
+    },
+    {
+      "timestamp": 452000,
+      "engagement_level": "high",
+      "signals": ["Takker og ønsker god afslutning"],
+      "trend": "stable",
+      "cause": "Tilfredsstillende afslutning"
+    }
+  ],
+  "callbuddy_alignment": [],
+  "outcome": {
+    "primary_outcome_type": "sale_completed",
+    "phase_diagnostic": {
+      "phases_reached": ["opener", "discovery", "objection_loop", "pitch", "close"],
+      "furthest_phase": "close",
+      "where_things_went_wrong": null
+    },
+    "objection_summary": {
+      "total_count": 1,
+      "resolved_count": 1,
+      "unresolved_types": []
+    },
+    "callbuddy_summary": {
+      "total_suggestions_tracked": 0,
+      "followed_count": 0
+    },
+    "engagement_trend": "improving_then_stable"
+  }
+}
+```

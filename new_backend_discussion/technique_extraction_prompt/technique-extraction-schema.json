@@ -1,0 +1,172 @@
+{
+  "name": "technique_extraction",
+  "description": "Structured extraction of seller techniques from a sales call",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "required": ["call_summary", "technique_instances"],
+    "additionalProperties": false,
+    "properties": {
+      "call_summary": {
+        "type": "object",
+        "required": [
+          "call_outcome",
+          "phases_reached",
+          "phase_where_lost",
+          "engagement_trajectory"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "call_outcome": {
+            "type": "string",
+            "enum": [
+              "sale_completed",
+              "callback_scheduled",
+              "interest_expressed",
+              "soft_rejection",
+              "hard_rejection",
+              "call_abandoned",
+              "other"
+            ]
+          },
+          "phases_reached": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["opener", "discovery", "pitch", "close", "objection_loop"]
+            }
+          },
+          "phase_where_lost": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": ["opener", "discovery", "pitch", "close", "objection_loop"]
+              },
+              { "type": "null" }
+            ],
+            "description": "Phase where the call went wrong. Null if sale completed or callback scheduled."
+          },
+          "engagement_trajectory": {
+            "type": "string",
+            "enum": ["improving", "stable", "declining", "volatile"]
+          }
+        }
+      },
+      "technique_instances": {
+        "type": "array",
+        "description": "Each extracted technique moment from the call. Typically 3-8 per call.",
+        "items": {
+          "type": "object",
+          "required": [
+            "primary_category",
+            "technique_subtype",
+            "phase_context",
+            "engagement_before",
+            "engagement_after",
+            "customer_concern",
+            "seller_approach_description",
+            "seller_quote",
+            "key_elements",
+            "customer_reaction",
+            "led_to_progression"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "primary_category": {
+              "type": "string",
+              "enum": [
+                "objection_handling",
+                "opener_technique",
+                "discovery_technique",
+                "pitch_technique",
+                "close_technique",
+                "rapport_technique"
+              ]
+            },
+            "technique_subtype": {
+              "type": "string",
+              "enum": [
+                "not_interested",
+                "price_concern",
+                "happy_with_current",
+                "contract_or_binding",
+                "trust_concern",
+                "need_to_think",
+                "not_decision_maker",
+                "bad_timing",
+                "no_perceived_need",
+                "previous_bad_experience",
+                "direct_permission",
+                "humor_hook",
+                "value_hook",
+                "pain_hook",
+                "curiosity_hook",
+                "pain_amplification",
+                "needs_mapping",
+                "comparison_setup",
+                "situation_analysis",
+                "quantified_savings",
+                "competitive_comparison",
+                "risk_reversal",
+                "social_proof",
+                "urgency_or_scarcity",
+                "value_to_need_link",
+                "assumptive_close",
+                "conditional_commitment",
+                "summary_close",
+                "direct_ask",
+                "urgency_close",
+                "personal_humor",
+                "shared_experience",
+                "empathic_acknowledgment",
+                "personal_disclosure",
+                "other"
+              ],
+              "description": "Specific technique subtype. Must be a subtype that belongs to the selected primary_category."
+            },
+            "phase_context": {
+              "type": "string",
+              "enum": ["opener", "discovery", "pitch", "close", "objection_loop"],
+              "description": "Which conversation phase this technique occurred in"
+            },
+            "engagement_before": {
+              "type": "string",
+              "enum": ["high", "moderate", "low", "resistant", "closed"],
+              "description": "Customer engagement level immediately before this technique was applied"
+            },
+            "engagement_after": {
+              "type": "string",
+              "enum": ["high", "moderate", "low", "resistant", "closed"],
+              "description": "Customer engagement level immediately after this technique was applied"
+            },
+            "customer_concern": {
+              "type": "string",
+              "description": "What triggered this moment — the customer's concern, question, or state. Danish, 1 sentence, anonymized."
+            },
+            "seller_approach_description": {
+              "type": "string",
+              "description": "What the seller did — the approach taken. Danish, 2-3 sentences, anonymized."
+            },
+            "seller_quote": {
+              "type": "string",
+              "description": "Near-verbatim quote from the seller, PII-stripped. Danish. Preserve phrasing, tone, and structure."
+            },
+            "key_elements": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Short Danish phrases describing the building blocks of this technique. E.g. ['lovgivningsreference', 'afklarende spørgsmål', 'reframing']"
+            },
+            "customer_reaction": {
+              "type": "string",
+              "description": "How the customer responded to this technique. Danish, 1-2 sentences, anonymized."
+            },
+            "led_to_progression": {
+              "type": "boolean",
+              "description": "Did this technique move the call forward toward the next phase or toward a sale?"
+            }
+          }
+        }
+      }
+    }
+  }
+}

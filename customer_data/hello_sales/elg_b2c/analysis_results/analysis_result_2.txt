@@ -1,0 +1,343 @@
+{
+    "transcript": "Kunden:\n\nGoddag.\n\nSælger:\n\nHans Peter.\n\nKunden:\n\nHej, Hans Peter.\n\nSælger:\n\nGoddag, goddag. Jeg ringer fra Energiselskabet El angående din elaftalen derhjemme. Er det dig, der er minister for den del?\n\nKunden:\n\nJa, og det bliver et nej tak herfra.\n\nSælger:\n\nHvad siger du nej til, unge dam?\n\nKunden:\n\nJeg siger nej tak til at få alle mulige dårlige tilbud.\n\nSælger:\n\nHold da op.\n\nKunden:\n\nFor det er ikke første gang, jeg hopper på det.\n\nSælger:\n\nJeg tænker, du skal smage på min mad, før du ved, om du kan lide den. Sæt nu jer og din helt nye livret med, unge dame.\n\nKunden:\n\nNå, men så prøver vi.\n\nSælger:\n\nHold da op. Nej, det vil jeg gerne. Er du lige kørt bil?\n\nKunden:\n\nJa, jeg kører lastbil. Jeg kører Volvo.\n\nSælger:\n\nHold da kæft, mand. Nå, nå, nå, der er nogen.\n\nKunden:\n\nJa, ja, der er nogen, der kan.\n\nSælger:\n\nJa, det er ikke din egen, går jeg ud fra.\n\nKunden:\n\nAh, der står frøken kejser på.\n\nSælger:\n\nFrøken kejser, ligefrem.\n\nKunden:\n\nMmm.\n\nSælger:\n\nHvorfor kejser?\n\nKunden:\n\nDet synes min chef, den skulle hedde.\n\nSælger:\n\nNå, ja, ja, det kunne godt være, at du er sådan en, øh, du er en af de der hårde banditter der.\n\nKunden:\n\nNej, det er jeg sgu ikke.\n\nSælger:\n\nNå.\n\nKunden:\n\nJeg vil tjene nogle penge, jo, så jeg kan betale min elregning, ikke?\n\nSælger:\n\nJa, eller alt det dyrekød. Nå, jeg er også kød, det er stukket helt af.\n\nKunden:\n\nJa, det er frygteligt.\n\nSælger:\n\nHvad fanden er det, der sker? Jeg har fødselsdag i dag. Hvorfor er det ikke fødselsdag?\n\nKunden:\n\nTillykke. Ej, i dag er det Hans Peters fødselsdag.\n\nSælger:\n\nEj, hvor.\n\nKunden:\n\nAltså, hvis den her samtale bliver optaget, så bliver jeg eddermame sgu da kør.\n\nSælger:\n\nJeg optager ikke en skid.\n\nKunden:\n\nÅh, det var godt.\n\nSælger:\n\nBare rolig, hvorfor skulle jeg optage?\n\nKunden:\n\nJa, det gør alle de andre, der vil sælge mig el, jo.\n\nSælger:\n\nHold, for det er fordi, du ikke snakker, altså, det er jo sådan nogle unge mennesker, du så snakker med. Jeg er jo sådan en gammel røver, jo.\n\nKunden:\n\nJa, okay.\n\nSælger:\n\nJa.\n\nKunden:\n\nDen hopper jeg på. Hvor gammel bliver du?\n\nSælger:\n\nHvor gammel er du, unge dam?\n\nKunden:\n\nNå, det ved jeg ikke, du bliver vel 52 eller sådan noget.\n\nSælger:\n\nOkay.\n\nKunden:\n\nDu, du, du.\n\nSælger:\n\nNej, det var faktisk lige før, jeg lagde på.\n\nKunden:\n\nJa, det var det faktisk.\n\nSælger:\n\nHvor gammel er du selv?\n\nKunden:\n\nJeg er 40. Jeg er 40.\n\nSælger:\n\nSå er jeg ældre end dig.\n\nKunden:\n\nJa, det kunne jeg godt høre.\n\nSælger:\n\nMen kun fire år.\n\nKunden:\n\nEr det rigtigt?\n\nSælger:\n\nJa.\n\nKunden:\n\nNå.\n\nSælger:\n\nLyd af.\n\nKunden:\n\nSå har du snydt mig en gang allerede, så ved jeg sgu ikke, om vi skal snakke videre.\n\nSælger:\n\nTroede du, jeg var over 50?\n\nKunden:\n\nNej, selvfølgelig gør jeg ikke det, men jeg kan, altså, nej, nej, nej.\n\nSælger:\n\nCharlotte.\n\nKunden:\n\nJa.\n\nSælger:\n\nEj, men altså, du er sgu da.\n\nKunden:\n\nHvor ved du fra, at jeg hedder Charlotte?\n\nSælger:\n\nFordi det står i min skærm, lille skat.\n\nKunden:\n\nAha.\n\nSælger:\n\nMmm, må det ikke stå i min skærm, der står der Charlotte? Det ser også ud til at være med i vores konkurrence om at komme til Oslo.\n\nKunden:\n\nJa, det fik jeg jo ikke en skid ud af.\n\nSælger:\n\nDet har du sgu da fået masser ud af det.\n\nKunden:\n\nNej, det har jeg da ikke.\n\nSælger:\n\nDet har du da, vi gået, du snakker med mig.\n\nKunden:\n\nJa, men jeg har da ikke været i Oslo. Det var jo det, jeg ville.\n\nSælger:\n\nJamen, det er altså nu, nu ved jeg ikke, hvor godt at vi to, vi kommer til at lære hinanden at kende, men så kan det da være, at vi kunne tage en smuttur sammen afsted, jo.\n\nKunden:\n\nTror jeg fandme, min mand, han bliver ked af det.\n\nSælger:\n\nNå, for fanden, vi tager sgu da ham med.\n\nKunden:\n\nNå, men så er det i orden, så kan vi godt tage afsted.\n\nSælger:\n\nJeg skal da også have min kone med.\n\nKunden:\n\nJa, det skal du være, det er endnu bedre. Så har jeg også en at snakke med.\n\nSælger:\n\nJa, lige præcis. Så stiller vi, så stiller altså mig og din mand, altså, altså op i baren for at få peberknas, og så kan I få lov til at slå der, hvor I, øh, ja.\n\nKunden:\n\nJeg tænker, du får kamp til stregen?\n\nSælger:\n\nAltså, kamp til stregen?\n\nKunden:\n\nJa.\n\nSælger:\n\nAltså om at drikke en enkelt øl, eller hvad?\n\nKunden:\n\nØh, min mand, han er på laks, så det er ikke sådan en.\n\nSælger:\n\nÅh, det er fedt. Det er fedt. Det kan jeg lide. Er du klar over, at, øh, altså, min, øh, min farsøster er blevet gift med en polak, og jeg har været til fødselsdag der én gang. Lad mig sige det sådan, jeg lod bilen stå.\n\nKunden:\n\nJa.\n\nSælger:\n\nHold kæft, man skal passe på med de vodka-shots.\n\nKunden:\n\nAltså, når jeg er hyggede med min mand derhjemme i weekenderne, ikke også, så kører jeg heller ikke om mandagen, det kan jeg godt sige dig, vi er begge to kører lastbil.\n\nSælger:\n\nDer kan hurtigt gå et par uger, før man er ædru, jo.\n\nKunden:\n\nDet kan jeg garantere dig for.\n\nSælger:\n\nHvor meget vodka kan han drikke, hvor han stadigvæk står oppe?\n\nKunden:\n\nØhm, jamen, han kan godt tage en to og en halv flaske.\n\nSælger:\n\nTo og en halv?\n\nKunden:\n\nOg det er jo ud over alt det andet, altså, vodka, det er jo bare hygge, jo.\n\nSælger:\n\nDet er fuldstændig sindssygt, de kan det der.\n\nKunden:\n\nJa, det er fucking, og det er jo simpelthen så ulækkert.\n\nSælger:\n\nHvis jeg drikker fem shots, altså, jeg fik fem shots, og jeg var så syngende stiv, mand, jeg kunne ikke se ud af sveskerne, mand. Altså, to og en halv flaske.\n\nKunden:\n\nJa.\n\nSælger:\n\nDet er to liter, næsten.\n\nKunden:\n\nJa. Det er klart.\n\nSælger:\n\nHvem fanden kan drikke to liter vodka? Det kan en polak, jo.\n\nKunden:\n\nJa, det kan jeg.\n\nSælger:\n\nDet kan en polak. Det er fuldstændig sindssygt, det. Nå, imponerende. Charlotte.\n\nKunden:\n\nSå er du selvfølgelig til mig, hva'?\n\nSælger:\n\nNå, ja, ja, jeg skal have dig i stedet, jo, men så bliver polakken sur.\n\nKunden:\n\nJa, det gør jeg.\n\nSælger:\n\nJeg lover kun at smøre dig lidt ind i kærlighed, kun lidt.\n\nKunden:\n\nJa.\n\nSælger:\n\nGodt. Charlotte, spørgsmål?\n\nKunden:\n\nJa.\n\nSælger:\n\nHvem har du valgt som leverandør?\n\nKunden:\n\nJeg har Evi.\n\nSælger:\n\nEvi?\n\nKunden:\n\nJa.\n\nSælger:\n\nHvorfor?\n\nKunden:\n\nFordi at jeg betaler kun det, jeg bruger, jeg betaler ikke alt muligt andet lort, som alle andre vil have.\n\nSælger:\n\nMå jeg fortælle dig noget?\n\nKunden:\n\nJa.\n\nSælger:\n\nJeg har arbejdet i den her branche næste år, i 20 år.\n\nKunden:\n\nJa.\n\nSælger:\n\nOg, øh, du skal huske på en ting, der findes ikke nogen virksomheder eller noget foretagende i den her verden, som der vil låne os penge gratis.\n\nKunden:\n\nNej.\n\nSælger:\n\nSå det, du betaler for, er også kreditomkostninger. Og det er jo en ting, jeg ikke kan lide, man ikke ved, når man har sådan en aftale. For det er jo inkluderet i din regning. Når, når, hvis du skal ned og fylde sådan en lastbil op med en masse diesel og noget AdBlue eller hvad I kører på efterhånden, ikke?\n\nKunden:\n\nMmm.\n\nSælger:\n\nSå på selve den regning, man får, så står der heller ikke avance lig med.\n\nKunden:\n\nNej.\n\nSælger:\n\nOg det gør der heller ikke, hvis du er nede og handle oksekød til 70.000 kroner for et kilo. Der står der heller ikke, hvad Netto tjener på dig, eller hvis man kører til Bilka i Sønderborg eller et eller andet, ikke? Altså, man kan jo ikke vide, hvad det er, man, altså, hvad man har af avance på kunderne, fordi det skal vi ikke fortælle jer.\n\nKunden:\n\nJa.\n\nSælger:\n\nTil gengæld så kan jeg jo fortælle dig, at jeg sælger billigere strøm end Eviger.\n\nKunden:\n\nNå, hvorfor gør du det?\n\nSælger:\n\nFordi jeg skal ikke låne dig penge.\n\nKunden:\n\nPrøv lige at høre her, der var, øhm, det er et par måneder siden, ikke også?\n\nSælger:\n\nJa.\n\nKunden:\n\nDer er der en frisk ung gut, der ringer til mig.\n\nSælger:\n\nJa.\n\nKunden:\n\nOg, øh, så siger han så, øh, jamen, jeg kan gøre det så og så billigt, og, øh, jamen, okay, ved du hvad, vi prøver sgu.\n\nSælger:\n\nJa.\n\nKunden:\n\nØhm, nu larmer jeg lige lidt, ikke også?\n\nSælger:\n\nEndelig. Du må larme altid, når du har lyst til.\n\nKunden:\n\nDet var godt. Så siger han så til mig, øh, ja, ved du hvad, øh, vi, øh, det træder bare i kraft her fra den første, og så er alt vel. Nå. Så gik der jo ikke mere end tre dage, så fik jeg den første regning på 9.000.\n\nSælger:\n\nHvad fanden er det for et firma?\n\nKunden:\n\nØh, det er noget, der ikke eksisterer mere, fordi jeg fandt jo så ud af, at de var blevet politianmeldt om det flere gange. Og jeg ringer ind til det her firma, og så siger jeg, jeg vil gerne opsige min aftale. Jamen, det kan du ikke, fordi den er bindende. Jeg kan kraftedeme love dig for, der er ikke noget, der er bindende her. Det er tre dage siden, jeg sagde ja tak i telefonen. Og jeg har 14 dages betalingskraft. Nej, det har du ikke, fordi at, øh, du har sagt ja til, at det var en bindende aftale i telefonen, og det har vi på en optagelse af telefonen. I kan rende mig i røven, og jeg kan politianmelde jer lige med det samme. Så hørte jeg ikke mere fra ham. Og jeg gik tilbage til mit.\n\nSælger:\n\nMen kan jeg ikke minde dig på en variabel elaftale?\n\nKunden:\n\nJeg ved ikke, om den var variabel, eller hvad den var. Øh, fordi jeg var i samme, øh, hvad kan man sige, situation, som jeg er lige nu, hvor jeg arbejder, så tror jeg bare, jeg har sagt et eller andet, ikke også?\n\nSælger:\n\nJa, ja. Hvad er din adresse, Lotte?\n\nKunden:\n\nVesterbyvej 6.\n\nSælger:\n\nVesterbyvej?\n\nKunden:\n\nVester.\n\nSælger:\n\nSagde du Vesterbyvej?\n\nKunden:\n\nJa.\n\nSælger:\n\nEr det i Føvling, eller hvor er vi henne?\n\nKunden:\n\nJa.\n\nSælger:\n\nJa.\n\nKunden:\n\nHva' da?\n\nSælger:\n\nJeg skulle bare se, hvad varmer du op med?\n\nKunden:\n\nØh, det ved jeg ikke lige nu. Det er da luft til vand, tror jeg.\n\nSælger:\n\nEr det luft til vand varmepumpe?\n\nKunden:\n\nJa.\n\nSælger:\n\nOg det er 66 83?\n\nKunden:\n\nJa.\n\nSælger:\n\nYes. Godt. Er det din ejendom?\n\nKunden:\n\nNej.\n\nSælger:\n\nNej, okay.\n\nKunden:\n\nJeg lejer.\n\nSælger:\n\nØh, du lejer, okay. Altså, jeg er for lige at sige det pænt og fint, jeg kan godt, jeg kan godt lave en, altså, en billigere elaftale til dig, og jeg tager ikke, øh, 56 milliarder for det. Og jeg binder ikke nogen skyld.\n\nKunden:\n\nHvordan kan du sige, du laver en billigere?\n\nSælger:\n\nFordi at man betaler en måned ad gangen forud i stedet for en måned ad, altså, en måned ad gangen bagud. Så du skal ikke låne penge af mig, derfor ved jeg, at jeg har et mindre tillæg. Jeg tager fem øre det første år, fire øre det andet år, tre øre det tredje år, og to øre det fjerde år i tillæg. Så min pris går også nedad i loyalitetsrabat. Så jeg har ikke en aftale, der udløber. Jeg har en aftale, der går nedad. Det har du heller ikke, Evi. Og det gør jeg jo for at holde på jer i lang tid ad gangen.\n\nKunden:\n\nDet, jeg er glad for, det er, at jeg kun betaler for det, jeg bruger, altså.\n\nSælger:\n\nJa, det vil du også gøre ved mig, bare en måned forud ad gangen. Og så opgør vi det hver måned, ikke? Men du skal huske på, når Evi låner dig penge, så betaler du jo nogle kreditomkostninger, du ikke gør ved mig, jo. Og det er jo lige nøjagtig det, der er lidt ærgerligt, det er jo, det er, at de store firmaer tjener en formue på det der.\n\nKunden:\n\nHvad var det, du sagde, det hed, det I har?\n\nSælger:\n\nDet der, det er da, altså, El. Energiselskabet El, ligesom det dyr over i, altså, over i, øh, i Sverige, ja. Det der kæmpestore dyr.\n\nKunden:\n\nEl.\n\nSælger:\n\nJa. Og jeg hedder Hans Peter. Og jeg havde fødselsdag i dag.\n\nKunden:\n\nJa, det har du.\n\nSælger:\n\nMmm.\n\nKunden:\n\nOg du bliver gammel.\n\nSælger:\n\nHold op. Lad være med at sige sådan noget. Du er jo tarvelig, du siger sådan noget. Gammel. Du skal kun snakke med ham her. Hvor er du henne af?\n\nKunden:\n\nJeg er i Vejle.\n\nSælger:\n\nEr du i Vejle?\n\nKunden:\n\nJa.\n\nSælger:\n\nVil du vide, hvor jeg er?\n\nKunden:\n\nJa.\n\nSælger:\n\nJeg er i Viborg.\n\nKunden:\n\nNå.\n\nSælger:\n\nKommer du forbi til kaffe?\n\nKunden:\n\nNej, det gør jeg fandme.\n\nSælger:\n\nEr der nogen fødselsdagstang for mig?\n\nKunden:\n\nNej, fanden i helvede. Jeg har travlt, jeg skal hjem og hente mit barn. Jeg har slet ikke tid til at være her.\n\nSælger:\n\nNå, for søren. Jeg kan sætte dig i gang ovre hos mig den 1.11.\n\nKunden:\n\nJeg er nødt til at tænke først. Jeg vil, jeg tør simpelthen ikke sige ja, ligesom jeg gjorde sidst, og så får jeg et rap over nallerne. Jeg tør ikke.\n\nSælger:\n\nDet kan jeg sgu da godt forstå.\n\nKunden:\n\nJa.\n\nSælger:\n\nVed du hvad, du skal?\n\nKunden:\n\nNej, jeg skulle ikke sige noget.\n\nSælger:\n\nJeg tænker en ting.\n\nKunden:\n\nJa.\n\nSælger:\n\nJeg vil gerne lave aftalen til dig og sende ud til dig. Det er eneste, jeg har brug for, det er at få fat i dig og høre, om du er tilfreds.\n\nKunden:\n\nSå jeg siger ikke ja til noget, der er ikke noget, der er bindende. Du sender mig noget, og så kan jeg lige læse på det her.\n\nSælger:\n\nJamen søde du, du har jo 14 dages fortrydelsesfrist, det skriver jeg jo også til dig med store bogstaver. Jeg er jo ikke sådan en, jeg er jo ikke sådan en 18-19-årig idiot, der vil snyde dig. Jeg er jo en mand, der vil have dig som mange, altså i mange år som kunde. Jeg har jo ikke tænkt, jeg har jo ikke tænkt mig, altså, det er jo ikke sådan, man får kunder, det der. Det er jo en helt syg måde at drive forretning på.\n\nKunden:\n\nJa, men det er.\n\nSælger:\n\nVi driver jo.\n\nKunden:\n\nSå er jeg også forpligtet til at, og skal sige, øh, hvis jeg ikke er inspireret.\n\nSælger:\n\nAltså, jamen ved du hvad, jeg godt kunne tænke mig.\n\nKunden:\n\nHvad?\n\nSælger:\n\nDet var, at du så fortalte mig, lad os sige mandag, om det, jeg har lavet til dig, om det er godt nok.\n\nKunden:\n\nJa.\n\nSælger:\n\nHvis du ikke mener, det er godt nok, jamen ved du hvad, så river vi låget over på mandag.\n\nKunden:\n\nOkay.\n\nSælger:\n\nMen hvis du synes, at det er fuldstændig forrygende, som jeg håber, du vil gøre.\n\nKunden:\n\nJa.\n\nSælger:\n\nJamen så kører vi videre. Jeg vil gerne bevise over for dig, at jeg ikke er en skiderik, men jeg bare skal have en sød og rar ung mand på 44.\n\nKunden:\n\nAh.\n\nSælger:\n\nHov hov. Hov hov. Hov hov. Hov hov. Hov hov.\n\nKunden:\n\nTak. Jamen så prøv det. Og så, øh.\n\nSælger:\n\nJeg er glad for, at du siger det.\n\nKunden:\n\nMå jeg jo se om, hvad det er for noget.\n\nSælger:\n\nJamen altså, vi er jo så, vi er jo så dejlige herinde også. Og så har vi, og vi har det flotteste seje sæt logo, synes jeg også selv. Folk elsker vores, altså elsker vores logo.\n\nKunden:\n\nJamen jeg har aldrig set det, jeg aner ikke, hvad fanden det drejer sig om.\n\nSælger:\n\nJa, vi brænder jo heller ikke penge på alle de reklamer, ligesom det firma du. Hold helvede, mand.\n\nKunden:\n\nÅh.\n\nSælger:\n\nDet firma, du kunne, jeg har forresten købt ledningerne ovre på Bornholm. Jeg kan godt fortælle dig, de har hamret prisen i vejret, mand. Jeg er jo sindssygt irriterende.\n\nKunden:\n\nJa, og det er ikke engang løgn, jeg fik fandme en ekstra regning sidste måned, jeg tænkte bare, hvad fanden sker der her?\n\nSælger:\n\nJa, er du sindssyg.\n\nKunden:\n\nOg det var så dem, der var kommet i det der TVØS, eller hvad helvede det hedder, tæller. Åh shit, mand, og jeg havde, jeg allerede betalt det. Nå.\n\nSælger:\n\nNej, betalte du pengene?\n\nKunden:\n\nDet gjorde jeg sgu da.\n\nSælger:\n\nHvad helvede gør du?\n\nKunden:\n\nDet blev sgu da stående automatisk, mand.\n\nSælger:\n\nBetaler man, altså betaler man, så får man sådan en stor løn, når man er, når man er lastbilchauffør?\n\nKunden:\n\nDet kommer sgu an på, hvem man kører for.\n\nSælger:\n\nHvem kører du for?\n\nKunden:\n\nJeg kører for Frede Scheißer.\n\nSælger:\n\nNå, Frede Scheißer, mand, nå, nå, nå, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, men jeg bestemmer selv. Ja, ja, ja, ja, det er, jeg tror sgu ikke, der er nogen, der tør bestemme over dig, det kan jeg da godt høre på det hele.\n\nKunden:\n\nEj, det gør de sgu ikke. Altså, de vil gerne have mig som chauffør. Jeg vil.\n\nSælger:\n\nJeg vil også gerne have dig, altså som en, som kunde.\n\nKunden:\n\nMen du har også allerede lovet mig en tur til Oslo, jo, så.\n\nSælger:\n\nJa, altså, vi tager turen sammen, du og jeg, men vi skal nok, altså nok tage vores ægtefæller med, ellers så får vi sgu problemer. Men du kan godt bede ham om at holde det vodka hjemme i, i vores fryser, for jeg synes, det er ikke så, det er ikke bare vildt. Jeg skal kraftedeme ikke drikke på, hvad, hvad hedder det, altså vodka med en polak, som kan drikke to liter og stadigvæk stå på benene.\n\nKunden:\n\nNej.\n\nSælger:\n\nNej, godt. Et personnummer til dig, ung dame?\n\nKunden:\n\n110585.\n\nSælger:\n\nSå har du sgu stået, hva'? Ja. Du er ligegyldig rundt, det, du er jo, når så er du sgu færdig. Nå, er de fire sidste også?\n\nKunden:\n\nØh, 2580.\n\nSælger:\n\nOkay. Hvor, øh, altså kører det henover, er det noget, altså budgetkonto, eller er det netkonto, eller hvad gør du?\n\nKunden:\n\nEj, det er netkonto, altså.\n\nSælger:\n\nOkay, så er det registreringsnummer og kontonummer dertil.\n\nKunden:\n\nÅh, 1551.\n\nSælger:\n\nSå har vi samme bank også, nu begynder det snart at blive skræmmende, det her.\n\nKunden:\n\nJa.\n\nSælger:\n\nJa.\n\nKunden:\n\n3222.\n\nSælger:\n\n3222.\n\nKunden:\n\n22.\n\nSælger:\n\nI altså 3222.\n\nKunden:\n\n22.\n\nSælger:\n\nIgen?\n\nKunden:\n\nJa.\n\nSælger:\n\nJa.\n\nKunden:\n\n3822.\n\nSælger:\n\nJeg skulle da lige.\n\nKunden:\n\nJeg skal lige tage dig mit registreringsnummer og kontonummer.\n\nSælger:\n\nJa, det er sgu da klart, hvis det er så nemt. Nu skal du lade være med at prale over noget, der er så nemt, så vil de også gå ud i smidt ar. Det er nok sådan, fanden, sådan er det. Godt. Charlotte, nu laver jeg en lydfil, hvor jeg lover de ting, at vi har sagt, og hvor jeg ikke nævner, at du bindes, ligesom du har prøvet før.\n\nKunden:\n\nJa.\n\nSælger:\n\nNu smører jeg, altså nu er det nu, jeg smører dig ind i kærlighed, for nu skal jeg overholde det, jeg har lovet dig. Er du klar?\n\nKunden:\n\nJa, det skal du. Det skal du virkelig.\n\nSælger:\n\nNu optager jeg. Nu, nu skal du passe på.\n\nKunden:\n\nJa.\n\nSælger:\n\nFor nu skal vi være ordentlige, som en, øh, som ejeren af forretningen her, ikke sender mig hjem. Er du klar?\n\nKunden:\n\nJa.\n\nSælger:\n\nSom aftalt, så optager jeg det næste bid af samtalen. Hvis du er tilfreds, og jeg har over, altså overholdt alt det, jeg har lovet dig, så skifter jeg din elaftale over til, til energiselskabet i alt med opstart 1.11.2025. Og det bliver på Vesterbyvej 6 i Føvling.\n\nKunden:\n\nJa.\n\nSælger:\n\nDu har, jeg har lovet dig, højt og helligt, at det er en variabel elpris, plus det første år kun med tillæg på fem øre, inklusiv moms. Hvert år sætter jeg den ned efter 12 måneder, når vi så slutter på to øre, så stopper jeg den der, for du kan heller ikke komme ned og få det gratis, så har jeg ikke råd til leverpostej.\n\nKunden:\n\nNå.\n\nSælger:\n\nDet er 29 danske kroner om måneden, inklusiv moms, og der er ikke nogen andre skjulte gebyrer. Godt. Så, øh, er der normalt et oprettelsesgebyr på 199, men du er lige blevet kørt fuldstændig over i maskinen af et andet firma, så det har jeg lovet at gøre gratis.\n\nKunden:\n\nTak.\n\nSælger:\n\nGodt. Godt så. Og vi betaler af kontovis en, en måned ad gangen, og ikke for, ligesom jeg hørte før, det var nærmest fire år.\n\nKunden:\n\nJa.\n\nSælger:\n\nGodt. Du skal være opmærksom på, at Evi har seks uger til at opgøre din, din, din slutopgørelse. Og det kan jo så forventes, at man modtager en, en slutopgørelse i det, man får en regning for os. Det kan jeg jo ikke vide.\n\nKunden:\n\nJa. Ja.\n\nSælger:\n\nGodt. Jeg synes jo, du skulle anbefale, altså downloade vores applikation, der hedder Timepris, hvis du ønsker, så kan du gøre det. Godt. Og din varmekilde, det er luft til vand.\n\nKunden:\n\nJa.\n\nSælger:\n\nGodt. Fantastisk. Jeg sender en ordrebekræftelse til dig, og så hører jeg fra dig på mandag om, øh, om jeg har overholdt det, jeg har lovet dig, eller om jeg har været ligesom den unge mand, der har snydt og bedraget dig.\n\nKunden:\n\nDen er aftalt.\n\nSælger:\n\nGodt. Velkommen til energiselskabet El. Jeg stopper optagelsen igen. Husk, det var Hans Peter Jensen, du har talt med.\n\nKunden:\n\nHans Peter Jensen, det hedder jeg.\n\nSælger:\n\nOg det er mig, du skælder ud fremover, hvis der er noget, eller mig, som du smører ind i kærlighed. Og så tager vi sgu en tur til Oslo sammen med alle fire.\n\nKunden:\n\nDet er en aftale.\n\nSælger:\n\nJeg glæder mig.\n\nKunden:\n\nDet er godt. Tak.\n\nSælger:\n\nKan du have det skønt.\n\nKunden:\n\nI lige måde.\n\nSælger:\n\nOg hils polakken!\n\nKunden:\n\nSkal jeg nok.\n\nSælger:\n\nDet er godt. Hej Charlotte.\n\nKunden:\n\nHej."
+}
+
+```json
+{
+  "call_id": "call_001",
+  "seller_id": "hans_peter_jensen",
+  "customer_id": null,
+  "timestamp": "2025-01-01T10:30:00Z",
+  "duration_ms": 300000,
+  "phase_journey": [
+    {
+      "phase": "opener",
+      "start_ms": 0,
+      "end_ms": 25000,
+      "entry_type": "natural_start",
+      "exit_type": "objection_interruption",
+      "summary": "Sælger introducerer sig fra Energiselskabet El. Kunden afviser straks med nej tak og udtrykker skepsis overfor dårlige tilbud.",
+      "seller_effectiveness": {
+        "strengths": ["Viste hurtig tilpasningsevne ved at bruge humor", "Fastholdt samtalen trods direkte afvisning"],
+        "weaknesses": ["Meget uformelt sprog kan virke upassende", "Langsom til at komme til sagens kerne"],
+        "primary_technique": "rapport_building"
+      }
+    },
+    {
+      "phase": "objection_loop",
+      "start_ms": 25000,
+      "end_ms": 60000,
+      "entry_type": "objection_interruption",
+      "exit_type": "natural_progression",
+      "summary": "Kunden udtrykker generel skepsis. Sælger adresserer det ved at bede kunden om at 'smage på maden først' og skifter til personlig samtale om kundens lastbil.",
+      "seller_effectiveness": {
+        "strengths": ["Brugte humor til at nedbryde barriere", "Fandt hurtigt fælles grund"],
+        "weaknesses": ["Manglende direkte adressering af konkrete bekymringer"],
+        "primary_technique": "humor_deflection"
+      }
+    },
+    {
+      "phase": "discovery",
+      "start_ms": 60000,
+      "end_ms": 120000,
+      "entry_type": "natural_progression",
+      "exit_type": "natural_progression",
+      "summary": "Omformel rapport-bygning dominerer. Kunden deler personlige detaljer om sit arbejde som lastbilchauffør, familieforhold og tidligere oplevelser. Sælger indsamler sporadisk information om nuværende el-leverandør og forbrug.",
+      "seller_effectiveness": {
+        "strengths": ["Skabte stærkt personligt tillidsforhold", "Fik kunden til at åbne sig"],
+        "weaknesses": ["Meget lang tid væk fra salgsagenda", "Manglende struktur i informationssamling"],
+        "primary_technique": "rapport_building"
+      }
+    },
+    {
+      "phase": "pitch",
+      "start_ms": 120000,
+      "end_ms": 150000,
+      "entry_type": "natural_progression",
+      "exit_type": "objection_interruption",
+      "summary": "Sælger præsenterer sit tilbud: variabel elpris med faldende tillæg over fire år, ingen binding, betaling forud. Forklarer prisfordel fremfor eksisterende leverandør. Kunden lytter men udtrykker forbehold.",
+      "seller_effectiveness": {
+        "strengths": ["Klar værdiproposition", "Adresserer kundens prisfokus"],
+        "weaknesses": ["Kompleks forklaring af tillægsstruktur", "Manglende direkte sammenligning med konkurrent"],
+        "primary_technique": "value_based_selling"
+      }
+    },
+    {
+      "phase": "objection_loop",
+      "start_ms": 150000,
+      "end_ms": 180000,
+      "entry_type": "objection_interruption",
+      "exit_type": "natural_progression",
+      "summary": "Kunden deler detaljeret historie om tidligere negativ oplevelse med et andet elselskab, der sendte uventet høj regning og påstod binding. Sælger lytter aktivt og viser forståelse for skepsissen.",
+      "seller_effectiveness": {
+        "strengths": ["Aktiv lytning uden afbrydelser", "Validerer kundens følelser"],
+        "weaknesses": ["Manglende direkte kontrast til eget tilbud i øjeblikket"],
+        "primary_technique": "empathy"
+      }
+    },
+    {
+      "phase": "close",
+      "start_ms": 180000,
+      "end_ms": 300000,
+      "entry_type": "natural_progression",
+      "exit_type": "call_ended",
+      "summary": "Sælger tilbyder at sende ikke-bindende aftale til gennemsyn med 14 dages fortrydelse. Optager verbal aftale med prisgaranti og vilkår. Indsamler personnummer, adresse og bankoplysninger. Kunden accepterer betinget med opfølgning mandag.",
+      "seller_effectiveness": {
+        "strengths": ["Tilbyder risikofri næste skridt", "Skaber tydelige forventninger", "Sikrer commitment med lav risiko"],
+        "weaknesses": ["Lang administrativ proces", "Manglende konkret aftale om opfølgningstidspunkt"],
+        "primary_technique": "risk_reversal"
+      }
+    }
+  ],
+  "objections": [
+    {
+      "objection_id": "obj_001",
+      "timestamp_ms": 5000,
+      "objection_type": "not_interested",
+      "objection_subtype": "general_skepticism",
+      "core_concern": "Kunden ønsker ikke at modtage flere dårlige tilbud fra elselskaber",
+      "is_recurring": false,
+      "handling_steps": [
+        {
+          "step_order": 1,
+          "technique": "humor_deflection",
+          "seller_action": "Sælger beder kunden om at 'smage på maden først' før hun afviser",
+          "customer_reaction": "Kunden ler og accepterer at fortsætte samtalen",
+          "moved_toward_resolution": true
+        }
+      ],
+      "resolved": true,
+      "resolution_summary": "Objection blev overvundet gennem humor og personlig appel"
+    },
+    {
+      "objection_id": "obj_002",
+      "timestamp_ms": 150000,
+      "objection_type": "trust",
+      "objection_subtype": "previous_negative_experience",
+      "core_concern": "Kunden blev tidligere snydt af et elselskab med uventet høj regning og falsk binding",
+      "is_recurring": true,
+      "handling_steps": [
+        {
+          "step_order": 1,
+          "technique": "active_listening",
+          "seller_action": "Sælger lader kunden fortælle hele historien uden afbrydelser",
+          "customer_reaction": "Kunden deler detaljeret historie med frustration",
+          "moved_toward_resolution": true
+        },
+        {
+          "step_order": 2,
+          "technique": "empathy",
+          "seller_action": "Sælger udtrykker forståelse: 'Det kan jeg sgu da godt forstå'",
+          "customer_reaction": "Kunden føler sig hørt og fortsætter samtalen",
+          "moved_toward_resolution": true
+        },
+        {
+          "step_order": 3,
+          "technique": "risk_reversal",
+          "seller_action": "Tilbyder 14 dages fortrydelse, ingen binding, sender aftale til gennemsyn",
+          "customer_reaction": "Kunden bliver tryg nok til at give detaljer",
+          "moved_toward_resolution": true
+        }
+      ],
+      "resolved": true,
+      "resolution_summary": "Tillidsbrud blev addreseret gennem empatisk lytning og risikofri tilgang"
+    },
+    {
+      "objection_id": "obj_003",
+      "timestamp_ms": 180000,
+      "objection_type": "need_to_think",
+      "objection_subtype": "fear_of_commitment",
+      "core_concern": "Kunden tør ikke sige ja med det samme efter tidligere dårlig oplevelse",
+      "is_recurring": true,
+      "handling_steps": [
+        {
+          "step_order": 1,
+          "technique": "risk_reversal",
+          "seller_action": "Sælger forsikrer at kunden ikke binder sig ved at give detaljer",
+          "customer_reaction": "Kunden accepterer at modtage tilbud",
+          "moved_toward_resolution": true
+        },
+        {
+          "step_order": 2,
+          "technique": "trial_close",
+          "seller_action": "Foreslår at sende aftale og følge op mandag",
+          "customer_reaction": "Kunden accepterer opfølgning",
+          "moved_toward_resolution": true
+        }
+      ],
+      "resolved": true,
+      "resolution_summary": "Kunden accepterede betinget commitment med mulighed for fortrydelse"
+    }
+  ],
+  "trigger_points": [
+    {
+      "trigger_id": "trig_001",
+      "timestamp_ms": 5000,
+      "trigger_type": "objection_surfaced",
+      "customer_action": "Kunden afviser straks med 'det bliver et nej tak'",
+      "seller_action": "Sælger bruger humor: 'du skal smage på min mad først'",
+      "impact_description": "Samtalen fortsætter i stedet for at slutte. Tone bliver uformel og humoristisk.",
+      "technique": {
+        "category": "rapport_building",
+        "description": "Brugte humor og provokation til at nedbryde initial barriere",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_id": "trig_002",
+      "timestamp_ms": 15000,
+      "trigger_type": "information_disclosed",
+      "customer_action": "Kunden nævner at hun kører lastbil",
+      "seller_action": "Sælger viser interesse og spørger ind til detaljer",
+      "impact_description": "Samtalen skifter til personligt emne. Rapport-bygning accelererer.",
+      "technique": {
+        "category": "discovery_questioning",
+        "description": "Udnyttede personlig information til at bygge relation",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_id": "trig_003",
+      "timestamp_ms": 45000,
+      "trigger_type": "rapport_moment",
+      "customer_action": "Kunden ønsker sælger tillykke med fødselsdag",
+      "seller_action": "Sælger deler personlig information og fortsætter den uformelle tone",
+      "impact_description": "Tillidsniveau stiger markant. Samtalen bliver meget personlig.",
+      "technique": {
+        "category": "rapport_building",
+        "description": "Personlig deling skabte stærk connection",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_id": "trig_004",
+      "timestamp_ms": 150000,
+      "trigger_type": "pain_surfaced",
+      "customer_action": "Kunden deler detaljeret historie om tidligere snyd",
+      "seller_action": "Sælger lytter aktivt uden at afbryde",
+      "impact_description": "Kritisk tillidsbrud identificeret. Bliver centralt tema resten af samtalen.",
+      "technique": {
+        "category": "active_listening",
+        "description": "Gav plads til kundens frustration",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_id": "trig_005",
+      "timestamp_ms": 180000,
+      "trigger_type": "commitment_withdrawn",
+      "customer_action": "Kunden siger 'jeg tør ikke sige ja' pga. tidligere oplevelse",
+      "seller_action": "Sælger tilbyder risikofri løsning uden binding",
+      "impact_description": "Kunden bliver tryg nok til at fortsætte med samtalen og give personlige oplysninger.",
+      "technique": {
+        "category": "risk_reversal",
+        "description": "Eliminerede risiko ved at tilbyde fortrydelsesret",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_id": "trig_006",
+      "timestamp_ms": 250000,
+      "trigger_type": "commitment_gained",
+      "customer_action": "Kunden accepterer at optagelse starter",
+      "seller_action": "Sælger begynder formel aftaleoptagelse med prisgaranti",
+      "impact_description": "Samtalen skifter fra uformel til formel aftalemodus. Kunden giver detaljer.",
+      "technique": {
+        "category": "trial_close",
+        "description": "Sikrede commitment gennem verbal aftale",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_id": "trig_007",
+      "timestamp_ms": 280000,
+      "trigger_type": "information_disclosed",
+      "customer_action": "Kunden deler personnummer og bankoplysninger",
+      "seller_action": "Sælger bekræfter og fortsætter med aftalen",
+      "impact_description": "Kunden viser tiltagende tillid ved at dele følsomme data. Aftalen konkretiseres.",
+      "technique": {
+        "category": null,
+        "description": "Administrativ informationsindsamling",
+        "framework_mapping": null
+      }
+    }
+  ],
+  "engagement_arc": [
+    {
+      "snapshot_id": "snap_001",
+      "timestamp_ms": 0,
+      "engagement_level": "resistant",
+      "signals": ["Kort afvisning: 'det bliver et nej tak'", "Skeptisk tone"],
+      "trend": "improving",
+      "shift_cause": "Sælgers humoristiske respons"
+    },
+    {
+      "snapshot_id": "snap_002",
+      "timestamp_ms": 30000,
+      "engagement_level": "high",
+      "signals": ["Griner og deler personlige detaljer", "Aktivt deltagende i samtalen", "Spørger tilbage til sælger"],
+      "trend": "stable",
+      "shift_cause": "Fælles grund om lastbiler"
+    },
+    {
+      "snapshot_id": "snap_003",
+      "timestamp_ms": 90000,
+      "engagement_level": "high",
+      "signals": ["Omformel samtale om rejser og familie", "Deling af personlige historier", "Humor og latter"],
+      "trend": "stable",
+      "shift_cause": "Fortsat rapport-bygning"
+    },
+    {
+      "snapshot_id": "snap_004",
+      "timestamp_ms": 150000,
+      "engagement_level": "moderate",
+      "signals": ["Alvorlig tone når hun deler negativ oplevelse", "Kortere svar", "Fokus på problemer"],
+      "trend": "declining",
+      "shift_cause": "Negative emotioner fra tidligere oplevelse"
+    },
+    {
+      "snapshot_id": "snap_005",
+      "timestamp_ms": 180000,
+      "engagement_level": "moderate",
+      "signals": ["Forsigtig men medgørlig", "Spørger kritisk ind til tilbud", "Accepterer at fortsætte"],
+      "trend": "improving",
+      "shift_cause": "Risikofri tilbud skaber tryghed"
+    },
+    {
+      "snapshot_id": "snap_006",
+      "timestamp_ms": 250000,
+      "engagement_level": "moderate",
+      "signals": ["Følger instruktioner under optagelse", "Korte bekræftende svar", "Administrativt fokus"],
+      "trend": "stable",
+      "shift_cause": "Formel proces"
+    },
+    {
+      "snapshot_id": "snap_007",
+      "timestamp_ms": 290000,
+      "engagement_level": "moderate",
+      "signals": ["Accepterer aftalen: 'det er en aftale'", "Takker af høfligt", "Positiv afslutning"],
+      "trend": "stable",
+      "shift_cause": "Aftale på plads"
+    }
+  ],
+  "callbuddy_alignment": [],
+  "outcome": {
+    "primary_outcome": "conditional_commitment",
+    "phase_diagnostic": {
+      "phases_reached": ["opener", "discovery", "pitch", "close"],
+      "furthest_phase": "close",
+      "where_things_went_wrong": "Initial tillidsbrud grundet kundens tidligere negative oplevelse med andet elselskab. Dette blev dog addreseret gennem empatisk lytning og risikofri tilgang."
+    },
+    "objection_summary": {
+      "total_objections": 3,
+      "resolved_objections": 3,
+      "unresolved_objection_types": []
+    },
+    "callbuddy_summary": {
+      "total_suggestions_tracked": 0,
+      "suggestions_followed": 0
+    },
+    "engagement_trend": "Udgangspunkt i resistant, steg markant under rapport-bygning, faldt midlertidigt ved omtale af tidligere negativ oplevelse, stabiliseredes under close med betinget commitment"
+  }
+}
+```

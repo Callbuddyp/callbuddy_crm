@@ -1,0 +1,110 @@
+{
+  "json_schema": {
+    "type": "object",
+    "required": ["market_overview", "competitors"],
+    "additionalProperties": false,
+    "properties": {
+      "market_overview": {
+        "type": "string",
+        "description": "2-4 sentence summary of the competitive landscape for this campaign's market in Denmark. Include market size indicators and key dynamics."
+      },
+      "competitors": {
+        "type": "array",
+        "description": "One entry per competitor. Order by market relevance (most commonly encountered by customers first).",
+        "items": {
+          "type": "object",
+          "required": ["name", "competitor_id", "aliases", "overview", "pricing_packages", "pain_points", "critical_news"],
+          "additionalProperties": false,
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "Official company name as used in Denmark"
+            },
+            "competitor_id": {
+              "type": "string",
+              "description": "Stable snake_case identifier derived from name, e.g. 'norlys', 'andel_energi', 'ok_el'"
+            },
+            "aliases": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Alternative names, former names, or sub-brands customers might use"
+            },
+            "overview": {
+              "type": "string",
+              "description": "2-3 sentence company overview: what they sell, market position, and the single most important thing a sales agent should know about them"
+            },
+            "pricing_packages": {
+              "type": "array",
+              "description": "All packages that directly compete with our campaign's product",
+              "items": {
+                "type": "object",
+                "required": ["name", "price", "details", "comparison_to_us"],
+                "additionalProperties": false,
+                "properties": {
+                  "name": {
+                    "type": "string",
+                    "description": "Package/plan name as advertised"
+                  },
+                  "price": {
+                    "type": "string",
+                    "description": "Monthly price with unit, e.g. '49 kr/md + spot + 4,9 øre/kWh tillæg'"
+                  },
+                  "details": {
+                    "type": "string",
+                    "description": "Key terms: binding period, cancellation notice, setup fees, included extras, data/speed/content depending on product type"
+                  },
+                  "comparison_to_us": {
+                    "type": "string",
+                    "description": "Direct comparison with our campaign product. Reference specific numbers. E.g. 'Their tillæg is 4.9 øre vs our X øre — Y øre dyrere per kWh. Their abonnement is 39 kr vs our 29 kr.'"
+                  }
+                }
+              }
+            },
+            "pain_points": {
+              "type": "array",
+              "description": "Verified negative customer experiences. Each must have a specific claim AND a real paraphrased story. Minimum 2 per competitor if available.",
+              "items": {
+                "type": "object",
+                "required": ["claim", "story"],
+                "additionalProperties": false,
+                "properties": {
+                  "claim": {
+                    "type": "string",
+                    "description": "Specific, concrete complaint. NOT generic. Must be something a sales agent can say: 'Did you know that [claim]?'"
+                  },
+                  "story": {
+                    "type": "string",
+                    "description": "Paraphrased real customer anecdote with specific details: what happened, how long it took, what the outcome was. 2-4 sentences."
+                  }
+                }
+              }
+            },
+            "critical_news": {
+              "type": "array",
+              "description": "Recent negative press, regulatory actions, or scandals from the last 12 months",
+              "items": {
+                "type": "object",
+                "required": ["date", "headline", "summary"],
+                "additionalProperties": false,
+                "properties": {
+                  "date": {
+                    "type": "string",
+                    "description": "Date or month of the event, e.g. '2025-11' or 'November 2025'"
+                  },
+                  "headline": {
+                    "type": "string",
+                    "description": "Short headline-style summary of the event"
+                  },
+                  "summary": {
+                    "type": "string",
+                    "description": "2-3 sentences: what happened and why it matters for our sales pitch"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

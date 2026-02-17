@@ -1,0 +1,139 @@
+{
+    "campaign": {
+        "id": "elg_b2b",
+        "name": "ELG Erhverv (dagshold)",
+        "description": "ELG B2B sales",
+        "language": "Dansk",
+        "status": "active"
+    },
+        "api_keys": {
+    "gemini": "AIzaSyC1NNKLqKTe2r78z-ppAU-YqyyJ0fnHajM",
+    "soniox": "7e8cedb12953fd3820f76d2feee9064d90e0145c7a0694ca185e577963c611b8"
+  },
+    "dataset": {
+        "name": "elg_b2b",
+        "action_types": [
+            "close",
+            "objection",
+            "price_comparison",
+            "opening"
+        ]
+    },
+     "admin_users": [
+    {
+      "email": "mikkeljanusdahl@gmail.com",
+      "name": "Mikkel"
+    },
+    {
+      "email": "info",
+      "name": "Anders"
+    },
+    {
+      "email": "anders6479@gmail.com",
+      "name": "Anders"
+    }
+  ],
+    "vad": {
+        "speech_minimum_duration_ms": 2000,
+        "silence_before_ai_ms": 500
+    },
+    "prompts": {
+        "generate_campaign_info": true,
+        "actions": {
+            "objection": {
+                "langfuse_name": "elg_b2b_objection",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2b_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "objection_prompt"
+                    ]
+                }
+            },
+            "text": {
+                "langfuse_name": "elg_b2b_text",
+                "enabled": true,
+                "config": {
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2b_info",
+                        "text_prompt"
+                    ],
+                    "user": [
+                    ]
+                }
+            },
+            "close": {
+                "langfuse_name": "elg_b2b_close",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2b_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "close_prompt"
+                    ]
+                }
+            },
+            "price_comparison": {
+                "langfuse_name": "elg_b2b_price_comparison",
+                "enabled": true,
+                "config": {
+                    "use_internet": true,
+                    "output_type": "text",
+                    "search_sources": [
+                        "strømligning.dk"
+                    ]
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2b_info"
+                    ],
+                    "user": [
+                        "sammenligning_pris_elg_b2b_prompt"
+                    ]
+                }
+            },
+            "ai_suggestion": {
+                "langfuse_name": "elg_b2b_ai_suggestion",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2b_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "ai_suggestion"
+                    ]
+                }
+            }
+        }
+    },
+    "campaign_info_files": []
+}

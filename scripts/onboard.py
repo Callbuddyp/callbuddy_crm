@@ -4,9 +4,10 @@ Onboarding script for new campaigns.
 
 This script orchestrates the complete onboarding process:
 1. Validates and loads unified campaign configuration
-2. Generates campaign information from raw materials (optional)
-3. Creates action prompts in Langfuse (optional)
-4. Generates datasets from audio files (optional)
+2. Syncs Firm, Campaign, and Users to Supabase (if configured)
+3. Generates campaign information from raw materials (optional)
+4. Creates action prompts in Langfuse (optional)
+5. Generates datasets from audio files (optional)
 
 Usage:
   python onboard.py --customer-data-dir customer_data/hello_sales/elg_b2c
@@ -23,15 +24,29 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import os
+import csv
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Dict, List, Optional
 
 from services.campaign_info_generator import generate_campaign_info
 from services.prompt_generator import create_campaign_prompts
+from services.supabase_client import SupabaseService
 from utils import load_env_value
 
 
+
+@dataclass
+class FirmConfig:
+    """Firm configuration (loaded from firm_config.json in parent directory)."""
+    name: str
+
+@dataclass
+class AdminUserConfig:
+    """Admin user configuration."""
+    email: str
+    name: Optional[str] = None
 
 @dataclass
 class CampaignConfig:
@@ -40,6 +55,7 @@ class CampaignConfig:
     name: str
     description: str = ""
     language: str = "Dansk"
+    status: str = "draft"  # Added for Supabase sync
 
 
 @dataclass
@@ -107,7 +123,11 @@ class UnifiedConfig:
     dataset: DatasetConfig
     vad: VADConfig
     prompts: PromptsConfig
-    campaign_info_files: List[str] = field(default_factory=list)
+    
+    # Supabase / Firm config (Optional)
+    firm: Optional[FirmConfig] = None
+    api_keys: Dict[str, str] = field(default_factory=dict)
+    admin_users: List[AdminUserConfig] = field(default_factory=list)
     
     # Store raw prompts data for prompt_generator access
     _raw_prompts_data: dict = field(default_factory=dict)
@@ -122,6 +142,7 @@ class UnifiedConfig:
             name=campaign_data.get("name", ""),
             description=campaign_data.get("description", ""),
             language=campaign_data.get("language", "Dansk"),
+            status=campaign_data.get("status", "draft"),
         )
         
         # Parse dataset section
@@ -173,12 +194,28 @@ class UnifiedConfig:
             output_format_prompt=prompts_data.get("output_format_prompt", "output_markdown_suggestions"),
         )
         
+        # Note: Firm config is now loaded separately from firm_config.json
+        # Legacy support: still parse firm from campaign config if present
+        firm = None
+        if "firm" in data:
+            firm = FirmConfig(name=data["firm"].get("name", ""))
+            
+        # Parse Admin Users
+        admin_users = []
+        for au in data.get("admin_users", []):
+            admin_users.append(AdminUserConfig(
+                email=au.get("email", ""),
+                name=au.get("name")
+            ))
+            
         return cls(
             campaign=campaign,
             dataset=dataset,
             vad=vad,
             prompts=prompts,
-            campaign_info_files=data.get("campaign_info_files", []),
+            firm=firm,
+            api_keys=data.get("api_keys", {}),
+            admin_users=admin_users,
             _raw_prompts_data=prompts_data,
         )
     
@@ -205,7 +242,6 @@ class UnifiedConfig:
 def load_unified_config(base_dir: Path) -> UnifiedConfig:
     """Load and validate the unified configuration from config.json."""
     config_path = base_dir / "config.json"
-    
     if not config_path.exists():
         raise FileNotFoundError(f"Configuration file not found: {config_path}")
     
@@ -221,6 +257,44 @@ def load_unified_config(base_dir: Path) -> UnifiedConfig:
     return config
 
 
+def load_firm_config(base_dir: Path, campaign_config: UnifiedConfig) -> Optional[FirmConfig]:
+    """Load firm configuration from firm_config.json in parent directory.
+    
+    Looks for firm_config.json in the parent directory (e.g., customer_data/daica/firm_config.json
+    for a campaign at customer_data/daica/telemore/).
+    
+    Falls back to legacy firm config in campaign's config.json if firm_config.json not found.
+    
+    Args:
+        base_dir: Campaign directory path
+        campaign_config: Already loaded campaign configuration (for legacy fallback)
+    
+    Returns:
+        FirmConfig if found, None otherwise
+    """
+    # Look for firm_config.json in parent directory
+    firm_config_path = base_dir.parent / "firm_config.json"
+    
+    if firm_config_path.exists():
+        try:
+            with firm_config_path.open("r", encoding="utf-8") as f:
+                data = json.load(f)
+            
+            firm_name = data.get("name", "")
+            if firm_name:
+                return FirmConfig(name=firm_name)
+            else:
+                print(f"  ⚠️ firm_config.json found but 'name' is missing")
+        except Exception as e:
+            print(f"  ⚠️ Error loading firm_config.json: {e}")
+    
+    # Fallback to legacy firm in campaign config
+    if campaign_config.firm:
+        return campaign_config.firm
+    
+    return None
+
+
 def check_audio_files(base_dir: Path) -> bool:
     """Check if audio files exist in the conversations directory."""
     audio_dir = base_dir / "conversations"
@@ -234,20 +308,17 @@ def check_audio_files(base_dir: Path) -> bool:
     return False
 
 
-def check_campaign_info_files(base_dir: Path, files: List[str]) -> List[Path]:
-    """Check which campaign info files exist and return their paths."""
+def get_campaign_info_files(base_dir: Path) -> List[Path]:
+    """Get all files in the campaign_info directory."""
     campaign_info_dir = base_dir / "campaign_info"
-    existing_files = []
     
     if not campaign_info_dir.exists():
-        return existing_files
-    
-    for filename in files:
-        path = campaign_info_dir / filename
-        if path.exists():
-            existing_files.append(path)
-    
-    return existing_files
+        return []
+        
+    return [
+        p for p in campaign_info_dir.glob("*") 
+        if p.is_file() and not p.name.startswith(".")
+    ]
 
 
 def _str_to_bool(value: str | bool) -> bool:
@@ -320,6 +391,21 @@ def parse_args() -> argparse.Namespace:
         type=_str_to_bool,
         help="Preview LLM-generated campaign info before uploading",
     )
+    parser.add_argument(
+        "--skip-supabase",
+        action="store_true",
+        help="Skip Supabase syncing",
+    )
+    parser.add_argument(
+        "--local",
+        action="store_true",
+        help="Use local Supabase instance (http://127.0.0.1:54321)",
+    )
+    parser.add_argument(
+        "--create-users-only",
+        action="store_true",
+        help="Only create/link users to campaign (skips prompts, campaign info, datasets, and prompt templates)",
+    )
     return parser.parse_args()
 
 
@@ -347,6 +433,99 @@ def run_dataset_generation(base_dir: Path, config: UnifiedConfig, push_to_langfu
     finally:
         sys.argv = original_argv
 
+def run_supabase_onboarding(config: UnifiedConfig, firm_config: Optional[FirmConfig], base_dir: Path, dry_run: bool, use_local: bool = False, users_only: bool = False) -> None:
+    """Run Supabase onboarding (Firm, Campaign, Users).
+    
+    Args:
+        config: Campaign configuration
+        firm_config: Firm configuration (loaded from firm_config.json or legacy)
+        base_dir: Campaign directory path
+        dry_run: If True, only show what would be done
+        use_local: If True, use local Supabase instance
+        users_only: If True, only process users (skip prompt templates)
+    """
+
+    if dry_run:
+        print("  [DRY RUN] Would sync Firm, Campaign, and Users to Supabase")
+        return
+
+    print("  → Connecting to Supabase...")
+    svc = SupabaseService(supabase_url, supabase_key)
+    
+    # 1. Firm
+    firm_id = ""
+    if firm_config:
+        print(f"  → Processing Firm: {firm_config.name}")
+        firm_id = svc.get_or_create_firm(name=firm_config.name)
+
+        # Keys (from campaign config)
+        if config.api_keys:
+            for provider, key in config.api_keys.items():
+                if key:
+                    svc.set_firm_api_key(firm_id, key, provider)
+    else:
+        print("  ! No Firm configuration found, skipping firm creation.")
+        # Campaigns require firm_id, so we stop here
+        return
+
+    # 2. Campaign
+    print(f"  → Processing Campaign: {config.campaign.name}")
+    campaign_id = svc.get_or_create_campaign(firm_id, config.campaign.name, config.campaign.status)
+
+    # 3. Prompt Templates (skip if users_only)
+    if not users_only:
+        # Each action in prompts.actions corresponds to a template? 
+        # onboard.ts had explicit prompt templates in config.
+        # We can infer from `config.prompts.actions`.
+        found_templates = 0
+        for action_type, action_config in config.prompts.actions.items():
+            if action_config.enabled:
+                 # name needs to match what the app expects.
+                 # In TS: "name": "elg_b2c_text", "action": "text"
+                 # In Python config: keys are action_type, values have langfuse_name.
+                 # We should probably use `langfuse_name` as the template name? Or just the action type?
+                 # onboard.ts used `prompt.name` which mapped to `prompt_template_name`.
+                 # Check TS config: "name": "elg_b2c_text", "action": "text"
+                 # In Python config: action_type="text", langfuse_name="elg_b2c_text"
+                 # So we use langfuse_name.
+                 svc.upsert_prompt_template(campaign_id, action_config.langfuse_name, action_type)
+                 found_templates += 1
+        if found_templates > 0:
+            print(f"  ✓ Processed {found_templates} prompt templates")
+    else:
+        print("  → Skipping prompt templates (--create-users-only)")
+
+    # 4. Admin Users
+    for admin in config.admin_users:
+        if admin.email:
+            user_id = svc.ensure_user(admin.email, firm_id, is_admin=True)
+            if user_id:
+                svc.link_user_to_campaign(user_id, campaign_id)
+                print(f"  ✓ Admin {admin.email} linked to campaign")
+
+    # 5. Regular Users (from csv)
+    users_csv = base_dir / "users.csv"
+    if users_csv.exists():
+        print(f"  → Processing users from {users_csv.name}...")
+        try:
+            with users_csv.open("r", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                count = 0
+                for row in reader:
+                    email = row.get("email", "").strip()
+                    
+                    if not email:
+                        continue
+                    
+                    user_id = svc.ensure_user(email, firm_id, is_admin=False)
+                    if user_id:
+                        svc.link_user_to_campaign(user_id, campaign_id)
+                        count += 1
+                
+                print(f"  ✓ Processed {count} users")
+        except Exception as e:
+            print(f"  ✗ Error processing users.csv: {e}")
+
 
 def main() -> None:
     """Main entry point for the onboarding script."""
@@ -361,7 +540,7 @@ def main() -> None:
         print("\n[DRY RUN MODE] - No changes will be made\n")
     
     # Step 1: Load and validate configuration
-    print("\n[1/4] Loading configuration...")
+    print("\n[1/5] Loading configuration...")
     try:
         config = load_unified_config(base_dir)
         print(f"  ✓ Campaign: {config.campaign.name} ({config.campaign.id})")
@@ -371,60 +550,106 @@ def main() -> None:
         print(f"  ✗ Failed to load configuration: {e}")
         sys.exit(1)
     
-    # Step 2: Generate campaign info (if enabled)
-    print("\n[2/4] Campaign information generation...")
-    if args.skip_campaign_info:
+    # Load firm config (from parent directory or legacy)
+    firm_config = load_firm_config(base_dir, config)
+    if firm_config:
+        print(f"  ✓ Firm: {firm_config.name}")
+    else:
+        print("  ⚠️ No firm configuration found")
+        
+    # Step 2: Supabase Onboarding
+    print("\n[2/5] Supabase Sync...")
+    if args.skip_supabase:
+        print("  → Skipped (--skip-supabase)")
+    else:
+        try:
+            run_supabase_onboarding(config, firm_config, base_dir, args.dry_run, args.local, args.create_users_only)
+        except Exception as e:
+            print(f"  ✗ Supabase sync failed: {e}")
+            sys.exit(1)
+
+    
+    # Step 3: Generate campaign info (if enabled)
+    print("\n[3/5] Campaign information generation...")
+    if args.create_users_only:
+        print("  → Skipped (--create-users-only)")
+    elif args.skip_campaign_info:
         print("  → Skipped (--skip-campaign-info)")
     elif not config.prompts.generate_campaign_info:
         print("  → Disabled in config (prompts.generate_campaign_info = false)")
     else:
-        campaign_info_files = check_campaign_info_files(base_dir, config.campaign_info_files)
-        if not campaign_info_files:
-            print("  → No campaign info files found, skipping")
-        else:
-            print(f"  → Found {len(campaign_info_files)} campaign info files")
+        generated_info_path = base_dir / "campaign_info" / f"{config.campaign.id}_generated_info.md"
+        campaign_info = None
+
+        if generated_info_path.exists():
+            print(f"  → Found existing generated info: {generated_info_path.name}")
             if args.dry_run:
-                print("  [DRY RUN] Would generate campaign info from files")
+                print("  [DRY RUN] Would use existing campaign info")
             else:
                 try:
-                    campaign_info = generate_campaign_info(
-                        config=config,
-                        files=campaign_info_files,
-                        output_dir=base_dir / "campaign_info",
-                    )
-                    print(f"  ✓ Generated campaign info")
-                    
-                    # Show preview if requested
-                    if args.preview:
-                        print(f"\n{'='*60}")
-                        print("CAMPAIGN INFO PREVIEW")
-                        print(f"{'='*60}")
-                        if len(campaign_info) > 2000:
-                            print(campaign_info[:2000])
-                            print(f"\n... ({len(campaign_info) - 2000} more chars)")
-                        else:
-                            print(campaign_info)
-                        print(f"{'='*60}")
-                        
-                        choice = input("\n[a]ccept and continue / [q]uit: ").strip().lower()
-                        if choice in ("q", "quit", "abort", "exit"):
-                            print("  ✗ Aborted by user")
-                            sys.exit(0)
-                    
-                    # Upload to Langfuse so prompts can reference it
-                    print(f"  → Uploading campaign info to Langfuse...")
-                    from services.prompt_generator import upload_campaign_info_prompt
-                    prompt_name = upload_campaign_info_prompt(config, campaign_info)
-                    print(f"  ✓ Uploaded as '{prompt_name}' to Langfuse")
-                    
+                    with generated_info_path.open("r", encoding="utf-8") as f:
+                        campaign_info = f.read()
+                    print("  → Using existing file (skipping generation)")
                 except Exception as e:
-                    print(f"  ✗ Failed to generate/upload campaign info: {e}")
-                    print("  ✗ Stopping - campaign info is required for prompts")
+                    print(f"  ✗ Failed to read existing campaign info: {e}")
                     sys.exit(1)
+        
+        # If not found (or dry run didn't load it), try to generate (unless it existed and was dry run)
+        if campaign_info is None and not generated_info_path.exists():
+            campaign_info_files = get_campaign_info_files(base_dir)
+            if not campaign_info_files:
+                print("  → No files found in campaign_info/ directory, skipping")
+            else:
+                print(f"  → Found {len(campaign_info_files)} campaign info files: {[f.name for f in campaign_info_files]}")
+                if args.dry_run:
+                    print("  [DRY RUN] Would generate campaign info from files")
+                else:
+                    try:
+                        campaign_info = generate_campaign_info(
+                            config=config,
+                            files=campaign_info_files,
+                            output_dir=base_dir / "campaign_info",
+                        )
+                        print(f"  ✓ Generated campaign info")
+                    except Exception as e:
+                        print(f"  ✗ Failed to generate campaign info: {e}")
+                        print("  ✗ Stopping - campaign info is required for prompts")
+                        sys.exit(1)
+
+        # Common steps: Preview and Upload
+        if campaign_info:
+            # Preview
+            if args.preview:
+                print(f"\n{'='*60}")
+                print("CAMPAIGN INFO PREVIEW")
+                print(f"{'='*60}")
+                if len(campaign_info) > 2000:
+                    print(campaign_info[:2000])
+                    print(f"\n... ({len(campaign_info) - 2000} more chars)")
+                else:
+                    print(campaign_info)
+                print(f"{'='*60}")
+                
+                choice = input("\n[a]ccept and continue / [q]uit: ").strip().lower()
+                if choice in ("q", "quit", "abort", "exit"):
+                    print("  ✗ Aborted by user")
+                    sys.exit(0)
+            
+            # Upload
+            try:
+                print(f"  → Uploading campaign info to Langfuse...")
+                from services.prompt_generator import upload_campaign_info_prompt
+                prompt_name = upload_campaign_info_prompt(config, campaign_info)
+                print(f"  ✓ Uploaded as '{prompt_name}' to Langfuse")
+            except Exception as e:
+                print(f"  ✗ Failed to upload campaign info: {e}")
+                sys.exit(1)
     
-    # Step 3: Create prompts in Langfuse (if enabled)
-    print("\n[3/4] Prompt creation in Langfuse...")
-    if args.skip_prompts:
+    # Step 4: Create prompts in Langfuse (if enabled)
+    print("\n[4/5] Prompt creation in Langfuse...")
+    if args.create_users_only:
+        print("  → Skipped (--create-users-only)")
+    elif args.skip_prompts:
         print("  → Skipped (--skip-prompts)")
     else:
         enabled_actions = [
@@ -446,9 +671,11 @@ def main() -> None:
                     print(f"  ✗ Failed to create prompts: {e}")
                     sys.exit(1)
     
-    # Step 4: Generate datasets (if enabled and audio files exist)
-    print("\n[4/4] Dataset generation from audio files...")
-    if args.skip_dataset:
+    # Step 5: Generate datasets (if enabled and audio files exist)
+    print("\n[5/5] Dataset generation from audio files...")
+    if args.create_users_only:
+        print("  → Skipped (--create-users-only)")
+    elif args.skip_dataset:
         print("  → Skipped (--skip-dataset)")
     else:
         has_audio = check_audio_files(base_dir)

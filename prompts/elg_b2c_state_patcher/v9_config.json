@@ -1,0 +1,386 @@
+{
+  "json_schema": {
+    "type": "object",
+    "required": [
+      "patches"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "patches": {
+        "type": "array",
+        "description": "List of discrete patches to apply. Each patch is a typed operation. Only include patches for things that actually changed. Most steps should produce 0-2 content patches. set_phase and add_phase_note are free structural signals.",
+        "items": {
+          "oneOf": [
+            {
+              "type": "object",
+              "description": "Transition to a new phase. Critical structural signal — does NOT count against the 0-2 patch budget. Better to emit one too many than to miss a phase change. completed_phase_summary closes the old phase with a narrative summary.",
+              "required": [
+                "op",
+                "phase"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "op": {
+                  "type": "string",
+                  "enum": [
+                    "set_phase"
+                  ]
+                },
+                "phase": {
+                  "type": "string",
+                  "enum": [
+                    "opener",
+                    "discovery",
+                    "pitch",
+                    "objection_handling",
+                    "close"
+                  ]
+                },
+                "completed_phase_summary": {
+                  "type": "string",
+                  "description": "1-2 sentence summary of the completed phase: what happened + emotional dynamics + key gaps. Not a repeat of progress items."
+                }
+              }
+            },
+            {
+              "type": "object",
+              "description": "Record a significant event in the current phase — milestones, objection events, resolution attempts, or setbacks. Free structural signal — does NOT count against the 0-2 patch budget. Item format: 'note_key — concise note: what happened → strategic signal'.",
+              "required": [
+                "op",
+                "item"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "op": {
+                  "type": "string",
+                  "enum": [
+                    "add_phase_note"
+                  ]
+                },
+                "item": {
+                  "type": "string",
+                  "description": "Note key followed by dash and concise note (under ~80 chars). Format: 'note_key — fact → signal'."
+                }
+              }
+            },
+            {
+              "type": "object",
+              "description": "Add or update a customer fact. Upsert by key. Value must be a clean paraphrase, never raw ASR noise.",
+              "required": [
+                "op",
+                "key",
+                "value",
+                "source"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "op": {
+                  "type": "string",
+                  "enum": [
+                    "upsert_customer_fact"
+                  ]
+                },
+                "key": {
+                  "type": "string",
+                  "description": "Machine key, snake_case. E.g. 'nuvaerende_udbyder'."
+                },
+                "value": {
+                  "type": "string",
+                  "description": "Clean paraphrased value. Never copy raw ASR with stammering."
+                },
+                "source": {
+                  "type": "string",
+                  "enum": [
+                    "confirmed",
+                    "inferred",
+                    "corrected"
+                  ]
+                }
+              }
+            },
+            {
+              "type": "object",
+              "description": "Add or update a pain point. Upsert by id. Two gates: (1) customer expresses emotion/frustration, (2) it would change the responder's approach. Both must be YES. Neutral plans and questions are NOT pain points.",
+              "required": [
+                "op",
+                "id",
+                "description",
+                "severity",
+                "status"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "op": {
+                  "type": "string",
+                  "enum": [
+                    "upsert_pain_point"
+                  ]
+                },
+                "id": {
+                  "type": "string",
+                  "description": "Stable snake_case identifier for this pain point."
+                },
+                "description": {
+                  "type": "string",
+                  "description": "What the customer is frustrated about."
+                },
+                "severity": {
+                  "type": "string",
+                  "enum": [
+                    "low",
+                    "medium",
+                    "high"
+                  ]
+                },
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "expressed",
+                    "explored",
+                    "leveraged"
+                  ]
+                }
+              }
+            },
+            {
+              "type": "object",
+              "description": "Add or update a delivered value proposition. Upsert by id.",
+              "required": [
+                "op",
+                "id",
+                "description",
+                "customer_reaction"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "op": {
+                  "type": "string",
+                  "enum": [
+                    "upsert_value_prop"
+                  ]
+                },
+                "id": {
+                  "type": "string",
+                  "description": "Stable snake_case identifier for this value prop."
+                },
+                "description": {
+                  "type": "string"
+                },
+                "customer_reaction": {
+                  "type": "string",
+                  "enum": [
+                    "positive",
+                    "neutral",
+                    "skeptical",
+                    "rejected"
+                  ]
+                }
+              }
+            },
+            {
+              "type": "object",
+              "description": "Register a new customer objection. Only when the customer explicitly resists or rejects. When customer refuses to provide personal info (CPR, bank details), always use type 'trust'.",
+              "required": [
+                "op",
+                "id",
+                "type",
+                "concern",
+                "status"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "op": {
+                  "type": "string",
+                  "enum": [
+                    "add_objection"
+                  ]
+                },
+                "id": {
+                  "type": "string",
+                  "description": "Stable snake_case identifier for this objection."
+                },
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "price",
+                    "trust",
+                    "timing",
+                    "need",
+                    "competition",
+                    "authority",
+                    "other"
+                  ]
+                },
+                "concern": {
+                  "type": "string",
+                  "description": "Paraphrased core concern."
+                },
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "raised"
+                  ]
+                }
+              }
+            },
+            {
+              "type": "object",
+              "description": "Update status on an existing objection. id must match an existing objection in state.",
+              "required": [
+                "op",
+                "id",
+                "status",
+                "resolution"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "op": {
+                  "type": "string",
+                  "enum": [
+                    "update_objection"
+                  ]
+                },
+                "id": {
+                  "type": "string",
+                  "description": "Must match an existing objection id."
+                },
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "raised",
+                    "addressed",
+                    "resolved",
+                    "resurfaced"
+                  ]
+                },
+                "resolution": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "description": "What resolved it. Only filled when status is 'resolved'."
+                }
+              }
+            },
+            {
+              "type": "object",
+              "description": "Record a customer commitment to a concrete next step. what_for is required — if you can't fill it, it's just a backchannel.",
+              "required": [
+                "op",
+                "statement",
+                "strength",
+                "what_for"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "op": {
+                  "type": "string",
+                  "enum": [
+                    "add_commitment"
+                  ]
+                },
+                "statement": {
+                  "type": "string",
+                  "description": "Paraphrased commitment (not raw ASR)."
+                },
+                "strength": {
+                  "type": "string",
+                  "enum": [
+                    "soft",
+                    "clear",
+                    "firm"
+                  ]
+                },
+                "what_for": {
+                  "type": "string",
+                  "description": "What the customer committed to. Must be concrete."
+                }
+              }
+            },
+            {
+              "type": "object",
+              "description": "Build or refine a DISC-based customer profile. Emitted after 3-5 exchanges, refined rarely. Full replacement — include all fields.",
+              "required": [
+                "op",
+                "disc_primary",
+                "disc_secondary",
+                "communication_style",
+                "decision_driver",
+                "resistance_style",
+                "trust_builders",
+                "approach_note"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "op": {
+                  "type": "string",
+                  "enum": [
+                    "update_customer_profile"
+                  ]
+                },
+                "disc_primary": {
+                  "type": "string",
+                  "enum": [
+                    "D",
+                    "I",
+                    "S",
+                    "C"
+                  ],
+                  "description": "Primary DISC type: D=Dominant, I=Influential, S=Steady, C=Conscientious."
+                },
+                "disc_secondary": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "enum": [
+                    "D",
+                    "I",
+                    "S",
+                    "C",
+                    null
+                  ],
+                  "description": "Secondary DISC type, or null if unclear."
+                },
+                "communication_style": {
+                  "type": "string",
+                  "description": "How to communicate with this customer (tone, pace, detail level)."
+                },
+                "decision_driver": {
+                  "type": "string",
+                  "description": "What primarily motivates this customer's decisions."
+                },
+                "resistance_style": {
+                  "type": "string",
+                  "description": "How this customer typically expresses pushback."
+                },
+                "trust_builders": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "description": "2-4 specific things that build trust with this customer."
+                },
+                "approach_note": {
+                  "type": "string",
+                  "description": "One-sentence tactical recommendation for the responder."
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "initial_state": {
+    "phase": "opener",
+    "current_phase_notes": [],
+    "phase_history": [],
+    "customer_profile": null,
+    "customer_facts": [],
+    "pain_points": [],
+    "objections": [],
+    "value_props_delivered": [],
+    "commitments": []
+  }
+}

@@ -1,0 +1,138 @@
+{
+    "campaign": {
+        "id": "kristoffer_test",
+        "name": "Solceller Outbound",
+        "description": "Start up campagne",
+        "language": "Dansk",
+        "status": "active"
+    },
+    "dataset": {
+        "name": "callbuddy_outbound",
+        "action_types": [
+            "close",
+            "objection",
+            "text",
+            "price_comparison"
+        ]
+    },
+    "firm": {
+        "name": "Callbuddy"
+    },
+    "api_keys": {
+        "gemini": "AIzaSyCHjuyc4Uidi3QUEDNwVqcPXne9f1OOfX0",
+        "soniox": "dad995edb001959887cd69f3d4dc1b072f93abfa235c679e0296b13258721454"
+    },
+    "admin_users": [
+        {
+            "email": "mikkeljanusdahl@gmail.com",
+            "name": "Mikkel"
+        },
+        {
+            "email": "anders6479@gmail.com",
+            "name": "Anders"
+        }
+    ],
+    "vad": {
+        "speech_minimum_duration_ms": 2000,
+        "silence_before_ai_ms": 500
+    },
+    "prompts": {
+        "generate_campaign_info": true,
+        "actions": {
+            "objection": {
+                "langfuse_name": "callbuddy_outbound_objection",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "callbuddy_outbound_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "objection_prompt"
+                    ]
+                }
+            },
+            "close": {
+                "langfuse_name": "callbuddy_outbound_close",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "callbuddy_outbound_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "close_prompt"
+                    ]
+                }
+            },
+            "ai_suggestion": {
+                "langfuse_name": "callbuddy_outbound_ai_suggestion",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "callbuddy_outbound_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "ai_suggestion"
+                    ]
+                }
+            },
+            "text": {
+                "langfuse_name": "callbuddy_outbound_text",
+                "enabled": true,
+                "config": {
+                    "use_internet": true,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "callbuddy_outbound_info"
+                    ],
+                    "user": [
+                        "text_prompt"
+                    ]
+                }
+            },
+            "price_comparison": {
+                "langfuse_name": "elg_b2b_price_comparison",
+                "enabled": true,
+                "config": {
+                    "use_internet": true,
+                    "output_type": "text",
+                    "search_sources": [
+                        "strømligning.dk"
+                    ]
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2b_info"
+                    ],
+                    "user": [
+                        "sammenligning_pris_elg_b2b_prompt"
+                    ]
+                }
+            }
+        }
+    }
+}

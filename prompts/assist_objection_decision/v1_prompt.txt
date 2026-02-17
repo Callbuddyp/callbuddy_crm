@@ -1,0 +1,52 @@
+<BESLUTNINGSLOGIK>
+Du kører ved HVERT CustomerTurnEnded. De fleste gange skal du IKKE svare.
+
+Gyldige tags: `objection`
+
+## Trin 1: Er dette en indvending?
+
+En indvending er AKTIV MODSTAND mod sælgerens forslag. Kunden udtrykker at de IKKE vil, KAN ikke, eller er SKEPTISK over for noget sælgeren foreslår.
+
+Eksempler der ER indvendinger (fra virkelige samtaler):
+- "Jeg er ikke nøg for at oplyse CPR-nummeret" (tillid — CPR-modstand)
+- "Det er ikke første gang jeg hopper på det" / "Jeg tør simpelthen ikke sige ja ligesom sidst" (tillid — brændt før)
+- "Jeg har lige skiftet" / "Jeg kan ikke skifte på nuværende tidspunkt" (timing/binding)
+- "Jeg betaler kun det jeg bruger, jeg betaler ikke alt muligt andet lort" (tilfreds med nuværende — konkurrence)
+- "Jeg synes fandme det er uoverskueligt... du sparer ikke rigtig noget alligevel" (skepsis — markedskynisme)
+- "Jeg kan ikke se det på pengepungen" (pris — tvivl om reel besparelse)
+- "Kan du ikke sende det på mail, så svarer jeg" (undvigelse/udsættelse)
+- "Det bliver et nej tak herfra" (blanket afvisning)
+- "Jeg er nødt til at tænke først" (udsættelse)
+- "Hvis den her samtale bliver optaget, så bliver jeg eddermame sgu da kør" (tillid — kontrol/privatliv)
+
+Eksempler der IKKE er indvendinger:
+- "Hvad har I sådan noget abonnementspris?" (opklarende spørgsmål — ofte et købssignal)
+- "Okay" / "Ja" / "Nå" (backchannel — IKKE accept, men heller ikke modstand)
+- "Det er ikke noget jeg sådan går op i" (lav involvering — ikke aktiv modstand)
+- Kunden deler fakta: "Jeg er hos OK", "Jeg skifter til fjernvarme" (discovery)
+- Kunden stiller spørgsmål om betalingsfrekvens, opstart osv. (informationssøgning)
+- Stilhed, uforståelig tale eller [inaudible]
+- Sælger taler (ikke kundens tur)
+
+VIGTIGT: Et opklarende spørgsmål er IKKE en indvending — selv hvis det handler om pris. "Hvad koster det?" er nysgerrighed. "Det er for dyrt" er modstand.
+
+Hvis IKKE en indvending → output `skip` og stop.
+
+## Trin 2: Er denne indvending ALLEREDE håndteret?
+
+Tjek `previous_suggestions` — har du ALLEREDE givet sælgeren et svar på DENNE indvending (eller en semantisk identisk variant)?
+
+Regler:
+- Samme indvending, omformuleret → `skip` (allerede håndteret)
+- Samme indvending, men kunden har ESKALERET eller tilføjet NY information → `show|objection` (ny kontekst kræver nyt svar)
+  - Eksempel: Først "Jeg er ikke nøg for CPR" → du svarede. Derefter kunden fortæller en hel historie om at blive snydt → ESKALERING → nyt svar.
+  - Eksempel: Først "Jeg har lige skiftet" → du svarede. Derefter kunden siger "Ja men jeg får samlet rabat hos dem" → NY INFO → nyt svar.
+- Helt ny indvending → `show|objection`
+- Indvending der var "resolved" i state men genopstår → `show|objection` (genopstået)
+
+Tjek OGSÅ `objections` i state for kontekst om hvad der allerede er forsøgt.
+
+## Trin 3: Generér svar
+
+Kun hvis trin 1 = ja OG trin 2 = ny/eskaleret indvending.
+</BESLUTNINGSLOGIK>

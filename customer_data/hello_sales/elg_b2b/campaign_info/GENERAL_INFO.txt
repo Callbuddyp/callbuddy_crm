@@ -1,0 +1,107 @@
+The followings that are attachted are also used for b2c, remember, this campaign IS ONLY FOR B2B.
+
+Extract only the relevant information for b2b. Here is an example of what you ought to generate but for b2c.:
+
+### 5. KAMPAGNE BIBLIOTEK: Energiselskabet ELG
+
+#### 1. PRODUKTFAKTA (Til Situation B - Fakta)
+Her er de hårde fakta, agenten skal læne sig op ad. Tallene er baseret på "Loyalitets-modellen" fra de succesfulde kald samt standardvilkår.
+
+* **Produktnavn:** Strøm til indkøbspris (Variabel) / Dansk vedvarende strøm (Fast/Gennemsnit).
+* **Abonnement:** 29 kr. pr. måned (Variabel) / 9 kr. pr. måned (Fast/Sort pris).
+* **Tillæg til Spotpris (Variabel - Loyalitetsmodel):**
+    * År 1: 5 øre pr. kWh.
+    * År 2: 4 øre pr. kWh.
+    * År 3: 3 øre pr. kWh.
+    * År 4+: 2 øre pr. kWh (slutstadie).
+* **Binding:** Ingen binding på variabel aftale. 6 måneders binding på fast prisaftale (med mulighed for exit mod gebyr på ca. 100 kr).
+* **Oprettelse:** Standard 199 kr.
+* **Betaling:** Månedsvis a conto via Betalingsservice (Ingen store kvartalsregninger forud).
+* **App:** "Timepris" (Hello Solution) til overvågning af forbrug.
+* **Grøn Strøm:** Opkøb af oprindelsesgarantier fra danske vindmøller/solceller (ofte inkluderet uden ekstra merpris i pitchet).
+
+---
+
+#### 2. TRIN 1: INDLEDNING & BEHOV (Hooks & Afklaring)
+
+**Intro (Standard):**
+"Hej, det er [Navn], goddag! Jeg ringer inde fra Energiselskabet Elg. Jeg forstyrrer dig vel ikke midt i noget vigtigt?"
+
+**Hook A (Konkurrence/Opfølgning):**
+"Jeg ringer, fordi du deltog i vores konkurrence om at vinde [præmie], kan det passe? ... Konkurrencen lagde sig jo også rigtig meget op ad det her med din el-aftale på adressen [Adresse], det er der du holder til, ikke?"
+
+**Hook B (Pristjek & "Basisaftale" - Den stærke faglige vinkel):**
+"Grunden til jeg ringer er, at vi kan se, mange stadig hænger fast i gamle aftaler efter prisstigningerne. Har du husket at få kigget din elaftale efter i sømmene for nylig? Grunden til jeg spørger er, at hvis du ikke selv har forhandlet din aftale, så er der risiko for, at du har sådan en 'basisaftale' hos dit nuværende selskab, og der betaler man ofte for meget i det, der hedder Spot-tillæg."
+
+**Behovsspørgsmål (Til at vælge spor):**
+* "Hvilket selskab har du i dag? (Og har du tjekket om de tager ekstra gebyrer for 'grøn strøm' eller administration?)"
+* "Går du meget op i at bruge strømmen, når den er billigst, eller vil du bare have, at det kører automatisk uden du skal tænke på det?"
+* "Betaler du din regning kvartalsvis forud eller månedsvis bagud i dag?"
+
+---
+
+#### 3. TRIN 2: DELACCEPT 1 (Til Situation A - Modstand)
+
+**Ved "Ikke interesseret / Har ikke tid":**
+"Det kan jeg sagtens forstå du siger. Du gider nok ikke bøvle med at skifte, så længe der er lys i lamperne derhjemme, vel? ... Nej, jeg har det på præcis samme måde. Men nu må du endelig ikke misforstå mig – jeg ringer nemlig ikke for at ændre på, hvor strømmen kommer fra, men kun på prisen du betaler for den."
+
+**Ved "Jeg er glad for mit nuværende selskab (fx OK/Andel/Norlys)":**
+"Det forstår jeg selvfølgelig godt. Det er trygt, og det virker. Men man har jo ikke lyst til at have et selskab, som leger bank på dine vegne ved at opkræve store a conto beløb kvartalsvis, når du i forvejen har en bank til at administrere dine penge, vel? Hos os betaler du månedsvis, så du aldrig har store penge ude at svømme."
+
+**Ved "Hvad er prisen? / Kan det betale sig?":**
+"Godt du spørger! Du virker også til at have godt styr på sagerne. Det korte svar er: Ja. Mange af de store selskaber har skruet op for tillæggene uden at sige det højt. Hos os får du strømmen til ren indkøbspris plus et minimalt tillæg, som faktisk falder år for år."
+
+**Ved "Det lyder for godt til at være sandt":**
+"Det forstår jeg godt du siger, og tro mig, den har jeg hørt før. Vi er jo også en virksomhed, der skal tjene penge. Vi gør det bare via et lavt fast abonnement i stedet for at gemme avancen i uoverskuelige tillæg og gebyrer. Der er ikke noget, der er så skidt, det ikke er godt for noget, vel?"
+
+---
+
+#### 4. TRIN 3: LØSNING (Pitch - Opdelt i Scenarier)
+
+**Scenarie A: "Loyalitets-modellen" (Den foretrukne løsning - Variabel)**
+"Måden vi gør det på hos os er, at vi belønner dig for at blive hængende. Lige nu betaler du sandsynligvis et højt tillæg hos dit nuværende selskab.
+Hos mig får du strømmen til indkøbspris. Mit tillæg starter på kun 5 øre. Og så sker der det smarte:
+* Efter første år falder det til 4 øre.
+* Året efter til 3 øre.
+* Og når du rammer det fjerde år, er du nede på kun **2 øre** pr. kWh.
+Det betyder, at din elregning automatisk bliver billigere, jo længere tid du er hos mig, helt uden du skal røre en finger. Det giver da meget god mening, ikke?"
+
+**Scenarie B: "Tryghed & Gennemskuelighed" (Fokus på månedsvis betaling & ingen skjulte gebyrer)**
+"Det jeg vil gøre for dig, er at rydde op i de skjulte omkostninger. Mange selskaber tager gebyrer for 'grøn strøm', 'kreditomkostninger' og 'administration'.
+Hos Energiselskabet Elg fjerner vi støjen. Du får:
+1.  Et abonnement helt ned til 29 kr.
+2.  Ingen ekstra gebyrer for grøn strøm – vi køber oprindelsesgarantier fra danske vindmøller uden merpris.
+3.  Og vigtigst af alt: Vi afregner **månedsvis bagud**. Du skal ikke betale 3 måneder forud. Du betaler kun for det, du har brugt. Det er da mere fair, synes du ikke?"
+
+**Argument om Oprettelsesgebyr (Lukketeknik):**
+"Normalt tager vi et oprettelsesgebyr på 199 kr. for at få papirerne i orden. Men ved du hvad – fordi du bor i [By/Område] / fordi vi har haft en god snak i dag, så fjerner jeg det gebyr fuldstændig. Så koster det dig 0 kr. at skifte over til mig. Skal vi ikke bare sige, at vi gør det sådan?"
+
+---
+
+#### 5. TRIN 4: DELACCEPT 2 (Trial Close)
+
+* "Og jeg tænker, du har det som de fleste andre: At du ikke har lyst til at betale for meget for noget, som du kan få billigere, vel?"
+* "Det er vel også meget rart at vide, at prisen falder af sig selv fremadrettet, i stedet for at den stiger, ikke?"
+* "Du vil vel hellere have pengene stående på din egen konto end at låne dem rentefrit til elselskabet i 3 måneder, ikke sandt?"
+
+---
+
+#### 6. TRIN 5: CLOSING (Handlingsanvisning & Praktik)
+
+**Overgang til data:**
+"Præcis! Der er selvfølgelig ikke noget, du selv skal foretage dig. Jeg sørger for alt det praktiske med at opsige det gamle og flytte måleren, så du ikke står uden strøm eller får dobbeltregninger. Jeg skal sådan set bare sikre, at jeg har de rigtige oplysninger på dig, og så kører det automatisk fra den 1. i næste måned."
+
+**Indhentning af info (Assumption Close):**
+* "Det er kun på adressen [Adresse], jeg skal spare dig for nogle penge, eller har du også et sommerhus?"
+* "Jeg skal lige bruge dit CPR-nummer til at hente dine målerdata i det nationale register – hvad er de sidste 4 cifre?"
+* "Og du har det vel også til at køre over Betalingsservice i dag, har du ikke det? Super, så sætter vi det også bare op til det hos os. Hvilken bank har du?"
+
+**Voice-Log (Optagelse af aftale):**
+"Godt. Som aftalt optager vi den næste del af samtalen for din sikkerhed.
+Det vi har aftalt er, at jeg skifter dig over til en NY privataftale hos Energiselskabet Elg med opstart d. [Dato].
+Du betaler en variabel indkøbspris plus et tillæg, der starter på 5 øre og falder årligt ned til 2 øre. Abonnementet er 29 kr. pr. md. Der er ingen binding på aftalen.
+Jeg har fjernet oprettelsesgebyret på de 199 kr., så det er gratis at komme i gang. Du betaler månedsvis via betalingsservice.
+Jeg sender naturligvis en ordrebekræftelse til din mail [Email]. Har du nogle spørgsmål til det?"
+
+**Afslutning:**
+"Så har jeg kun tilbage at sige: Velkommen til Energiselskabet Elg! Jeg glæder mig til samarbejdet."

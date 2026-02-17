@@ -1,7 +1,7 @@
 {
     "campaign": {
         "id": "elg_b2c",
-        "name": "Energiselskabet ELG B2C",
+        "name": "ELG Privat (aftenhold)",
         "description": "ELG Business-to-Consumer sales",
         "language": "Dansk"
     },
@@ -11,9 +11,24 @@
             "close",
             "objection",
             "price_comparison",
-            "opening"
+            "opening",
+            "ai_suggestion"
         ]
     },
+            "api_keys": {
+    "gemini": "AIzaSyC1NNKLqKTe2r78z-ppAU-YqyyJ0fnHajM",
+    "soniox": "7e8cedb12953fd3820f76d2feee9064d90e0145c7a0694ca185e577963c611b8"
+  },
+     "admin_users": [
+    {
+      "email": "mikkeljanusdahl@gmail.com",
+      "name": "Mikkel"
+    },{
+      "email": "anders6479@gmail.com",
+      "name": "Anders"
+    }
+  ],
+
     "vad": {
         "speech_minimum_duration_ms": 2000,
         "silence_before_ai_ms": 500
@@ -92,6 +107,25 @@
                     ],
                     "user": [
                         "sammenligning_pris_elg_b2c_prompt"
+                    ]
+                }
+            },
+            "ai_suggestion": {
+                "langfuse_name": "elg_b2c_ai_suggestion",
+                "enabled": true,
+                "config": {
+                    "use_reasoning": false,
+                    "use_internet": false,
+                    "output_type": "text"
+                },
+                "components": {
+                    "system": [
+                        "salescall_system1",
+                        "elg_b2c_info",
+                        "output_markdown_suggestions"
+                    ],
+                    "user": [
+                        "ai_suggestion"
                     ]
                 }
             }

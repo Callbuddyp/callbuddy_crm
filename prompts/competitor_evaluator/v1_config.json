@@ -1,0 +1,54 @@
+{
+  "json_schema": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "required": ["name", "competitor_id", "aliases", "comparison_summary", "strengths", "angles", "switching_barriers", "anecdotes", "recent_news"],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Official company name as used in the market"
+        },
+        "competitor_id": {
+          "type": "string",
+          "description": "Stable snake_case identifier, e.g. 'norlys', 'andel_energi'"
+        },
+        "aliases": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Other names customers use: old brands, abbreviations, sub-brands"
+        },
+        "comparison_summary": {
+          "type": "string",
+          "description": "Complete pricing and terms picture covering ALL relevant dimensions, compared to our offering"
+        },
+        "strengths": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "What this competitor genuinely does well"
+        },
+        "angles": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Pre-computed comparative statements with specific numbers"
+        },
+        "switching_barriers": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "What holds customers: contractual, practical, psychological"
+        },
+        "anecdotes": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Concrete stories from reviews/forums with specific details"
+        },
+        "recent_news": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Dated items from last 12 months"
+        }
+      }
+    }
+  }
+}

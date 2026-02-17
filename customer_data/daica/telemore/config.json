@@ -2,18 +2,32 @@
     "campaign": {
         "id": "daica_telmore",
         "name": "DAICA Telemore",
-        "description": "Start up campagne",
-        "language": "Dansk"
+        "description": "Prøve kampagne",
+        "language": "Dansk",
+        "status": "active"
     },
     "dataset": {
         "name": "daica_telmore",
         "action_types": [
             "close",
             "objection",
-            "price_comparison",
+            "compare_price",
             "text"
         ]
     },
+      "admin_users": [
+    {
+      "email": "mikkeljanusdahl@gmail.com",
+      "name": "Mikkel"
+    },{
+      "email": "anders6479@gmail.com",
+      "name": "Anders"
+    }
+  ],
+    "api_keys": {
+    "gemini": "AIzaSyBfAvOZ-vomit8YHWO4qh3cRFvnNO_-Oyk",
+    "soniox": "972ec33ef0652aba7c4f601edf75cea53ae66e9c9a0b21f5a61d5a6a3f0efe9c"
+  },
     "vad": {
         "speech_minimum_duration_ms": 2000,
         "silence_before_ai_ms": 500
@@ -78,7 +92,7 @@
                     ]
                 }
             },
-            "price_comparison": {
+            "compare_price": {
                 "langfuse_name": "daica_telmore_price_comparison",
                 "enabled": true,
                 "config": {
@@ -106,14 +120,17 @@
                 "components": {
                     "system": [
                         "salescall_system1",
-                        "daica_telmore_info",
-                        "text_prompt"
+                        "daica_telmore_info"
+                        
                     ],
                     "user": [
+                        "text_prompt"
                     ]
                 }
             }
         }
     },
-    "campaign_info_files": ["general_info.txt"]
+    "campaign_info_files": [
+        "general_info.txt"
+    ]
 }

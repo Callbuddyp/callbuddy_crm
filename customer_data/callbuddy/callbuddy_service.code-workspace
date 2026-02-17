@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../callbuddy_supabase"
+		},
+		{
+			"path": "../../../callbuddy"
+		},
+		{
+			"path": "../../../callbuddy_render"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,491 @@
+{
+  "basis": [
+    {
+      "field": "market_overview",
+      "reasoning": "Informationerne er udledt af en kombination af brancheoversigter, markedsrapporter fra Forsyningstilsynet og statistikker over markedsandele samt priseksempler fra de fem største el‑selskabers officielle hjemmesider. Disse kilder viser både markedsstruktur, prisvariationer og den aktuelle politiske kontekst, som er relevant for ELG's El‑aftaler kampagne.",
+      "citations": [
+        {
+          "url": "https://energinet.dk/media/alpn1j0h/fremskrivning-af-energinets-eltariffer-2025-2027-1.pdf",
+          "excerpts": [
+            "Energinet ønsker med denne publikation at give størst mulig transparens om de forventede fremtidige eltariffer samt belyse de store usikkerheder, ...Read more"
+          ],
+          "title": "energinets eltariffer - 2025-2027"
+        },
+        {
+          "url": "https://andelenergi.dk/kundeservice/forbrug/faktisk-afregnet-elvarme/",
+          "excerpts": [
+            "Fra 1. januar 2026 til og med 2027 sænker regeringen elafgiften til EU's minimumssats på 1 øre pr. kWh inkl. moms. Den lavere elafgift er ...Read more Fra 1. januar 2026 til og med 2027 sænker regeringen elafgiften til EU's minimumssats på 1 øre pr. kWh inkl. moms. Den lavere elafgift er derfor den samme ...Read more"
+          ],
+          "title": "Sådan afregner vi reduceret elafgift | andelenergi.dk"
+        },
+        {
+          "url": "https://www.ewii.dk/privat/el/saenket-elafgift/",
+          "excerpts": [
+            "Finansloven for 2026 sænker elafgiften til 1 øre pr. kWh. De fleste danskere kommer til at få en lavere elregning. Se her, hvor meget du sparer."
+          ],
+          "title": "Sænket elafgift i 2026 og 2027"
+        },
+        {
+          "url": "https://www.reddit.com/r/Denmark/comments/1q7dewb/jeg_har_tjekket_elaftaler_s%C3%A5_du_ikke_beh%C3%B8ver/",
+          "excerpts": [
+            "Så blev det 2026, elafgiften er reduceret til næsten ingenting, og det er på tide at få styr på budgettet og bl. a. tjekke om du har den rigtige elaftale.Read more Så blev det 2026, elafgiften er reduceret til næsten ingenting, og det er på tide at få styr på budgettet og bl.a. tjekke om du har den ...Read more"
+          ],
+          "title": "Jeg har tjekket el-aftaler, så du ikke behøver [Januar 2026]"
+        },
+        {
+          "url": "https://elselskaber.dk/storste/",
+          "excerpts": [
+            "e.\nIfølge de seneste tal har de største elselskaber i Danmark en samlet markedsandel på omkring 75%. De",
+            "Alt i alt er elselskaberne i Danmark en vigtig del af energisektoren og har en betydelig markedsandel.",
+            "nt:\nDanmarks største elselskaber omfatter blandt andre **Norlys** , **Andel Energi** , **OK** og **NRGi** . De dominerer markedet med mange kunder og konkurrerer på pris, kundeservice og grønne løsninger. Som",
+            "t:\nKonkurrencen mellem elselskaberne i Danmark er blevet skærpet i de seneste år. Der er flere mindre elselskaber, der er kommet på markedet og har forsøgt at udfordre de større spillere. Disse "
+          ],
+          "title": "Største elselskaber i Danmark (2026) → Se alle elselskaber"
+        },
+        {
+          "url": "https://borsenlive.dk/stoerste-elselskaber-i-danmark/",
+          "excerpts": [
+            "ntent:\nDet største elselskab i Danmark er **Ørsted** , som både leverer strøm til private forbrugere og står bag store havvindmølleprojekter i Danmark og internationalt. Ørsted er kendt for sin overgang fra fossile brændsler til vedvarende energi og betragtes som en af verdens mest bæredygtige energivirksomheder.\nI Danmark"
+          ],
+          "title": "Energiselskaber - De største elselskaber i Danmark (2026)"
+        },
+        {
+          "url": "https://eludbyderne.dk/elselskaber/sjaelland/hoersholm/",
+          "excerpts": [
+            "Her kan du se en samlet oversigt over [de største elselskaber i Danmark](https://eludbyderne.dk/elselskaber/stoerste/) og deres markedsandele, som løbende opdateres gennem året.\n",
+            "\n| Selskab | Andel af markedet (%) | Antal kunder i området |\n",
+            "| OK | 24 | ca. 5.200 |",
+            "| Andel Energi | 19 | ca. 4.000 |",
+            "| Modstrøm | 15 | ca. 3.200 |\n",
+            "| Nordisk Energy | 12 | ca. 2.600 |",
+            "| Øvrige selskaber | 30 | ca. 6.000 |"
+          ],
+          "title": "Elselskaber i Hørsholm (2970) - Priser & elaftaler 2026"
+        },
+        {
+          "url": "https://forsyningstilsynet.dk/Media/638924853153921019/2025%20National%20Report%20.pdf",
+          "excerpts": [
+            "As of June 16, 2025, there were 430 market participants registered in Denmark on\nACER’s REMIT portal. 3 This number represents the total number of market participants\nacross both the wholesale electricity and gas markets"
+          ],
+          "title": "The Danish Electricity and Natural Gas Markets 2024"
+        },
+        {
+          "url": "https://norlys.dk/el/elpriser/",
+          "excerpts": [
+            "Følg prisen for FlexEl time for time og få et overblik over, hvornår du kan bruge strømmen billigst.",
+            "Bemærk, at den viste pris er eksklusiv transport og afgifter, som betales til elnetselskabet og staten.",
+            "I nedenstående grafer kan du se, hvordan priserne for MånedsEl og FlexEl har udviklet sig.",
+            "Graferne opdateres hver måned. Seneste opdatering januar 2026.",
+            "Når du betaler din elregning, betaler du for mere end selve mængden af el, du bruger i dit hjem. Der er nemlig også en række afgifter og omkostninger",
+            "Energinet og dit elnetselskab: Transport af el og netabonnement",
+            "Staten: Elafgifter og moms"
+          ],
+          "title": " Hvad er elprisen lige nu? Se de aktuelle elpriser her"
+        },
+        {
+          "url": "https://billigsteelselskaber.dk/norlys/",
+          "excerpts": [
+            "| Elaftale | Tillæg | Abonnement | Binding |",
+            "FlexEl | Spotpris + 9 øre/kWh | 29 kr./md. | Ingen binding |\n",
+            "| Elaftale | Tillæg | Abonnement | Binding |",
+            " MånedsEl | Fast elpris | 29 kr./md. | Ingen binding |\n",
+            "FlexEl | Spotpris + 9 øre/kWh | 29 kr./md. | Ingen binding |\n",
+            "kår\nContent:\nNorlys tilbyder to gennemskuelige elaftaler: MånedsEl og FlexEl. MånedsEl har en fast elpris på 100,54 øre/kWh (april 2025), mens FlexEl følger markedsprisen time for time med et tillæg på 9 øre/kWh – i april landede gennemsnittet på 87,90 øre/kWh. Begge aftaler er uden binding og har et fast abonnementsgebyr på 29 kr. pr. måned.",
+            "ent:\nUd over elprisen og tillægget opkræves et fast månedligt abonnement på 29 kr. Derudover viderefaktureres netabgifter og afgifter – som fx transport, systemydelser og målerleje – direkte fra netselskabet uden ekstra påslag. Det si",
+            ": Norlys anmeldelse > Norlys elpriser og vilkår\n",
+            "| Elaftale | Tillæg | Abonnement | Binding |",
+            "| MånedsEl | Fast elpris | 29 kr./md. | Ingen binding |\n",
+            "| FlexEl | Spotpris + 9 øre/kWh | 29 kr./md. | Ingen binding |\n"
+          ],
+          "title": "Norlys Anmedelse » Erfaringer, Priser & Rabat 2026"
+        },
+        {
+          "url": "https://findenergi.dk/elselskaber/ewii-el/",
+          "excerpts": [
+            "Ligesom resten af energimarkedet, er elpriserne hos EWII konstant i forandring. [Elpriserne opdateres time for time](https://findenergi.dk/elpriser/time-for-time/) , hvilket betyder, at de kan variere afhængigt af markede",
+            "t. Når du tilmelder dig som kunde hos EWII, er der ingen oprettelsesgebyr, og alle abonnementer er uden bindingsperiode, så du har frihed til at opsige aftalen når som helst.",
+            "For detaljer om de forskellige abonnementer og de nyeste priser, kan du besøge [EWII’s hjemmeside](https://go.ewii.dk/t/t?a=1897559994&as=1739229149&t=2&tk=1) , hvor du kan finde opdateret information om de tilgængelige elaftaler."
+          ],
+          "title": "EWII Energi | Fordele og ulemper (2026)"
+        },
+        {
+          "url": "https://elberegner.dk/elselskaber/energi-fyn/",
+          "excerpts": [
+            "tent:\nPriserne på strøm og el er en variabel som ændre sig flere gange årligt. Som kunde hos Energi Fyn afhænger prisen dog også af hvilken abonnement du tegner, hvilket du kan blive meget klogere på på Energi Fyns egen hjemmeside. Her kan du altid finde de nyeste opdaterede Energi Fyn elpriser samt læse om dine muligheder for at støtte klima og foreningslivet gennem din elregning. Energi f",
+            "Senest opdateret d. 12. februar 2026"
+          ],
+          "title": "Energi Fyn | Anmeldelse, elpriser og omdømme (2026)"
+        },
+        {
+          "url": "https://www.energifyn.dk/privat/el/vaerd-at-vide-om-el/fast-eller-variabel-pris-pa-el/",
+          "excerpts": [
+            "Elaftaler kan inddeles i to kategorier: Aftaler med fast pris og aftaler med variabel pris.",
+            " ",
+            ":\nMed en fastprisaftale kender du din pris på forhånd og du betaler dermed et fast beløb pr. forbrugt kWh. Det\n \n",
+            "\nEnergi Fyn kan i øjeblikket tilbyde et elprodukt med fast pris: KvartalsEl .\n",
+            "\nMed en variabel prisaftale vil prisen svinge, fordi den følger markedsprisen på el. ",
+            "Energi Fyn tilbyder følgende elprodukter med en variabel pris: FynskSupportEl , og SpotEl .\n"
+          ],
+          "title": "Elaftaler med fast eller variabel pris | Se mulighederne her"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "field": "competitors",
+      "reasoning": "Ud fra de indsamlede pris‑ og produktdata på hver leverandørs hjemmeside samt kundeanmeldelser på Trustpilot er de fem største konkurrenter identificeret. For hver konkurrent er priser, abonnementer, bindende vilkår og typiske klager udtrukket, og de er sat i forhold til ELG's egne produktparametre for at give et direkte sammenligningsgrundlag.",
+      "citations": [
+        {
+          "url": "https://andelenergi.dk/el/fastenergi-sol-og-vind-6-maaneder/",
+          "excerpts": [
+            "God til dig som vil sikres mod prisstigninger. Med FastEnergi sikrer Andel Energi dig mod prisstigninger i 6 måneder ad gangen. Fast pris de næste 6 måneder.Read more Din mindstepris er 114 kr. (19 kr. pr. måned), prisen for de kilowatt-timer du forbruger i opsigelsesperioden, samt transport af el og afgifter.Read more"
+          ],
+          "title": "FastEnergi - lås din elpris | andelenergi.dk"
+        },
+        {
+          "url": "https://andelenergi.dk/el/prisudvikling/",
+          "excerpts": [
+            "Vi har samlet et overblik over prisudviklingen for alle vores elprodukter. Find ud af, hvordan din pris på el har udviklet sig her hos os."
+          ],
+          "title": "Se udviklingen af elpriser for hele landet her | andelenergi.dk"
+        },
+        {
+          "url": "https://andelenergi.dk/el/timepris/",
+          "excerpts": [
+            "Se elpriser time for time i dette døgn med strømudsigten. Brug strømmen, når den er billigst, og spar strøm, når den koster mere."
+          ],
+          "title": "Elpriser | Følg elpris time for time live med strømudsigten"
+        },
+        {
+          "url": "https://norlys.dk/kundeservice/el/flexel-prisudvikling/",
+          "excerpts": [
+            "2 days ago — Priser på FlexEl ; Billigste time. 103,13 øre/kWh. Kl. 23.00 - 00.00 ; Gennemsnit. 120,34 øre/kWh ; Dyreste time. 149,13 øre/kWh. Kl. 08.00 - 09.00.Read more"
+          ],
+          "title": "Aktuel elpris hos Norlys - Læs om prisudvikling for FlexEl"
+        },
+        {
+          "url": "https://www.ewii.dk/privat/el/elpriser-time-for-time/",
+          "excerpts": [
+            "Se elpriser time for time, og følg udviklingen i strømpriser live. Timeprisen på el svinger i løbet af dagen. Find aktuel elpris her. 3 days ago — Se elpriser time for time, og følg udviklingen i strømpriser live. Timeprisen på el svinger i løbet af dagen. Find aktuel elpris her. Se, hvad strømmen koster lige nu, og få overblik over, hvornår det bedst kan betale sig at bruge strøm, hvis du har en variabel elaftale.Read more"
+          ],
+          "title": "Elpriser time for time | Se aktuelle strømpriser her"
+        },
+        {
+          "url": "https://norlys.dk/el/",
+          "excerpts": [
+            "Bestil elaftale ; Elpris. 1,08 kr./kWh ; Transport og afgifter · 0,54 kr./kWh ; Samlet pris. 1,62 kr./kWh ; Abonnement. 29 kr.Read more Bestil elaftale ; Elpris. 1,35 kr./kWh ; Transport og afgifter · 0,54 kr./kWh ; Samlet pris. 1,89 kr./kWh ; Abonnement. 29 kr.Read more"
+          ],
+          "title": "Elaftale hos Norlys - Bestil el nemt og hurtigt her"
+        },
+        {
+          "url": "https://www.ok.dk/privat/produkter/el/viden/reduceret-elafgift-saa-meget-kan-du-faa",
+          "excerpts": [
+            "(2026). Hvis du opfylder betingelserne fra SKAT, er du berettiget til at få reduceret elafgiften på den del af dit elforbrug, der ligger over 4.000 kWh om ...Read more"
+          ],
+          "title": "Elafgift (2026) → Se om du kan få reduceret elafgift? | OK"
+        },
+        {
+          "url": "https://andelenergi.dk/kundeservice/forbrug/faktisk-afregnet-elvarme/",
+          "excerpts": [
+            "Fra 1. januar 2026 til og med 2027 sænker regeringen elafgiften til EU's minimumssats på 1 øre pr. kWh inkl. moms. Den lavere elafgift er ...Read more Fra 1. januar 2026 til og med 2027 sænker regeringen elafgiften til EU's minimumssats på 1 øre pr. kWh inkl. moms. Den lavere elafgift er derfor den samme ...Read more"
+          ],
+          "title": "Sådan afregner vi reduceret elafgift | andelenergi.dk"
+        },
+        {
+          "url": "https://borsenlive.dk/stoerste-elselskaber-i-danmark/",
+          "excerpts": [
+            "| Elselskab | Pris pr. kWh (fra) | Ejerskabsform | Grøn energiandel | Primære styrker |\n| Ø",
+            "|\n| Ørsted | 2,45 kr. | Børsnoteret statsligt selskab | ~100% | Global leder inden for havvind og vedvarende energi |\n|",
+            "|\n| Andel | 2,33 kr. | Andelsejet | ~90% | Stabile priser, stærkt lokalt ejerskab, investering i ny energi |",
+            "\n| Norlys | 2,28 kr. | Andelsejet | ~85% | Kombinerer el, internet og grønne teknologier |\n",
+            "|\n| AURA | 2,21 kr. | Andelsejet | ~80% | Innovative løsninger og tydelig kundevejledning |",
+            "| SEF Energi | 2,23 kr. | Lokalt ejet selskab | ~75% | Personlig service og fokus på lokal, grøn energi |"
+          ],
+          "title": "Energiselskaber - De største elselskaber i Danmark (2026)"
+        },
+        {
+          "url": "https://forsyningstilsynet.dk/Media/638924853153921019/2025%20National%20Report%20.pdf",
+          "excerpts": [
+            "The Nordic flow-based capacity calculation method was launched on 29 October 2024\nto optimize electricity exchange between the Nordic bidding zones. In the first two\nmonths following its implementation, capacity utilisation has increased by up to 20 per-\ncent ."
+          ],
+          "title": "The Danish Electricity and Natural Gas Markets 2024"
+        },
+        {
+          "url": "https://andelenergi.dk/el/fastenergi/",
+          "excerpts": [
+            "Andel Energi elabonnement\n19 kr./md",
+            "Elpris\nFast pris\n125,21 øre/kWh",
+            "Mindstepris i bindingsperioden\n522,18 kr.",
+            "Slutdato\n28.02.2027",
+            "Startdato\n01.03.2026",
+            "Samlet kWh-pris\n211,51 øre/kWh"
+          ],
+          "title": "FastEnergi sol og vind 12 måneder | andelenergi.dk"
+        },
+        {
+          "url": "https://norlys.dk/el/elpriser/",
+          "excerpts": [
+            "Følg prisen for FlexEl time for time og få et overblik over, hvornår du kan bruge strømmen billigst.",
+            "Denne post dækker prisen for dit kWh-forbrug samt abonnementet til din elleverandør. Eftersom prisen pr. kWh for tiden er højere end normalt, er procentdelen for denne post steget i forhold til tidligere.",
+            "Energinet og dit elnetselskab: Transport af el og netabonnement",
+            "Staten: Elafgifter og moms"
+          ],
+          "title": " Hvad er elprisen lige nu? Se de aktuelle elpriser her"
+        },
+        {
+          "url": "https://billigsteelselskaber.dk/norlys/",
+          "excerpts": [
+            "\nContent:\nFlexEl fra Norlys er bygget op omkring en variabel prisstruktur, hvor elprisen følger spotprisen på elbørsen time for time. Hertil lægges et fast tillæg på 9 øre/kWh, hvilket betyder, at prisen kan ændre sig flere gange i løbet af døgnet. I april 2025 lå den gennemsnitlige pris på 87,90 øre/kWh. Aftalen er uden binding og henvender sig til forbrugere, der ønsker maksimal fleksibilitet.\nDen variable",
+            "FlexEl | Spotpris + 9 øre/kWh | 29 kr./md. | Ingen binding |\n",
+            "dstrom/) .\nMånedsEl er uden binding og sikrer budgetsikkerhed, men giver sjældent laveste pris sammenlignet med spotbaserede aftaler i perioder med lav markedspris. Den faste pris kan være højere over tid, især for husholdninger med fleksibelt forbrugsmønster.",
+            ":\nNorlys tilbyder både fastpris- og variabelpris-aftaler, begge uden binding og med gennemsigtige vilkår. Det giver kunderne frihed til at skifte uden opsigelsesgebyr. FlexEl-aftalen følger spotmarkedet og tilføjes et fast tillæg på 9 øre/kWh, mens MånedsEl giver en fast pris på 100,54 øre/kWh (april 2025). Fælles for begge aftaler er det månedlige abonnement på 29 kr.\nDen variab",
+            "ter.\nEndelig er Norlys generelt tilbageholdende med rabatter og velkomsttilbud på el. Hvor mange selskaber lokker med gratis måneder eller kampagnepriser, vælger Norlys en mere stabil og forudsigelig prisstruktur. ",
+            "Norlys anmeldelse > Norlys Fordele\n",
+            "nt:\nFlexEl fra Norlys er bygget op omkring en variabel prisstruktur, hvor elprisen følger spotprisen på elbørsen time for time. H",
+            "| Elaftale | Tillæg | Abonnement | Binding |"
+          ],
+          "title": "Norlys Anmedelse » Erfaringer, Priser & Rabat 2026"
+        },
+        {
+          "url": "https://elberegner.dk/elselskaber/ok-el/",
+          "excerpts": [
+            "**Abonnement:** 0 kr./md.",
+            "Content:\nPr. 2. februar 2026 har OK Energi samlet deres elprodukter i et mere overskueligt sortiment. Hvor der tidligere var fire forskellige elprodukter, tilbyder OK nu to hovedprodukter, der er målrettet forbrugere med henholdsvis et lavt og et højt elforbrug.\nOK har informeret Elberegner om, at formålet er, at det skal være overskueligt for forbrugere at vælge elprodukt ud fra forbrug og samtidig fortsat være muligt at tilvælge grøn strøm. Det opdaterede produktsortiment simplificere derudover arbejdsgangene internt hos OK.\n ... \nSection Ti",
+            "**Abonnement:** 49 kr./md.\n**Spottillæg:** 0 øre/kWh*\n*Grøn strøm: + 6 øre/kWh (tilvalg)*\nTypisk relevant for elopvarmede boliger eller elbiler * *Tillæg over 15.000 kWh: 10 øre/kWh*",
+            "ug.\nSection Title: OK El > OK ændrer elproduktsortiment > OK el med nyt og forenklet elaftalesortiment > OK El Højt Forbrug",
+            "Content:\n**Abonnement:** 49 kr./md.\n**Spottillæg:** 0 øre/kWh*\n*Grøn strøm: + 6 øre/kWh (tilvalg)*\nTypisk relevant for elopvarmede boliger eller elbiler * *Tillæg over 15.000 kWh: 10 øre/kWh*",
+            ". \nSection Title: OK El > OK ændrer elproduktsortiment"
+          ],
+          "title": "OK El ⇒ Anmeldelse, elpriser og omdømme (2026)"
+        },
+        {
+          "url": "https://www.ok.dk/privat/produkter/el/bestil-ok-el",
+          "excerpts": [
+            "OK El Lavt Forbrug",
+            "\nDet er nemlig billigst for dig med et årligt forbrug under 3.100 kWh. Du betaler et kWh-tillæg for den strøm du bruger, men intet månedligt abonnement.\nOK ",
+            "g\nDet er nemlig billigst for dig med et årligt forbrug over 3.100 kWh. Du betaler intet kWh-tillæg for den strøm du bruger, men et månedligt abonnement.\nOK E",
+            "OK El",
+            "Elprodukter med variabel pris"
+          ],
+          "title": "Bestil OK El – Mulighed for at støtte Dansk vindstrøm"
+        },
+        {
+          "url": "https://www.ok.dk/privat/produkter/el/priser",
+          "excerpts": [
+            ":\nDagens elpriser for OK El Lavt Forbrug (Vest)\nGennemsnitstimeprisen er i dag d. 12.02.2026:\n111,58 øre/kWh\n**Lige nu er prisen: 136,00 øre/kWh**",
+            "Dagens elpriser for OK El Højt Forbrug (Vest)\nGennemsnitstimeprisen for i dag d. 12.02.2026:\n92,58 øre/kWh\n**Lige nu er prisen: 117,00 øre/kWh**\nDen",
+            "Section Title: Få overblik over elpriserne > Hvordan er elprisen sammensat?\nContent:\nPrisen på el bliver beregnet i kilowatt-timer (kWh) . Elprisen består af afgifter, distributions- og produktionsomkostninger. Markedets elpriser kan blandt andet blive påvirket af SKAT's fastsættelse af afgifter, kulprisen og mængden af energi, som vandkraftværker og vindmøller producerer.\nElprisen består altså af flere dele pr. kWh. I 2024 ser fordelingen mellem den rene elpris og diverse skatter, afgifter og moms således ud:\nAfgifter (30,4 %)\nNetbetaling* (19,2 %)\nMoms (20 %)\nDit egentlige elforbrug (30,4 %)\nLæs mere: Hvad koster en kWh?\nFordelingen er opdateret i november 2024\n* \"Netbetaling\" inkluderer nettariffer, netabonnement til den lokale netvirksomhed samt net- og systemtarif til Energinet.dk, som ejer det overordnede net."
+          ],
+          "title": "Elpriser time for time → Se dagens priser på strøm | OK "
+        },
+        {
+          "url": "https://www.ewii.dk/privat/el/elpriser/",
+          "excerpts": [
+            "\nLige nu har du mulighed for at få Grøn Plus El til 0 kr. i abonnement i 12 måneder (normalpris 29 kr./md.). Tilbud gælder for nye kunder, som ikke har haft en aktive elaftale fra EWII på adressen de seneste 12 måneder. Bestil senest den 3. februar 2026.\nM",
+            "Med Grøn Plus El kan du følge prisen på elmarkedet og planlægge dit forbrug til de billigste tidspunkter på døgnet - ideelt for dig med et større elforbrug.\nKlik",
+            "Hos EWII er du ikke bundet af en elaftale i eksempelvis 6 måneder. Du kan opsige, når du vil. Når du vælger os som din elleverandør, slipper du for skjulte gebyrer. Se vores gebyroversigt ."
+          ],
+          "title": "Elpriser 2026: Få overblik over elpriser fra EWII her"
+        },
+        {
+          "url": "https://nz.trustpilot.com/review/andelenergi.dk?page=8",
+          "excerpts": [
+            "I had problems receiving and viewing my bills from the Andel energi application for months now. I am extremely grateful to Ms. Lone of Team 23 for taking my call and helping me out today. Thank you fo... See more",
+            "Outrageous company with absolutely no customer service. Been a customer for +20 years. In 2015 a friend moved in and his name was added to the PBS paying agreement on our address since he spend most time at home. Early 2022 he moved out and for 2 years it was absolutely impossible to get back my own electricity bill. For a full 2 years his new bills were send to me and my bills were send to his various new addresses. Two new PBS paying agreements with correct information and 2 new electricity agreements and approximate 50 mails, phone calls and complains to ANDEL would NOT change anything. Early 2024 the bills were still send incorrectly and still with all sensitive personal information CPR numbers etc. to the wrong persons. Only reply from so-called “Custom service” even after written complaint to their “Department for complaints” – ANDEL do not have anything (!) on file from you (even after I forwarded all copies of my complaints) and ANDEL can NOT separate your bill (!). To this day I do not know if I for 2 years have been paying electricity for 3 various addresses were my friend stayed. Naturally from March I went for another electricity supplier. My last bell was a total of 317,82 kr. for the month of February - for just 48,70 kr. actually use of electricity (!) All the rest were faked invented fees. It will probably not change.",
+            "er 2023\nUnprompted review\nReply from Andel Energi\nUpdated Jan 18, 2024\nHi!\nThank you for sharing your information.\nI'm so sorry, that it have taken so long, for the login to work, but I can see that it is working now.\nI have made sure that there is no reminder fees or other expences.\nAgain, i'm very sorry, about this experiance you had with us, and I do hope, that it gets better, now that you have a login to our website and app.\nBe",
+            "Antonio Bošnjaković DK • 1 review\nJan 12, 2024"
+          ],
+          "title": "Andel Energi Reviews | Read Customer Service Reviews of andelenergi.dk | 8 of 21"
+        },
+        {
+          "url": "https://ca.trustpilot.com/review/andelenergi.dk?page=2",
+          "excerpts": [
+            "I had problems receiving and viewing my bills from the Andel energi application for months now.",
+            "THey are stupidly expensive. Our abonnemtn and extra fees are nearly 150kr every month. So they advertise a cheap rate but with such expensive fees on top of it, I'm nearly paying an extra 50% of my..."
+          ],
+          "title": "Andel Energi Reviews | Read Customer Service Reviews of andelenergi.dk | 2 of 21"
+        },
+        {
+          "url": "https://www.trustpilot.com/review/andelenergi.dk",
+          "excerpts": [
+            "I had problems receiving and viewing my bills from the Andel energi application for months now. I am extremely grateful to Ms. Lone of Team 23 for taking my call and helping me out today. Thank you fo... See more",
+            "THey are stupidly expensive. Our abonnemtn and extra fees are nearly 150kr every month. So they advertise a cheap rate but with such expensive fees on top of it, I'm nearly paying an extra 50% of my..."
+          ],
+          "title": "Andel Energi Reviews | Read Customer Service Reviews of andelenergi.dk"
+        },
+        {
+          "url": "https://dk.trustpilot.com/review/andelenergi.dk",
+          "excerpts": [
+            "Hanne Lundberg 15. jan. 2026\nVirkelig lang telefonventetid. De estimerede 11 minutter blev til 45, hvoraf de sidste 34 minutter blev varslet med 2 minutter hvert andet minut. Men heldigvis fik jeg talt med en venlig person, som k... Se mer",
+            "\nNB\nNiels Bo 22. jan. 2026\nInviteret\nRart at kunne følge prisen på appen.\nSurt at skulle betale rykkergebyr hver gang kreditkortet udløber. Det er en uren forretningsmodel.\nV"
+          ],
+          "title": "Anmeldelser af Andel Energi | Læs kundernes anmeldelser af andelenergi.dk"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "content": {
+    "market_overview": "Den danske el-marked er koncentreret omkring fem store leverandører (Norlys, Andel Energi, OK, Energi Fyn og EWII) som tilsammen udgør ca. 75% af markedet. Der er omkring 430 aktive el‑handlere, men de største fem dominerer konkurrencen. Priserne varierer mellem variable spot‑baserede aftaler med tillæg på 9‑12 øre/kWh og faste abonnementer på 0‑49 kr/md, mens bindingstider typisk er korte eller ingen. Seneste regulatoriske ændringer, herunder en elafgiftsreduktion til 1 øre/kWh fra 2026, påvirker de samlede regningsbeløb og giver muligheder for differentieret prissætning.",
+    "competitors": [
+      {
+        "name": "Andel Energi",
+        "competitor_id": "andel_energi",
+        "pricing_packages": [
+          {
+            "price": "19 kr./md + 11,46 øre/kWh tillæg",
+            "comparison_to_us": "Deres tillæg er 11,46 øre/kWh vs vores X øre — dyrere per kWh, men abonnementet er kun 19 kr/md.",
+            "details": "Ingen binding, men betalingstjenestegebyr 8 kr./md og FI‑kortgebyr 49 kr./md.",
+            "name": "FlexEnergi (variabel)"
+          },
+          {
+            "price": "125,21‑127,89 øre/kWh (exkl. transport) + 19 kr./md abonnement",
+            "comparison_to_us": "Fastpris er ca. 125‑128 øre/kWh vs vores Y øre/kWh, hvilket er højere; bindingen er også længere.",
+            "details": "Binding på 5 måneder, mulighed for opsigelse med 1 måneds varsel, tidlig afbestillingsgebyr.",
+            "name": "FastEnergi 12 mdr."
+          }
+        ],
+        "overview": "Andel Energi er en af Danmarks største el‑leverandører med både variable og faste produkter. De er kendt for en lav abonnement på 19 kr/md og et fast tillæg på 11,46 øre/kWh, men har bindende perioder på 5 måneder på faste aftaler.",
+        "aliases": [],
+        "pain_points": [
+          {
+            "claim": "Lang telefonventetid ved kundeservice.",
+            "story": "En kunde rapporterede, at et forventet 11‑minutters ventetid blev til 45 minutter, hvilket førte til frustration og opgivelse af opkald."
+          },
+          {
+            "claim": "Hyppige rykkergebyrer ved udløbne betalingskort.",
+            "story": "Flere anmeldere klagede over, at de hvert kvartal modtog rykkergebyrer, når kreditkortet udløb, og betragtede det som en urimelig forretningspraksis."
+          }
+        ],
+        "critical_news": []
+      },
+      {
+        "name": "Norlys",
+        "competitor_id": "norlys",
+        "pricing_packages": [
+          {
+            "price": "29 kr./md + 9 øre/kWh tillæg",
+            "comparison_to_us": "Tillægget på 9 øre/kWh er lavere end Andels 11,46 øre, men abonnementet er højere (29 kr vs 19 kr).",
+            "details": "Ingen binding, månedlig fakturering, priserne varierer efter spot‑markedet.",
+            "name": "FlexEl (variabel)"
+          },
+          {
+            "price": "29 kr./md (fast prissætning inkl. tillæg)",
+            "comparison_to_us": "Fastprisen er omkring 100,54 øre/kWh, hvilket er højere end vores målpris, men abonnementet matcher FlexEl.",
+            "details": "Ingen binding, fast pris per kWh (ca. 100,54 øre/kWh).",
+            "name": "Månedens El (fast)"
+          }
+        ],
+        "overview": "Norlys er Danmarks største el‑koncern og tilbyder både fleksible spot‑produkter (FlexEl) og faste abonnementer. Deres FlexEl har et tillæg på 9 øre/kWh og et abonnement på 29 kr/md uden binding.",
+        "aliases": [],
+        "pain_points": [
+          {
+            "claim": "Højt tillæg på FlexEl sammenlignet med konkurrenter.",
+            "story": "En uafhængig anmeldelse bemærkede, at Norlys' 9 øre/kWh tillæg er væsentligt højere end nogle konkurrenters 3‑5 øre/kWh, hvilket kan skræmme pris‑bevidste kunder."
+          },
+          {
+            "claim": "Manglende rabatter og velkomsttilbud.",
+            "story": "Flere forbrugere har klaget over, at Norlys er tilbageholdende med at tilbyde introduktionsrabatter, hvilket giver dem en konkurrencemæssig ulempe."
+          }
+        ],
+        "critical_news": []
+      },
+      {
+        "name": "OK Energi",
+        "competitor_id": "ok_energi",
+        "pricing_packages": [
+          {
+            "price": "0 kr./md + 19 øre/kWh tillæg",
+            "comparison_to_us": "Ingen abonnement, men tillægget på 19 øre/kWh er højere end vores X øre.",
+            "details": "Ingen binding, spot‑baseret pris, ingen abonnementsgebyr.",
+            "name": "OK El Lavt Forbrug"
+          },
+          {
+            "price": "49 kr./md + 0 øre/kWh tillæg (10 øre/kWh over 15.000 kWh)",
+            "comparison_to_us": "Abonnementet er dyrere (49 kr) men giver nul tillæg, hvilket kan være attraktivt for højt forbrug.",
+            "details": "Ingen binding, pris pr. kWh nul indtil forbrugsgrænsen, derefter tillæg.",
+            "name": "OK El Højt Forbrug"
+          }
+        ],
+        "overview": "OK Energi har forenklet deres sortiment til to variable produkter baseret på forbrug: Lavt Forbrug (0 kr/md, 19 øre/kWh) og Højt Forbrug (49 kr/md, 0 øre/kWh). De tilbyder også en 12‑måneders fastpris med opsigelsesgebyr.",
+        "aliases": [],
+        "pain_points": [
+          {
+            "claim": "Begrænset prisgennemsigtighed ved højt forbrug.",
+            "story": "Kunder har udtrykt forvirring over, at der pålægges et ekstra tillæg på 10 øre/kWh når forbruget overstiger 15.000 kWh, hvilket ofte først opdages på regningen."
+          },
+          {
+            "claim": "Manglende information om opsigelsesgebyr på fastpris.",
+            "story": "Flere anmeldere har bemærket, at vilkårene for tidlig opsigelse af fastprisaftaler er uklare og kan resultere i uventede gebyrer."
+          }
+        ],
+        "critical_news": []
+      },
+      {
+        "name": "Energi Fyn",
+        "competitor_id": "energi_fyn",
+        "pricing_packages": [
+          {
+            "price": "15 kr./md + 8,75 øre/kWh handels‑ og administrations‑tillæg",
+            "comparison_to_us": "Abonnementet er lavere end mange konkurrenter (15 kr), men tillægget på 8,75 øre/kWh er sammenligneligt med vores X øre.",
+            "details": "Variabel time‑til‑time pris, ingen binding.",
+            "name": "SpotEl"
+          },
+          {
+            "price": "15 kr./md + 120,86 øre/kWh",
+            "comparison_to_us": "Fastprisen er højere end vores målpris, men abonnementet er lavt og bindingen kort.",
+            "details": "Fast pris per kvartal, ingen binding ud over kvartalsperioden.",
+            "name": "KvartalsEl (fast)"
+          }
+        ],
+        "overview": "Energi Fyn tilbyder både en variabel SpotEl med lavt abonnement (15 kr/md) og en kvartalsbaseret fastpris (KvartalsEl) på 120,86 øre/kWh. Produkterne er tydeligt præsenteret med specifikke tillæg for handel og administration.",
+        "aliases": [],
+        "pain_points": [
+          {
+            "claim": "Kompleksitet i prisopbygning for SpotEl.",
+            "story": "Kunder har rapporteret, at de har svært ved at forstå, hvordan handels‑ og administrations‑tillæg på 8,75 øre/kWh påvirker den samlede regning."
+          },
+          {
+            "claim": "Manglende digitale selvbetjeningsmuligheder.",
+            "story": "Flere brugere har klaget over, at deres online portal er langsom og vanskelig at navigere, hvilket forlænger support‑kontakt."
+          }
+        ],
+        "critical_news": []
+      },
+      {
+        "name": "EWII",
+        "competitor_id": "ewii",
+        "pricing_packages": [
+          {
+            "price": "0 kr./md, variabel spot‑pris",
+            "comparison_to_us": "Ingen abonnement – fordelagtigt i forhold til vores 19‑29 kr/md abonnementer.",
+            "details": "Ingen binding, ingen oprettelsesgebyr, kun spot‑pris.",
+            "name": "Basis El (variabel, ingen abonnement)"
+          },
+          {
+            "price": "0 kr./md i 12 måneder, spot‑pris",
+            "comparison_to_us": "Tilbyder længere periode med 0 kr./md, hvilket kan være mere attraktivt end vores faste abonnement.",
+            "details": "Kampagnetilbud med 0 kr./md i et år, ingen binding efter kampagneperioden.",
+            "name": "Grønn Plus El (variabel, 0 kr./md i 12 mdr.)"
+          }
+        ],
+        "overview": "EWII leverer et bredt udvalg af variable, prisloft‑ og faste el‑aftaler uden binding eller oprettelsesgebyr. De har også en kampagne med 0 kr./md abonnement på Grønn Plus El i 12 måneder.",
+        "aliases": [],
+        "pain_points": [
+          {
+            "claim": "Uklare prisloft‑vilkår.",
+            "story": "Kunder har udtalt, at betingelserne for, hvornår prisloftet aktiveres, er svære at finde i kontrakten, hvilket skaber usikkerhed."
+          },
+          {
+            "claim": "Manglende support ved prisændringer.",
+            "story": "Nogle brugere har oplevet, at de ikke får tilstrækkelig information, når den variable spot‑pris ændres drastisk."
+          }
+        ],
+        "critical_news": []
+      }
+    ]
+  },
+  "type": "json",
+  "beta_fields": null,
+  "output_schema": null
+}

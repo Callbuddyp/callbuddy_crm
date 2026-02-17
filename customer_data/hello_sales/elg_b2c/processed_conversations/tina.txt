@@ -1,0 +1,939 @@
+Kunde:
+
+Det er Tina.
+
+[Pause: 0.36s]
+
+Sælger:
+
+Goddag, Tina. Du taler med Noah.
+
+[Pause: 2.04s]
+
+<analyse>
+phase: Current phase is opener
+    reason: we still have not confirmed that the customer is reponsible for the product desicision nor have registered any indications that we can begin the discovery phase 
+
+key_points: 
+    id: customer_name 
+    description: Customer name is Tina 
+    reason: customer gave her name, which is a important piece of information for confirming that the seller is talking to the right person. 
+key_pains: None
+new_objections: None
+</analyse>
+
+Kunde:
+
+Fra forsikring?
+
+[Pause: 0.60s]
+
+Sælger:
+
+Øh, jeg ringer fra et energiselskab.
+
+[Pause: 0.84s]
+
+Kunde:
+
+Nå, okay.
+
+[Pause: 1.56s]
+
+Sælger:
+
+Jeg ringer egentlig lige i forhold til elregningen derude, Tina. Kan det være så, at det er dig, der står for det?
+
+[Pause: 0.48s]
+
+Kunde:
+
+Ja.
+
+<analyse>
+phase: Current phase is now discovery 
+
+    reason: customer confirmed that she is the one we are talking to, and we have registered some indications for willingness to talk, as the customer has accepted talking to the salesperson when respnding "Nå okay" and "Ja" to the sellers previous utterances.
+
+key_points: 
+    id: customer_responsible 
+    description: Customer has confirmed that they are capable of making the buying desicision
+    reason: This is a key information, because we can actual make a sale on this customer.  
+key_pains: None
+new_objections: None
+</analyse>
+
+[Pause: 0.66s]
+
+Sælger:
+
+Super. Og grunden til, at jeg spørger lidt ind til det, er jo egentlig også for at være ærlig med dig, den i forhold til den her elaftale derude, er det en, du har været ude og få kigget på her hen i vinteren?
+
+[Pause: 0.72s]
+
+Kunde:
+
+Ja.
+
+<analyse>
+phase: no new updates:
+    reason: We have not yet accumalted the nesacarry requirements to advance to pitch.
+key_points: No new updates
+    reason: Customer latest utterance has not given any new now information relevant for our pitch or our relation 
+key_pains: No new updates 
+new_objections: No new updates
+</analyse>
+
+[Pause: 0.60s]
+
+Sælger:
+
+Ja, super dejligt. Er det i form af noget skift, du har taget lidt stilling til det?
+
+[Pause: 0.42s]
+
+Kunde:
+
+Ja, det er det.
+
+<analyse>
+phase: no new updates:
+    reason: We are still in discovery, and have found no pain points to leverage our pitch on 
+key_points: customer_provider 
+    reason: Customer har stated, they have recently switchted to a new provider. This is a information about the customer provider and relevant to our pitch. 
+key_pains: No new updates 
+new_objections: No new updates 
+</analyse>
+
+[Pause: 0.30s]
+
+Sælger:
+
+Må jeg spørge dig, hvor du skifter hen?
+
+[Pause: 1.02s]
+
+Kunde:
+
+Det hedder Energi Vest.
+
+[Pause: 0.96s]
+
+<analyse>
+phase: no new updates:
+    reason: We are still in discovery, and have found no pain points to leverage our pitch on 
+key_points: customer_provider 
+    reason: Customer har stated, they have recently switchted to a called Energi Vest. this is important information, as it is something we can use in our pitch.  
+key_pains: No new updates 
+new_objections: No new updates 
+</analyse>
+Sælger:
+
+Ja, VestEnergi?
+
+[Pause: 0.36s]
+
+Kunde:
+
+Eller VestEnergi, ja, omvendt.
+
+<analyse>
+phase: no new updates:
+    reason: We are still in discovery, and have found no pain points to leverage our pitch on 
+key_points: customer_provider 
+    reason: Customer was corrected, and we need to update the name to correctly identify the term. We need to update the customer provider to append this new information
+key_pains: No new updates 
+new_objections: No new updates 
+</analyse>
+
+Sælger:
+
+[Pause: 0.12s]
+
+Sælger:
+
+Ja, okay. Hvornår kom du derind?
+
+[Pause: 0.90s]
+
+Kunde:
+
+Det er nogle måneder siden.
+
+[Pause: 0.42s]
+
+<analyse>
+phase: no new updates:
+    reason: We are still in discovery, and have found no pain points to leverage our pitch on 
+key_points: customer_provider 
+    reason: Customer has said that they switchted provider a couple of months ago. We append this to the customer_provider. 
+key_pains: No new updates 
+new_objections: No new updates 
+</analyse>
+
+Sælger:
+
+Nogle måneder siden, okay. Tina, nu ved jeg ikke, om du er blevet informeret om det her i forhold til VestEnergi, men de sætter jo deres priser markant op her fra den 1. af.
+
+[Pause: 0.54s]
+
+Kunde:
+
+Ja, det har jeg godt set.
+
+<analyse>
+phase: no new updates:
+    reason: We have found a single painpoint, however, we have not 
+key_points: custoomer_provider 
+    reason: The seller has identified that price of the provider will increase. We append this information to the customer_provider keypoint. 
+key_pains: price_increase 
+    reason: The seller has identified a major price increased in the future, AND the customer has accepted this / knows this. A new major pain point is now discovered.
+new_objections: No new updates 
+</analyse>
+
+
+[Pause: 0.48s]
+
+Sælger:
+
+Ja, og det er jo, jeg tænker, at det tilbud, du er blevet tilbudt dengang, det var det, der hed 4 øre i tillægspris.
+
+[Pause: 1.86s]
+
+Kunde:
+
+Ja, det tror jeg, det var.
+
+[Pause: 0.36s]
+
+<analyse>
+phase: no new updates:
+    reason: We are still in discovery. We have found an important pain point, and we should elaborate on it, to make the customer interessted before pitching.
+key_points: custoomer_provider 
+    reason: the customer is currently paing 4 øre i tillægspris, which is important information we append to the customer provider
+key_pains: no new paint points 
+    reason: The seller and customer are talking about the price of their current provider
+new_objections: No new updates 
+</analyse>
+
+Sælger:
+
+Ja, dem sætter de jo faktisk op til 50 øre. Det er jo en vanvittig stor, et stort hop, de lige pludselig laver der.
+
+[Pause: 0.30s]
+
+Kunde:
+
+Ja, det er det. Hvor er det du er fra?
+
+
+<analyse>
+phase: change from discovery to pitch:
+    reason: The seller has elaborated on the price increase, generating interest from the customer, indicated by them asking where the seller is from.
+key_points: custoomer_provider 
+    reason: The price will increase to 50 øre from 4 øre, which is crucial information we can use in our pitch
+key_pains: No new pain points 
+    reason:  The price increase pain point, has already been noted, thus we will not repeat it. 
+new_objections: None
+</analyse>
+
+[Pause: 0.42s]
+
+Sælger:
+
+Jeg ringer inde fra energiselskabet ELG, ligesom i dyret.
+
+[Pause: 1.50s]
+
+Kunde:
+
+Nå, det har jeg aldrig hørt om.
+
+<analyse>
+phase: pitch:
+    reason: we do not change the fase, just because the customer has a slight objection. We remain in discovery, as we have identified a major pain point, which the customer has agreed on 
+key_points: no new information
+    reason: no new information was presented
+key_pains: No new pain points 
+    reason:  The price increase pain point, has already been noted, thus we will not repeat it. 
+new_objections: New objection:
+    reason: The user simply states, that they have not heard about the company ELG, which the seller represents. This is a slight objection. 
+</analyse>
+
+
+[Pause: 0.30s]
+
+Sælger:
+
+Nej, vi er også et lidt mindre selskab end de fleste andre. Og det er sådan set også derfor, hvorfor vi kan tilbyde en rigtig billig pris, fordi prisen her hos os, den hedder nemlig 5 øre, og så for hvert år, du er kunde herinde, så falder den faktisk yderligere med 1 øre. Så du samtidig er skærmet for det her med, at prisen lige pludselig går op, uden man lige sådan har sagt ja til det, men at man faktisk altså går ned i pris, jo længere tid man er kunde inde hos os.
+
+[Pause: 1.38s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.00s]
+
+<analyse>
+phase: switch from pitch to close:
+    reason: The customer delivered the pitch addressing the pain point (price increase). The customer agreed to the pitch, as they could see that the pitch succesfully solved their problem, giving clear indicators for proposing to close.
+key_points: custoomer_provider 
+    reason: The price will increase to 50 øre from 4 øre, which is crucial information we can use in our pitch
+key_pains: No new pain points 
+    reason:  The price increase pain point, has already been noted, thus we will not repeat it. 
+new_objections:
+    reason: The user simply states, that they have not heard about the company ELG, which the seller represents. This is a slight objection. 
+</analyse>
+
+
+Sælger:
+
+Ja, det tænker jeg, Tina, skal vi ikke få ordnet det, inden du lige pludselig ender med at betale de her 50 øre her?
+
+[Pause: 0.90s]
+
+Kunde:
+
+Hvad har I sådan noget, ikke abonnementspris, men jeres som regel, så er der jo ligesom noget, altså energiafgiften er jo en, altså energiafgiften inde fra staten, det kan vi ikke røre ved.
+
+
+
+<analyse>
+phase: close:
+    reason:  No update
+key_points: No new key pointsj 
+    reason: the customer is simply responding to the close attempt, by asking a question
+    information we can use in our pitch
+key_pains: No new pain points 
+    reason: The customer is asking a question 
+new_objections: Customer has a slight objection: additional_cost
+    reason: The customer responds with a question to the close attempt, asking if there is any additional cost. this is a slight objection, which hinders the progression of closing.
+
+</analyse>
+
+[Pause: 1.20s]
+
+Sælger:
+
+Nej.
+
+[Pause: 0.00s]
+
+Kunde:
+
+Men har I andet, som I?
+
+<analyse>
+phase: close:
+    reason:  No update
+key_points: No new key pointsj 
+    reason: The customer is simply asking a question
+key_pains: No new pain points 
+    reason: The customer is asking a question 
+new_objections: No new objections
+    reason: We The customer is still refering to the same previous objection additional_cost, thus no new objections are present
+</analyse>
+
+[Pause: 0.24s]
+
+Sælger:
+
+Altså, vi har selvfølgelig abonnementet på de her 29 kroner, som det er ved de fleste forretninger.
+
+[Pause: 0.12s]
+
+Kunde:
+
+På 29 kroner, ja.
+
+
+<analyse>
+phase: close:
+    reason:  No update
+key_points: No new key pointsj 
+    reason: The customer is simply asking a question
+key_pains: No new pain points 
+    reason: The customer is asking a question 
+new_objections: No new objections
+    reason: We The customer is still refering to the same previous objection additional_cost objection, thus no new objections are present
+</analyse>
+
+[Pause: 0.18s]
+
+Sælger:
+
+Ja, det kan jeg ikke sige med garanti, hvad du lige betaler i dag, altså jeg kan se på deres hjemmeside, reklamerer de også med 29 kroner.
+
+[Pause: 0.78s]
+
+Kunde:
+
+Ja, ja, ja.
+
+
+<analyse>
+phase: close:
+    reason:  No update
+key_points: No new key pointsj 
+    reason: The customer is simply asking a question
+key_pains: No new pain points 
+    reason: The customer is asking a question 
+new_objections: No new objections
+    reason: We The customer is still refering to the same previous objection additional_cost objection, thus no new objections are present
+</analyse>
+
+[Pause: 0.48s]
+
+Sælger:
+
+Så det er det, jeg lige vil gå ud fra.
+
+[Pause: 0.06s]
+
+Kunde:
+
+Altså de der per måned, det er abonnement, ja.
+
+
+<analyse>
+phase: close:
+    reason:  No update
+key_points: No new key pointsj 
+    reason: The customer is simply asking a question
+key_pains: No new pain points 
+    reason: The customer is asking a question 
+new_objections: No new objections
+    reason: We The customer is still refering to the same previous objection additional_cost objection, thus no new objections are present
+</analyse>
+
+[Pause: 0.30s]
+
+Sælger:
+
+Ja, lige netop, det er det samme, som du kører i på i dag. Det er bare den her tillægspris, som jo så er, altså det er jo 45 øre, hvad end du sparer hver gang, som bruger strømmen.
+
+[Pause: 0.90s]
+
+Kunde:
+
+Ja.
+
+
+<analyse>
+phase: close:
+    reason:  No update
+key_points: No new key pointsj 
+    reason: The customer is simply asking a question
+key_pains: No new pain points 
+    reason: The customer is asking a question 
+new_objections: No new objections
+    reason: We The customer is still refering to the same previous objection additional_cost objection, thus no new objections are present
+</analyse>
+
+[Pause: 0.48s]
+
+Sælger:
+
+Og det render rigtig hurtigt op, tænker jeg godt kan forestille mig.
+
+[Pause: 0.06s]
+
+Kunde:
+
+Ja, ja, men det er godt, at det er, og nu går vi mod vinter og så videre.
+
+[Pause: 0.54s]
+
+
+<analyse>
+phase: close:
+    reason:  No update
+key_points: No new key pointsj 
+    reason: The customer is simply asking a question
+key_pains: No new pain points 
+    reason: The customer is asking a question 
+new_objections: No new objections
+    reason: It seems like they have solved the objection, by mentioning the price comparison
+</analyse>
+
+Sælger:
+
+Ja, altså bare en hurtig regning, hvis du har et gennemsnitligt forbrug derhjemme, så er det omkring en 1500, du egentlig kan putte i lommen, eller i hvert fald undgå at betale.
+
+[Pause: 0.78s]
+
+Kunde:
+
+Ja, ja, det er det.
+
+
+
+[Pause: 0.18s]
+
+Sælger:
+
+Og det er jo mange penge.
+
+[Pause: 0.96s]
+
+Kunde:
+
+Ja. Hvad tager I, er det per kvartal, eller er det forud, eller er det per måned, man betaler, eller hvordan?
+
+[Pause: 0.12s]
+
+Sælger:
+
+Det er månedsvis af konto, vi kører herinde.
+
+[Pause: 0.36s]
+
+Kunde:
+
+Okay, det kan jeg godt lide.
+
+[Pause: 0.54s]
+
+Sælger:
+
+Super, jamen det er godt. Så tænker jeg, Tina, skal vi ikke lige få ordnet det med det samme?
+
+[Pause: 0.42s]
+
+Kunde:
+
+Jo, det synes jeg.
+
+[Pause: 0.48s]
+
+Sælger:
+
+Yes. Dit fulde navn, hvordan lyder det?
+
+[Pause: 0.48s]
+
+Kunde:
+
+Det er Tina Pedersen.
+
+[Pause: 0.72s]
+
+Sælger:
+
+Tina Pedersen. Og adressen, det foregår ud på?
+
+[Pause: 0.30s]
+
+Kunde:
+
+Det er Vestergårdsvænget, og gård, det er med dobbelt a.
+
+[Pause: 1.08s]
+
+Sælger:
+
+Ja, altså vænget med e, eller hvordan?
+
+[Pause: 0.78s]
+
+Kunde:
+
+Ja, vænget med, ja, 55.
+
+[Pause: 1.92s]
+
+Sælger:
+
+55.
+
+[Pause: 0.00s]
+
+Kunde:
+
+Og det er 75 00.
+
+[Pause: 1.20s]
+
+Sælger:
+
+Ja, Holstebro?
+
+[Pause: 0.60s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.72s]
+
+Sælger:
+
+Super. Nu skal jeg lige se, at jeg har skrevet den her adresse rigtigt her.
+
+[Pause: 2.04s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.00s]
+
+Sælger:
+
+Vestergårdsvænget, ja. Sådan der. Og din e-mailadresse, hvordan lyder den?
+
+[Pause: 0.66s]
+
+Kunde:
+
+tina.p1968@gmail.com.
+
+[Pause: 0.72s]
+
+Sælger:
+
+Gmail.com, super. Og telefonnummer, det er vel bare det, jeg ringer til her i dag?
+
+[Pause: 0.12s]
+
+Kunde:
+
+Nej, det er faktisk min mands nummer, det var fordi, jeg ventede lidt med det, det var derfor, jeg spurgte forsikring, det var fordi, jeg ventede på det, fordi han var lige udenfor.
+
+[Pause: 1.08s]
+
+Sælger:
+
+Nå.
+
+[Pause: 0.00s]
+
+Kunde:
+
+Mit nummer, det er 21 29 34 39.
+
+[Pause: 0.72s]
+
+Sælger:
+
+34 39, super. Så skal jeg se her, og skal jeg fjerne din mands nummer, eller skal jeg sætte det ind som en nødløsning, hvis nu du ikke tager den?
+
+[Pause: 0.48s]
+
+Kunde:
+
+Ej, bare det er fint, ja, det må du godt fjerne, bare tag mit. Herhjemme er det mig, der styrer alle de der med varme og el og forsikringer, og sådan noget, det gider han ikke tage sig af.
+
+[Pause: 0.36s]
+
+Sælger:
+
+Nej, det er sgu også sådan lidt kedeligt, jo.
+
+[Pause: 0.54s]
+
+Kunde:
+
+Ja, jeg synes jo, det er spændende.
+
+[Pause: 0.36s]
+
+Sælger:
+
+Ja, så er det jo heldigt nok.
+
+[Pause: 0.48s]
+
+Kunde:
+
+Ja, ja.
+
+[Pause: 1.38s]
+
+Sælger:
+
+Tina, så skal jeg lige låne dit CPR-nummer engang, for at kunne sætte det op på måleren derude.
+
+[Pause: 0.54s]
+
+Kunde:
+
+Det er 22 02 68.
+
+[Pause: 0.00s]
+
+Sælger:
+
+Ja.
+
+[Pause: 0.00s]
+
+Kunde:
+
+2092.
+
+[Pause: 0.54s]
+
+Sælger:
+
+2092, super. Og så lige i forhold til det her betaling, det kører vel også over betalingsservicen, ikke også?
+
+[Pause: 0.54s]
+
+Kunde:
+
+Jo, det gør det.
+
+[Pause: 0.66s]
+
+Sælger:
+
+Yes, skal vi få sat det op med det samme også?
+
+[Pause: 0.42s]
+
+Kunde:
+
+Ja, det kan vi lige så godt.
+
+[Pause: 0.72s]
+
+Sælger:
+
+Yes. Så er det det, der hedder registrering af kontonummer, jeg skal låne.
+
+[Pause: 0.60s]
+
+Kunde:
+
+Ja, det finder jeg lige, det finder jeg jo så lige på min egen telefon.
+
+[Pause: 1.80s]
+
+Sælger:
+
+Ja.
+
+[Pause: 0.06s]
+
+Kunde:
+
+Øjeblik. Det er registreringsnummer, det er 75 00.
+
+[Pause: 0.96s]
+
+Sælger:
+
+Ja.
+
+[Pause: 0.66s]
+
+Kunde:
+
+Og så finder du selv ud af, hvor mange nuller du skal have foran, det plejer at være 4 eller 5, godt. Og så er kontonummeret 14 89.
+
+[Pause: 0.24s]
+
+Sælger:
+
+Ja.
+
+[Pause: 0.48s]
+
+Kunde:
+
+Nej, det er mig, der kigger forkert. Sæt det lige igen.
+
+[Pause: 0.72s]
+
+Sælger:
+
+Ja.
+
+[Pause: 0.72s]
+
+Kunde:
+
+Den hedder 14 28.
+
+[Pause: 0.72s]
+
+Sælger:
+
+Yes.
+
+[Pause: 0.84s]
+
+Kunde:
+
+970.
+
+[Pause: 0.66s]
+
+Sælger:
+
+970, super, og så er der 3 nuller foran her. Ja, det stemmer, kan jeg se. Super. Tina, lige her inden vi slutter det af, så læser jeg lige hurtigt aftalen op for dig, jeg håber, det er i orden, så optager jeg lige herinde.
+
+[Pause: 0.66s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.48s]
+
+Sælger:
+
+Super. Godt, som aftalt, så optager vi den næste del af samtalen, og der har vi aftalt, at jeg skifter dig over på en ny privat aftale hos energiselskabet El. Det er med opstarten den 1.10, og vi opretter alle målere på adressen, der hedder Vestergårdsvænget 55 i 75 00 Holstebro.
+
+[Pause: 0.90s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.72s]
+
+Sælger:
+
+Yes. Du betaler en variabel pris, som er indkøbsprisen af strømmen, plus det her tillæg på kun 5 øre. For hver 12. måned, du står i kunde herinde, så vil den her tillægspris falde med 1 øre, og dit sidste, eller slutstadiet, vil være ved dit fjerde år som kunde, hvor den kommer helt ned i kun 2 øre. Abonnementet, det er på 29 kroner om måneden, og så er der heller ikke nogen binding på den her aftale.
+
+[Pause: 1.08s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.60s]
+
+Sælger:
+
+Der er et oprettelsesgebyr på 199, det håber jeg, det er okay med dig, Tina. Det er sådan, jeg får lidt penge til huslejen derhjemme.
+
+[Pause: 0.78s]
+
+Kunde:
+
+Ja, så skidt da.
+
+[Pause: 0.78s]
+
+Sælger:
+
+Det var godt. Og du betaler månedsvise konto via betalingsservicen, som jeg sætter op for dig herinde.
+
+[Pause: 0.78s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.60s]
+
+Sælger:
+
+Ja, så skal du være opmærksom på, Tina, at dit nuværende selskab, altså VestEnergi her, de har lige 6 uger til, at du skifter over til mig, til lige at fortælle dig, om der er nogle penge, du skal have tilbage.
+
+[Pause: 0.96s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.00s]
+
+Sælger:
+
+Og det er det, der hedder en slutopgørelse.
+
+[Pause: 0.54s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.60s]
+
+Sælger:
+
+Ja, jeg sender naturligvis en ordrebekræftelse på din e-mailadresse, som var den her, nu skal jeg se her, det var tina.p1968@gmail.com.
+
+[Pause: 0.66s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.54s]
+
+Sælger:
+
+Super. Så stopper jeg lige optagelsen igen her, og så vil jeg lige høre dig, Tina, har du nogle spørgsmål til mig?
+
+[Pause: 0.54s]
+
+Kunde:
+
+Nej, det synes jeg ikke.
+
+[Pause: 0.18s]
+
+Sælger:
+
+Nej. Hvis du nu skulle danne dig nogle spørgsmål, så kan du selvfølgelig altid ringe ind til mig på det her nummer, eller så kan du ringe til vores kundeservice, som jeg sender nummeret med i ordrebekræftelsen også.
+
+[Pause: 0.54s]
+
+Kunde:
+
+Ja, det lyder fint.
+
+[Pause: 0.48s]
+
+Sælger:
+
+Ja, super. Og mit fulde navn, det står selvfølgelig også i den bekræftelse, du får, at det er mig, der har snakket med dig osv.
+
+[Pause: 1.02s]
+
+Kunde:
+
+Ja.
+
+[Pause: 0.84s]
+
+Sælger:
+
+Super. Jamen, hvis ikke der var mere fra din side af, så har jeg faktisk heller ikke mere herfra.
+
+[Pause: 0.42s]
+
+Kunde:
+
+Nej, det er bare i orden.
+
+[Pause: 0.30s]
+
+Sælger:
+
+Super. Jamen, rigtig, rigtig god dag til dig, Tina.
+
+[Pause: 0.42s]
+
+Kunde:
+
+Tak fordi jeg måde.
+
+[Pause: 0.30s]
+
+Sælger:
+
+Tak skal du have. Hej hej.
+
+[Pause: 0.36s]
+
+Kunde:
+
+Hej.
+

@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EvaluationIndexSelectorResponse",
+  "description": "LLM response selecting evaluation-worthy customer utterance indices from a sales conversation transcript.",
+  "type": "object",
+  "required": ["selected_indices"],
+  "additionalProperties": false,
+  "properties": {
+    "selected_indices": {
+      "type": "array",
+      "description": "Ordered list of selected customer utterance indices with justification.",
+      "items": {
+        "type": "object",
+        "required": ["index", "reason", "phase"],
+        "additionalProperties": false,
+        "properties": {
+          "index": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "The utterance index from the transcript (the number inside [brackets])."
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 10,
+            "description": "Brief justification for why this utterance is evaluation-worthy. Reference the specific selection criterion it satisfies."
+          },
+          "phase": {
+            "type": "string",
+            "enum": ["opener", "discovery", "presentation", "objection_handling", "closing"],
+            "description": "The conversation phase this utterance falls within, as indicated by the phase markers in the transcript."
+          }
+        }
+      }
+    }
+  }
+}

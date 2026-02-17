@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Andel Energi",
+    "competitor_id": "andel_energi",
+    "aliases": [
+      "SEAS-NVE",
+      "Enel",
+      "Dong Energy"
+    ],
+    "comparison_summary": "Andel Energi tilbyder typisk variable aftaler som 'Variabel El' med et spottillæg og et månedligt abonnement. Deres abonnement er ofte lavere end vores 29 kr./md., men deres samlede pris kan være højere afhængig af tillægget. Vores primære fordel er ingen binding på vores 'Strøm til indkøbspris'-aftale, hvor Andel Energi kan have bindingsperioder på op til 6 måneder på visse kampagner. Desuden opkræver vi et engangs-oprettelsesgebyr på 199 kr., hvilket er vigtigt at nævne i sammenligningen.",
+    "strengths": [
+      "Danmarks største elselskab med over 1,2 millioner kunder, hvilket giver en følelse af tryghed og stabilitet.",
+      "Har en veludviklet app, hvor kunder kan følge deres forbrug og se fakturaer, hvilket ofte roses i anmeldelser.",
+      "Stærk brandkendthed og opfattes som en etableret og pålidelig spiller på markedet."
+    ],
+    "angles": [
+      "Hos Andel Energi kan du blive bundet i op til 6 måneder. Vores 'Strøm til indkøbspris' har ingen binding overhovedet – du kan gå i morgen, hvis du ikke er tilfreds.",
+      "Selvom alle elselskaber køber strømmen samme sted, så ligger forskellen i tillæg og abonnement. Hos os får du et simpelt produkt til 29 kr. om måneden og ingen skjulte gebyrer.",
+      "Vi har et oprettelsesgebyr på 199 kr., ligesom mange andre, men til gengæld er du ikke bundet fast i en lang aftale. Det giver dig friheden til at vælge det bedste for dig, altid."
+    ],
+    "switching_barriers": [
+      "Brandloyalitet og opfattelsen af at være kunde hos 'hele Danmarks energiselskab'.",
+      "Usikkerhed om bindingsperiode på deres nuværende aftale.",
+      "Manglende overblik over den reelle besparelse ved et skift."
+    ],
+    "anecdotes": [
+      "En kunde på Trustpilot nævnte i april 2024, at deres abonnement og ekstra gebyrer løb op i næsten 150 kr. hver måned, hvilket gjorde den samlede pris markant dyrere end forventet, på trods af en lav kWh-pris i markedsføringen."
+    ],
+    "recent_news": [
+      "[2023] Andel Energi lancerede nye grønne løsninger til private, herunder varmepumper, solceller og ladeløsninger, for at styrke deres position i den grønne omstilling."
+    ]
+  },
+  {
+    "name": "Norlys",
+    "competitor_id": "norlys",
+    "aliases": [
+      "SE",
+      "Eniig",
+      "Stofa",
+      "Boxer"
+    ],
+    "comparison_summary": "Norlys' variable produkt 'FlexEl' har typisk et månedligt abonnement på 29 kr., hvilket er det samme som vores 'Strøm til indkøbspris'. Forskellen ligger i spottillægget og eventuelle kampagnetilbud. En væsentlig forskel er, at Norlys ofte tilbyder rabatter de første måneder. Vores styrke er ingen binding, hvor Norlys kan have 6 måneders binding på kampagnetilbud. Begge har et opstartsgebyr.",
+    "strengths": [
+      "Stor spiller i markedet med over 1,7 millioner kunder og er en fusion af SE og Eniig.",
+      "Tilbyder en bred vifte af ydelser, herunder internet, TV og mobiltelefoni, hvilket appellerer til kunder, der ønsker at samle alt ét sted.",
+      "Stærkt lokalt engagement og ejerskab af andelshavere, hvilket skaber en følelse af fællesskab."
+    ],
+    "angles": [
+      "Hos Norlys kan du være bundet i 6 måneder for at få en rabat. Hos os betaler du en fair pris fra dag ét med vores 'Strøm til indkøbspris'-aftale til 29 kr./md., og du er helt uden binding.",
+      "Mange oplever, at det kan være uoverskueligt at have mange forskellige produkter hos samme selskab. Hos os fokuserer vi kun på at give dig billig strøm uden binding, så du har fuld frihed.",
+      "Mens Norlys' priser kan variere afhængigt af, hvor i landet du bor, er vores prisstruktur den samme for alle vores kunder."
+    ],
+    "switching_barriers": [
+      "Kunder har samlet el, internet og TV i én pakke og frygter besværet ved at splitte det op.",
+      "Opfattelsen af at være en del af et lokalt, andelsejet selskab.",
+      "Introtilbud med rabatter, der får kunder til at udskyde beslutningen om at skifte."
+    ],
+    "anecdotes": [
+      "I maj 2025 var der en bølge af negative anmeldelser på Trustpilot efter overtagelsen af Telias kunder, hvor kunder klagede over alt fra dårlig kundeservice og forkerte regninger til at blive sendt til inkasso pga. IT-fejl hos Norlys.",
+      "Kunder, der skiftede fra Boxer til Norlys Play, har klaget over en markant dårligere app-oplevelse, med problemer med at afspille live-udsendelser forfra og generel ustabilitet."
+    ],
+    "recent_news": [
+      "[Maj 2025] Norlys modtog en storm af klager og 1-stjernede anmeldelser på Trustpilot, især efter overtagelsen af Telias mobilforretning. Kunder rapporterede om store problemer med kundeservice og tekniske fejl."
+    ]
+  },
+  {
+    "name": "EWII",
+    "competitor_id": "ewii",
+    "aliases": [
+      "Trekantområdets Energiselskab"
+    ],
+    "comparison_summary": "EWII tilbyder ofte produkter uden abonnement, som f.eks. 'Basis El', men med et højere spottillæg (f.eks. 15 øre/kWh). De har også et produkt, 'Plus El', med 29 kr. i abonnement og et lavere tillæg. Sammenlignet med vores 'Strøm til indkøbspris' til 29 kr./md. og X-øre tillæg, kan vores løsning være billigere for kunder med et højere forbrug, hvor det lave tillæg vejer tungere end abonnementet. EWII har typisk ingen binding eller oprettelsesgebyr, hvilket er en fordel for dem.",
+    "strengths": [
+      "Stærk position som en landsdækkende energikoncern med hovedsæde i Kolding.",
+      "Tilbyder ofte produkter uden abonnement og uden binding, hvilket appellerer til prisfølsomme kunder.",
+      "Har en veludviklet app til at følge forbrug og priser time for time."
+    ],
+    "angles": [
+      "EWII har et produkt uden abonnement, men til gengæld betaler du et højere tillæg på hver eneste kilowatt-time. Med et normalt forbrug kan vores 'Strøm til indkøbspris' med et abonnement på 29 kr. og et lavt tillæg hurtigt blive den billigere løsning for dig.",
+      "Mens EWII tilbyder gratis oprettelse, sikrer vores lille oprettelsesgebyr på 199 kr., at vi kan holde vores faste omkostninger nede og dermed give dig en skarpere pris i længden, helt uden binding.",
+      "Du betaler for dit faktiske forbrug bagud hos EWII, men ligesom hos os betaler du a conto. Forskellen er, at du hos os får en simpel og gennemskuelig aftale uden skjulte tillæg."
+    ],
+    "switching_barriers": [
+      "Tilbud om 400 kr. i rabat på elregningen kan fastholde nye kunder.",
+      "Tilbyder andre services som internet og fjernvarme, hvilket kan skabe loyalitet.",
+      "Markedsfører sig på at være et trygt valg med høj score på Trustpilot."
+    ],
+    "anecdotes": [
+      "Kunder har oplevet, at EWII ikke automatisk opsiger deres tidligere internetaftale ved skift, hvilket har resulteret i dobbeltbetaling i flere måneder.",
+      "En kunde rapporterede i december 2025 om hyppige driftsforstyrrelser på fibernettet i Aarhus, næsten på ugentlig basis, og ingen teknisk support uden for normal åbningstid."
+    ],
+    "recent_news": [
+      "[Juni 2025] En kunde på Trustpilot rapporterede, at efter EWII overtog fra Kviknet, har der været en mærkbar stigning i nedetid på internetforbindelsen, både planlagt og uplanlagt."
+    ]
+  },
+  {
+    "name": "Nettopower",
+    "competitor_id": "nettopower",
+    "aliases": [],
+    "comparison_summary": "Nettopowers primære salgsargument er 0 kr. i abonnement og ingen binding. De har dog et spottillæg på 12,5 øre/kWh. Vores 'Strøm til indkøbspris' har et abonnement på 29 kr./md. og et oprettelsesgebyr på 199 kr. For en kunde med et gennemsnitligt eller højt forbrug, kan vores lavere spottillæg (forudsat det er under 12,5 øre) gøre os billigere samlet set, på trods af abonnementet. Deres 'keep it simple' tilgang appellerer til nogle, men kan også betyde begrænset service.",
+    "strengths": [
+      "Meget simpel produktstruktur med kun én variabel el-aftale.",
+      "Ingen abonnement og ingen binding, hvilket er et stærkt og letforståeligt budskab.",
+      "Appellerer til den meget prisfølsomme kunde, der kun fokuserer på de faste månedlige omkostninger."
+    ],
+    "angles": [
+      "Nettopower reklamerer med 0 kr. i abonnement, men til gengæld har de et fast tillæg på 12,5 øre for hver eneste kilowatt-time du bruger. Hos os betaler du 29 kr. fast om måneden, og så giver vi dig en skarpere pris på selve strømmen. Det kan hurtigt betale sig, hvis du har et normalt elforbrug.",
+      "Hos os får du en personlig service og kvartalsvis afregning, som giver færre regninger at holde styr på. Hos Nettopower er oplevelsen mere 'gør-det-selv', hvilket afspejles i deres anmeldelser.",
+      "Det er korrekt, at de ikke har et abonnement. Men hvis du regner efter, vil du se at et tillæg på 12,5 øre/kWh for en gennemsnitsfamilie løber op i mere end de 29 kr. om måneden, du betaler hos os for en lavere strømpris."
+    ],
+    "switching_barriers": [
+      "Det stærke og simple budskab om '0 kr. i abonnement'.",
+      "Kunder der udelukkende kigger på den faste månedlige udgift, uden at medregne tillægget.",
+      "Frygt for at et selskab med abonnement *må* være dyrere."
+    ],
+    "anecdotes": [
+      "En kunde på Trustpilot har kæmpet siden oktober 2025 for at få 18.000 kr. tilbage, som Nettopower havde opkrævet for meget a conto for el og gas.",
+      "En anmelder på Trustpilot i januar 2026 kalder firmaet for 'SCAM', efter at være blevet ringet op flere gange af sælgere, der lovede en billigere pris, som ikke holdt stik.",
+      "Mange anmeldelser på Trustpilot peger generelt på 'under middel' service, hvor kunder klager over dårlig og uhøflig service samt lange ventetider."
+    ],
+    "recent_news": [
+      "Nettopower blev opkøbt af Velkommen A/S, men fortsætter som et selvstændigt brand."
+    ]
+  }
+]

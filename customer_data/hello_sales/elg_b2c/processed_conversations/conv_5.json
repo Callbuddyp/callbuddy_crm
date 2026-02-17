@@ -1,0 +1,700 @@
+{
+  "audio_name": "conv_5.mp3",
+  "audio_stem": "conv_5",
+  "conversation": {
+    "language": "Dansk",
+    "utterances": [
+      {
+        "speaker_id": 1,
+        "start_ms": 2520,
+        "end_ms": 2880,
+        "text": "Hallo?"
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 3060,
+        "end_ms": 4740,
+        "text": "Ja, hej, du taler med Clara. Goddag."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 5640,
+        "end_ms": 6420,
+        "text": "Goddag, hvem er du?"
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 6660,
+        "end_ms": 14280,
+        "text": "Jeg ringer lige ganske kort herinde fra energiselskabet El. Det var lige ved at falde i elregningen derhjemme. Kan det passe til dig, der skulle stå for den?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 14520,
+        "end_ms": 16620,
+        "text": "Ja, der er ikke andre, der bor her på adressen, så..."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 16920,
+        "end_ms": 18840,
+        "text": "Nej, okay. Nå, men det kunne jo være..."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 19080,
+        "end_ms": 22740,
+        "text": "Jeg kan ikke skifte på et nuværende tidspunkt, så det kan jeg ikke."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 23100,
+        "end_ms": 25380,
+        "text": "Okay. Er du i noget binding, eller hvordan?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 25740,
+        "end_ms": 25920,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 26460,
+        "end_ms": 29760,
+        "text": "Okay. Hvad er det, på en variabel eller en fastprisaftale?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 30360,
+        "end_ms": 31500,
+        "text": "Det var vist en variabel."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 31800,
+        "end_ms": 46620,
+        "text": "Okay. Jeg ved ikke, om du sådan er blevet gjort opmærksom på det, men der må faktisk ikke være bindinger på variable aftaler længere. Det er en lovgivning, der kom i januar 2024. Øhm, må jeg prøve at høre, hvad det er for et elselskab, der har sagt, du er i binding der?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 47160,
+        "end_ms": 47460,
+        "text": "Lokal."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 48060,
+        "end_ms": 58920,
+        "text": "Øh, LokalEnergi. Okay. Øhm, det lyder lidt interessant. Er det så den, hvor du har et abonnement på 49 kroner om måneden, og et tillæg til spotprisen på 10 øre?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 59040,
+        "end_ms": 62700,
+        "text": "Ja, det ved jeg ikke. Jeg ved, at den stod på 3.000 her omkring for tre måneder."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 63660,
+        "end_ms": 65940,
+        "text": "Du har betalt 3.000 for tre måneder?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 66240,
+        "end_ms": 66360,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 67740,
+        "end_ms": 71400,
+        "text": "Okay. Har du noget ekstra, der trækker på strømmen derhjemme?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 71940,
+        "end_ms": 72180,
+        "text": "Næ."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 73320,
+        "end_ms": 77520,
+        "text": "Okay, på den måde. Må jeg prøve at høre, om det er noget hus eller lejlighed, du bor i?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 77700,
+        "end_ms": 79740,
+        "text": "Jamen, det har været lejlighed, og så er jeg lige flyttet."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 80340,
+        "end_ms": 80940,
+        "text": "Du er lige flyttet?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 81060,
+        "end_ms": 83940,
+        "text": "Jeg bor i sådan en, en, en, hvad hedder det, rækkehus."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 84300,
+        "end_ms": 86580,
+        "text": "Et rækkehus. Hvor stort er rækkehuset cirka?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 87180,
+        "end_ms": 87660,
+        "text": "95."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 88260,
+        "end_ms": 93900,
+        "text": "95 kvadratmeter. Okay. Og bor du alene der, eller bor der andre i hus?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 93960,
+        "end_ms": 94860,
+        "text": "Jeg har en teenager."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 95280,
+        "end_ms": 100860,
+        "text": "Du har en teenager. Okay, på den måde. Øh, vaskemaskine, tørretumbler, er det noget, I har derhjemme?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 100980,
+        "end_ms": 101340,
+        "text": "Ja, ja, ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 101520,
+        "end_ms": 108240,
+        "text": "Ja, okay, dejligt. Øhm, altså, jeg kan lige prøve, er det stadigvæk i 6100, I bor i i dag?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 108420,
+        "end_ms": 108960,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 109200,
+        "end_ms": 109260,
+        "text": "Okay."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 109320,
+        "end_ms": 109320,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 109320,
+        "end_ms": 115800,
+        "text": "Jeg kan jo lige prøve at sætte kig i det her engang, fordi det lyder i hvert fald lidt, lidt meget i forhold til..."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 115920,
+        "end_ms": 118560,
+        "text": "Ja, det synes jeg nemlig også, fordi før der havde jeg OK, ikke også?"
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 118860,
+        "end_ms": 118980,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 119340,
+        "end_ms": 125220,
+        "text": "Og der lå den nede på omkring 700 i måneden, og det er nemlig med månedsaftale, hvad det hedder, betaling."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 125640,
+        "end_ms": 125820,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 126060,
+        "end_ms": 131280,
+        "text": "Så jeg synes, det var lidt bundpangeriet, det der med at så få for tre måneder og skulle betale for én gang, ikke også?"
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 131520,
+        "end_ms": 132480,
+        "text": "Ja, så samtidig..."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 132600,
+        "end_ms": 133320,
+        "text": "Forud jo, ikke også?"
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 133620,
+        "end_ms": 142140,
+        "text": "Ja, så samtidig med, så vil jeg da også sige, at hvis de har bildt dig ind, at du er i binding, øhm, når det er, at man faktisk ikke må lave bindinger på elaftaler længere."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 142800,
+        "end_ms": 142920,
+        "text": "Okay."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 143460,
+        "end_ms": 173040,
+        "text": "Øh, 2 kroner og 1 øre, det vil være en samlet pris inde hos os i gennemsnit. Hvis man prøver at tage udgangspunkt i 3.000 kilowatt-timer om året, ganger eller dividerer det med 12, så det er cirka 250 om måneden, gange det med 2,01, så vil jeg kunne give dig en aftale med alt inklusiv med en gennemsnitlig pris på 531 kroner og 50 øre om måneden."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 174000,
+        "end_ms": 175200,
+        "text": "Okay, det var næsten forskel."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 175620,
+        "end_ms": 181260,
+        "text": "Hvis man tager det og ganger det med 3, så er det i gennemsnit 1.594 kroner og 50 øre."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 181380,
+        "end_ms": 186780,
+        "text": "Ja, og så er vi nede på, hvad jeg lå på i sin tid også, før jeg ved godt, at elpriserne har noget andet i dag, men altså..."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 187500,
+        "end_ms": 196020,
+        "text": "Jamen, elmarkedet har faktisk faldet en rigtig, en stor del her på det sidste. Øh, godt i forhold til, hvis man sammenligner med, hvad det var for 4-5 måneder siden."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 196080,
+        "end_ms": 199860,
+        "text": "Ja, ja, men det er stadigvæk en væsentlig forskel, ikke også? Giv en kig i forhold til."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 200520,
+        "end_ms": 200580,
+        "text": "Ja. Lige præcis."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 200640,
+        "end_ms": 201480,
+        "text": "Det er jo en halvering, ikke også?"
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 201660,
+        "end_ms": 238020,
+        "text": "Ja, ja, 100%, det er det. Øhm, altså, man kan jo også sige, det der jo også er med det inde ved LokalEnergi, der er to faktorer i det. Hvis man har den variable aftale, øhm, så kan jeg se her, at så har man et tillæg til spotprisen på det, der lyder på 10 øre per kilowatt-time. Det vil sige, hver gang at de køber strøm til 1 krone, så sælger de den til dig til 1 krone og 10 øre. Det er jo ud over deres abonnementspris, som lyder på 49 kroner om måneden. Der kan jeg gøre det til 29 kroner om måneden. Så har de et netadministrations, øh, hvad hedder det, gebyr på 10 kroner om måneden også. Øhm."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 238320,
+        "end_ms": 238440,
+        "text": "Okay."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 238800,
+        "end_ms": 247920,
+        "text": "Ja. Jeg tror, brugerordet tænker jeg jo faktisk, at en af de, altså har været ude og så advare imod LokalEnergi om, at det er et selskab, man ikke burde være kunde hos i dag."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 248220,
+        "end_ms": 248460,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 248820,
+        "end_ms": 249000,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 249540,
+        "end_ms": 253020,
+        "text": "Jeg ved, hvad, synes du ikke bare, at jeg skal skifte over hos dig, Bente?"
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 253500,
+        "end_ms": 270060,
+        "text": "Der er i hvert fald ikke, der er i hvert fald ikke noget, jeg tænker, der skulle gøre, at du ikke skulle være kunde herinde. Det er for det første, det bliver billigere igen. Vi er ærlige, der er ikke nogen binding på aftalen eller noget som helst igen, du er, ikke? Og jeg skal nok sørge for alt det praktiske og administrative herinde fra."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 270780,
+        "end_ms": 270780,
+        "text": "Mmm."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 270780,
+        "end_ms": 278940,
+        "text": "Ja. Super. Jeg skal egentlig bare lige høre, i forhold til betaling, der kører du det jo over betalingsservicen i dag. Det tænker jeg vel bare, at vi skal fortsætte med."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 279180,
+        "end_ms": 280680,
+        "text": "Ja, ja, ja, ja, det er det nemmeste."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 280920,
+        "end_ms": 286260,
+        "text": "Ja, super. Og øh, bare lige et CPR-nummer på dig for lige at finde din elmåler."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 287100,
+        "end_ms": 288480,
+        "text": "Den hedder 0302."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 288780,
+        "end_ms": 288960,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 289740,
+        "end_ms": 290160,
+        "text": "75."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 290460,
+        "end_ms": 290640,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 291240,
+        "end_ms": 292140,
+        "text": "1986."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 292620,
+        "end_ms": 298800,
+        "text": "Yes. Jeg skal lige se her, vi har en adresse, der hedder Rokhær nummer 36."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 298860,
+        "end_ms": 300780,
+        "text": "Ja, den er, det er jo den, der er forkert, så jo."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 301260,
+        "end_ms": 301260,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 301260,
+        "end_ms": 304260,
+        "text": "Det er ikke den, jeg har mere. Den hedder Lindøvej."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 304920,
+        "end_ms": 305820,
+        "text": "Lindøvej."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 306480,
+        "end_ms": 306660,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 307020,
+        "end_ms": 308280,
+        "text": "Ja. Hvad nummer er det?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 308580,
+        "end_ms": 309180,
+        "text": "Nummer 20."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 309540,
+        "end_ms": 312000,
+        "text": "Nummer 20. Og det var stadigvæk i Haderslev, ikke også?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 312120,
+        "end_ms": 314820,
+        "text": "Ja, den ligger bare ude i Starups på den lille landsby lidt udenfor."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 315060,
+        "end_ms": 316740,
+        "text": "Okay, men det er samme postnummer?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 316980,
+        "end_ms": 317460,
+        "text": "Ja, ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 318240,
+        "end_ms": 329040,
+        "text": "Perfekt. Og i forhold til betaling, så sætter jeg det jo op på betalingsservice for dig, så skal jeg bare lige høre registreringsnummer og kontonummer, det skal køre over. Kan du huske det i hovedet, eller skal du lige finde det frem engang?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 329280,
+        "end_ms": 331080,
+        "text": "Øh, lige to sekunder, jeg skal lige have fundet kortet."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 331200,
+        "end_ms": 332160,
+        "text": "Ja, ja, det er så fint."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 340260,
+        "end_ms": 342360,
+        "text": "Ja. Den hedder 2450."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 343020,
+        "end_ms": 345180,
+        "text": "2450, ja, og kontonummer?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 345600,
+        "end_ms": 348600,
+        "text": "Den hedder 688."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 349140,
+        "end_ms": 350160,
+        "text": "688."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 351120,
+        "end_ms": 352260,
+        "text": "9939."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 352560,
+        "end_ms": 353760,
+        "text": "9939."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 354180,
+        "end_ms": 355140,
+        "text": "239."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 355500,
+        "end_ms": 360480,
+        "text": "239. 246810. Perfekt. Det stemmer også overens her."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 360840,
+        "end_ms": 360900,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 361080,
+        "end_ms": 372180,
+        "text": "Perfekt. Hvad hedder det, bare lige det sidste, jeg mangler, det er faktisk bare lige at så læse aftalen højt for dig, så vi er sikre på, at der ikke lige opstår nogen misforståelser. Der går jeg lige ind og optager min egen stemme. Vil det lige være okay med dig?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 372600,
+        "end_ms": 373380,
+        "text": "Ja, det er bare i orden."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 373560,
+        "end_ms": 436020,
+        "text": "Ja, perfekt. Gør jeg som aftalt, så optager jeg den næste del af samtalen, og det jeg har aftalt, eller det vi har aftalt, det er, at jeg skifter dig over på en ny privat aftale hos energiselskabet El med opstart til den 1.5. Og vi opretter alle målerne på adressen, som hedder Lindøvej 20, 6100 Haderslev. Du betaler en variabel pris som er en indkøbspris plus et tillæg på 3 øre. Abonnementet er 29 kroner om måneden per måler, og der er som sagt ingen binding på aftalen. Der er et oprettelsesgebyr på 199 kroner, det kommer med på første regning, og du betaler kvartalsvis af konto via betalingsservice. Du skal være opmærksom på, at dit nuværende selskab har 6 uger fra, at du skiftede til os, til at lave en slutafgørelse, og nogle gange kan de godt finde på at sende en faktura fra dem efter vores. Jeg vil anbefale dig at hente vores egen app, der hedder Timepris på din telefon. Der kan du nemlig følge med i strømpriserne og potentielt spare endnu mere på din elregning. Og jeg sender naturligvis en ordrebekræftelse til din mail, som hedder tanjabindestregtfj@hotmail.com, og så skal jeg bare høre, om du har nogen spørgsmål."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 437100,
+        "end_ms": 437340,
+        "text": "Nej."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 437580,
+        "end_ms": 438600,
+        "text": "Nej, perfekt."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 439440,
+        "end_ms": 443340,
+        "text": "Du siger med, du siger med, at de kan finde på at sende en ekstraregning?"
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 444060,
+        "end_ms": 457020,
+        "text": "Det er nogle elselskaber, de kan godt finde på også at sende en regning fra dem efter vores, hvis det er, at man kører med konto inde hos dem. Så er det jo oftest, at man betaler forud. Øhm, men så skal man bare lige kontakte dem."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 458280,
+        "end_ms": 465840,
+        "text": "Ja, fordi jeg så ved, hvad den hedder, og jeg kontaktede nemlig OK, da jeg skiftede over til lokal, og der fik jeg en regning på 900 kroner ekstra."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 466440,
+        "end_ms": 466440,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 466440,
+        "end_ms": 469740,
+        "text": "Så siger jeg, hvorfor skal jeg det, fordi at, jamen, det var en slutafgørelse."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 470580,
+        "end_ms": 470760,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 471180,
+        "end_ms": 473280,
+        "text": "Der var jeg, det blev jeg sådan lidt forarget over."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 473640,
+        "end_ms": 499380,
+        "text": "Ja, altså en slutafgørelse, det er jo egentlig sådan, du ved, hvis nu at man enten har betalt for meget eller for lidt, så hvis nu for eksempel man har nogle penge til gode derinde, så får man jo selvfølgelig dem tilbage. Hvis de mener, at man har betalt for lidt, jamen så sender de jo selvfølgelig en regning, så man skal betale det resterende, de mener, man mangler. Men det synes jeg lige, man skal holde lidt øje med, især med sådan et elselskab som LokalEnergi. Så få lige, få lige kigget lidt på, og så se, om det virkelig kan passe."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 500100,
+        "end_ms": 500220,
+        "text": "Ja."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 500520,
+        "end_ms": 512340,
+        "text": "Øhm, og skulle der ellers være noget, altså nogle problemer med dem eller et eller andet i den dur, så vi har også en kundeservice, så hvis der er spørgsmål ind til os, som vi kan hjælpe dig med, så skal du altid bare ringe ind til os, så skal vi jo nok guide dig så godt, som vi kan, ikke også?"
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 512880,
+        "end_ms": 513060,
+        "text": "Fint."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 513360,
+        "end_ms": 514140,
+        "text": "Ja, perfekt."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 514380,
+        "end_ms": 514620,
+        "text": "Super."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 514860,
+        "end_ms": 520980,
+        "text": "Det er super. Jamen, øh, jeg vil sige tak for snakken, og så må du have en god weekend og en god fortsættelse, når du også kommer dertil."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 521280,
+        "end_ms": 522360,
+        "text": "Jo, tak skal du have i lige måde."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 522600,
+        "end_ms": 523320,
+        "text": "Tak skal du have."
+      },
+      {
+        "speaker_id": 1,
+        "start_ms": 523860,
+        "end_ms": 524040,
+        "text": "Hej."
+      },
+      {
+        "speaker_id": 2,
+        "start_ms": 524400,
+        "end_ms": 524640,
+        "text": "Hej."
+      }
+    ]
+  },
+  "soniox": {
+    "file_id": "f672956e-9825-40bf-b672-2f6967f06e7d",
+    "transcription_id": "f6e85c8c-9f89-4a93-a0b9-798915939be1",
+    "kept_on_soniox": false,
+    "language_hints": null,
+    "translation": null
+  }
+}

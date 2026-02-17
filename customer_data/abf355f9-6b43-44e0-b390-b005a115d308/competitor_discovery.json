@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Andel Energi",
+    "aliases": [
+      "SEAS-NVE",
+      "Andel"
+    ],
+    "rationale": "Danmarks største elselskab med over 1,2 millioner kunder, hvilket gør dem til en dominerende markedsleder og en hyppig nuværende leverandør for potentielle kunder.",
+    "discovered_urls": [
+      "https://andelenergi.dk/privat/produkter/el/timeenergi/",
+      "https://andelenergi.dk/privat/produkter/el/flexenergi/",
+      "https://dk.trustpilot.com/review/andelenergi.dk",
+      "https://andelenergi.dk/privat/kundeservice/produkter-og-priser/priser-paa-el/"
+    ],
+    "focus_areas": [
+      "Tilbyder variable aftaler som 'FlexEnergi' og 'TimeEnergi' med månedsbetaling og et abonnement på 19 kr./md.",
+      "Ingen oprettelsesgebyr, modsat ELG's 199 kr.",
+      "Har tidligere tilbudt fastprisaftaler, men fokus er nu på variable priser.",
+      "Kunder får automatisk dækket deres forbrug med strøm fra sol og vind via oprindelsesgarantier."
+    ]
+  },
+  {
+    "name": "Norlys",
+    "aliases": [
+      "Eniig",
+      "SE"
+    ],
+    "rationale": "En af Danmarks største energi- og telekoncerner, der konkurrerer direkte med både variable (FlexEl) og faste (MånedsEl) elaftaler.",
+    "discovered_urls": [
+      "https://norlys.dk/el/priser/",
+      "https://norlys.dk/el/bestil/",
+      "https://dk.trustpilot.com/review/www.norlys.dk"
+    ],
+    "focus_areas": [
+      "Deres abonnement er på 29 kr./md., hvilket er identisk med ELG's spot-aftale.",
+      "Tilbyder både variabelt produkt (FlexEl), der følger timeprisen, og et produkt med fast pris en måned ad gangen (MånedsEl), hvilket direkte matcher ELG's to produkttyper.",
+      "Har ofte kampagner med rabat de første måneder, som kan være en stærk konkurrent til ELG's tilbud.",
+      "Som andelsejet selskab har de en stærk lokal forankring og omdømme."
+    ]
+  },
+  {
+    "name": "EWII",
+    "aliases": [
+      "Trekantområdets Energiselskab"
+    ],
+    "rationale": "En stor spiller på markedet, der aktivt markedsfører sig med variable elaftaler, grøn energi og kampagnetilbud som rabatter på elregningen.",
+    "discovered_urls": [
+      "https://www.ewii.dk/privat/el/produkter/basis-el/",
+      "https://www.ewii.dk/privat/el/priser/",
+      "https://dk.trustpilot.com/review/ewii.com"
+    ],
+    "focus_areas": [
+      "Tilbyder 'Basis El' med 0 kr. i abonnement, hvilket er en stærk konkurrenceparameter mod ELG's abonnementspriser.",
+      "Kører aggressive kampagner, f.eks. 400 kr. i rabat på elregningen for nye kunder, hvilket direkte appellerer til prisfølsomme forbrugere.",
+      "Fokuserer på variable aftaler (time- eller kvartersafregning) og muligheden for at udnytte de billigste timer.",
+      "Alle deres elprodukter er baseret på 100% vedvarende energi."
+    ]
+  },
+  {
+    "name": "OK",
+    "aliases": [
+      "OK El"
+    ],
+    "rationale": "Kendt for høj kundetilfredshed og tilbyder differentierede produkter baseret på forbrugsniveau, som appellerer til forskellige kundesegmenter.",
+    "discovered_urls": [
+      "https://www.ok.dk/privat/el/",
+      "https://www.ok.dk/privat/produkter/el/priser",
+      "https://dk.trustpilot.com/review/www.ok.dk"
+    ],
+    "focus_areas": [
+      "Tilbyder 'OK El Lavt Forbrug' med 0 kr. i abonnement men et højere spottillæg (19 øre/kWh), og 'OK El Højt Forbrug' med 49 kr. i abonnement og 0 øre i spottillæg.",
+      "Har vundet EPSI's kundetilfredshedsundersøgelse flere år i træk, hvilket er et stærkt salgsargument.",
+      "Tilbyder tilkøb af dansk vindstrøm for 6 øre/kWh, hvilket er sammenligneligt med ELG's tillægsprodukt.",
+      "Knytter el-aftalen sammen med andre fordele som Coop-bonus og støtte til lokalsporten."
+    ]
+  },
+  {
+    "name": "Modstrøm",
+    "aliases": [],
+    "rationale": "Markedsfører sig som et grønt elselskab, der tilbyder variable priser og energirådgivning, hvilket appellerer til miljø- og prisbevidste kunder.",
+    "discovered_urls": [
+      "https://modstroem.dk/el/bliv-kunde/",
+      "https://dk.trustpilot.com/review/modstroem.dk",
+      "https://findenergi.dk/elselskaber/modstroem/"
+    ],
+    "focus_areas": [
+      "Deres basisprodukt 'enkEL' har en variabel spotpris + 10 øre/kWh i tillæg og et abonnement på 10 kr./md.",
+      "Tilbyder gratis oprettelse og ingen binding, hvilket er en fordel over ELG's oprettelsesgebyr.",
+      "Fokuserer meget på energibesparelser og tilbyder tillægsydelser som energirådgivning og ladebokse.",
+      "Tilbyder gratis produktionsaftale for solcelleejere uden abonnement eller tillæg."
+    ]
+  },
+  {
+    "name": "Nettopower",
+    "aliases": [],
+    "rationale": "Positionerer sig som et simpelt lavprisselskab med fokus på variable priser og ingen binding, hvilket er attraktivt for kunder, der søger en ukompliceret og billig løsning.",
+    "discovered_urls": [
+      "https://www.nettopower.dk/",
+      "https://dk.trustpilot.com/review/www.nettopower.dk",
+      "https://elpriser.dk/nettpower/"
+    ],
+    "focus_areas": [
+      "Tilbyder en simpel variabel prismodel: spotpris + et fast tillæg (f.eks. 12,5 øre/kWh) uden abonnement og binding.",
+      "Har et dårligt omdømme på Trustpilot (score på 2,0-2,3), med kritik af høje acontobetalinger og kundeservice, hvilket kan bruges som et kontrastpunkt.",
+      "Er en del af Velkommen A/S, men markedsføres som et selvstændigt brand.",
+      "Appellerer til 'strøm er bare strøm'-segmentet, der kun fokuserer på prisen."
+    ]
+  },
+  {
+    "name": "Gasel",
+    "aliases": [],
+    "rationale": "Et lavprisselskab under Energi Fyn-koncernen, der konkurrerer med et meget simpelt produkt: spotpris plus et lavt tillæg, og ingen abonnement.",
+    "discovered_urls": [
+      "https://gasel.dk/",
+      "https://dk.trustpilot.com/review/gasel.dk",
+      "https://elberegner.dk/elselskaber/gasel/"
+    ],
+    "focus_areas": [
+      "Meget simpel prisstruktur: spotpris + 6 øre/kWh i tillæg.",
+      "Ingen abonnement og ingen binding, hvilket gør dem meget konkurrencedygtige på faste omkostninger.",
+      "Inkluderer altid grøn strøm fra danske solceller via oprindelsescertifikater i deres pris.",
+      "Har et meget positivt omdømme på Trustpilot (4,6), ofte rost for gennemskuelighed og god service."
+    ]
+  },
+  {
+    "name": "Velkommen",
+    "aliases": [],
+    "rationale": "Et online-fokuseret elselskab, der ofte anvender aggressive kampagner med store velkomstrabatter for at tiltrække nye kunder.",
+    "discovered_urls": [
+      "https://velkommen.dk/stroem/faa-en-gratis-og-uforpligtende-gennemgang-af-din-elaftale/",
+      "https://dk.trustpilot.com/review/velkommen.dk",
+      "https://elpriser.dk/velkommen-kampagne/"
+    ],
+    "focus_areas": [
+      "Tilbyder typisk 0 kr. i oprettelse og et meget lavt abonnement (f.eks. 1 kr./md.).",
+      "Anvender kampagner med store kontante rabatter (f.eks. 800 kr.) på den første regning for at skille sig ud.",
+      "Deres standard variable produkt har et lavt spottillæg (f.eks. 4 øre/kWh).",
+      "Tilbyder et 'Rabatunivers' som en ekstra fordel for kunder."
+    ]
+  }
+]

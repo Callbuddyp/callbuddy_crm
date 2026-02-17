@@ -1,0 +1,9 @@
+================================================================================
+  STATE PATCHER EXPERIMENT LOG
+================================================================================
+  Dataset:      conv_2_v11_20260212_115225
+  Prompt:       elg_b2c_state_patcher (v11)
+  Model:        Kimi K2 Thinking (Fireworks) (accounts/fireworks/models/kimi-k2-thinking)
+  Conversation: conv_2.mp3
+  Run:          conv_2_v11_20260212_115225
+================================================================================

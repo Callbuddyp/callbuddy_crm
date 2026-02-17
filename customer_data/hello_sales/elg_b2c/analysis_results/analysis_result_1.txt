@@ -1,0 +1,263 @@
+{
+    "transcript": "Kunden:\n\nHallo?\n\nSælger:\n\nJa, hej, du taler med Clara. Goddag.\n\nKunden:\n\nGoddag, hvem er du?\n\nSælger:\n\nJeg ringer lige ganske kort herinde fra energiselskabet El. Det var lige ved at falde i elregningen derhjemme. Kan det passe til dig, der skulle stå for den?\n\nKunden:\n\nJa, der er ikke andre, der bor her på adressen, så...\n\nSælger:\n\nNej, okay. Nå, men det kunne jo være...\n\nKunden:\n\nJeg kan ikke skifte på et nuværende tidspunkt, så det kan jeg ikke.\n\nSælger:\n\nOkay. Er du i noget binding, eller hvordan?\n\nKunden:\n\nJa.\n\nSælger:\n\nOkay. Hvad er det, på en variabel eller en fastprisaftale?\n\nKunden:\n\nDet var vist en variabel.\n\nSælger:\n\nOkay. Jeg ved ikke, om du sådan er blevet gjort opmærksom på det, men der må faktisk ikke være bindinger på variable aftaler længere. Det er en lovgivning, der kom i januar 2024. Øhm, må jeg prøve at høre, hvad det er for et elselskab, der har sagt, du er i binding der?\n\nKunden:\n\nLokal.\n\nSælger:\n\nØh, LokalEnergi. Okay. Øhm, det lyder lidt interessant. Er det så den, hvor du har et abonnement på 49 kroner om måneden, og et tillæg til spotprisen på 10 øre?\n\nKunden:\n\nJa, det ved jeg ikke. Jeg ved, at den stod på 3.000 her omkring for tre måneder.\n\nSælger:\n\nDu har betalt 3.000 for tre måneder?\n\nKunden:\n\nJa.\n\nSælger:\n\nOkay. Har du noget ekstra, der trækker på strømmen derhjemme?\n\nKunden:\n\nNæ.\n\nSælger:\n\nOkay, på den måde. Må jeg prøve at høre, om det er noget hus eller lejlighed, du bor i?\n\nKunden:\n\nJamen, det har været lejlighed, og så er jeg lige flyttet.\n\nSælger:\n\nDu er lige flyttet?\n\nKunden:\n\nJeg bor i sådan en, en, en, hvad hedder det, rækkehus.\n\nSælger:\n\nEt rækkehus. Hvor stort er rækkehuset cirka?\n\nKunden:\n\n95.\n\nSælger:\n\n95 kvadratmeter. Okay. Og bor du alene der, eller bor der andre i hus?\n\nKunden:\n\nJeg har en teenager.\n\nSælger:\n\nDu har en teenager. Okay, på den måde. Øh, vaskemaskine, tørretumbler, er det noget, I har derhjemme?\n\nKunden:\n\nJa, ja, ja.\n\nSælger:\n\nJa, okay, dejligt. Øhm, altså, jeg kan lige prøve, er det stadigvæk i 6100, I bor i i dag?\n\nKunden:\n\nJa.\n\nSælger:\n\nOkay.\n\nKunden:\n\nJa.\n\nSælger:\n\nJeg kan jo lige prøve at sætte kig i det her engang, fordi det lyder i hvert fald lidt, lidt meget i forhold til...\n\nKunden:\n\nJa, det synes jeg nemlig også, fordi før der havde jeg OK, ikke også?\n\nSælger:\n\nJa.\n\nKunden:\n\nOg der lå den nede på omkring 700 i måneden, og det er nemlig med månedsaftale, hvad det hedder, betaling.\n\nSælger:\n\nJa.\n\nKunden:\n\nSå jeg synes, det var lidt bundpangeriet, det der med at så få for tre måneder og skulle betale for én gang, ikke også?\n\nSælger:\n\nJa, så samtidig...\n\nKunden:\n\nForud jo, ikke også?\n\nSælger:\n\nJa, så samtidig med, så vil jeg da også sige, at hvis de har bildt dig ind, at du er i binding, øhm, når det er, at man faktisk ikke må lave bindinger på elaftaler længere.\n\nKunden:\n\nOkay.\n\nSælger:\n\nØh, 2 kroner og 1 øre, det vil være en samlet pris inde hos os i gennemsnit. Hvis man prøver at tage udgangspunkt i 3.000 kilowatt-timer om året, ganger eller dividerer det med 12, så det er cirka 250 om måneden, gange det med 2,01, så vil jeg kunne give dig en aftale med alt inklusiv med en gennemsnitlig pris på 531 kroner og 50 øre om måneden.\n\nKunden:\n\nOkay, det var næsten forskel.\n\nSælger:\n\nHvis man tager det og ganger det med 3, så er det i gennemsnit 1.594 kroner og 50 øre.\n\nKunden:\n\nJa, og så er vi nede på, hvad jeg lå på i sin tid også, før jeg ved godt, at elpriserne har noget andet i dag, men altså...\n\nSælger:\n\nJamen, elmarkedet har faktisk faldet en rigtig, en stor del her på det sidste. Øh, godt i forhold til, hvis man sammenligner med, hvad det var for 4-5 måneder siden.\n\nKunden:\n\nJa, ja, men det er stadigvæk en væsentlig forskel, ikke også? Giv en kig i forhold til.\n\nSælger:\n\nJa. Lige præcis.\n\nKunden:\n\nDet er jo en halvering, ikke også?\n\nSælger:\n\nJa, ja, 100%, det er det. Øhm, altså, man kan jo også sige, det der jo også er med det inde ved LokalEnergi, der er to faktorer i det. Hvis man har den variable aftale, øhm, så kan jeg se her, at så har man et tillæg til spotprisen på det, der lyder på 10 øre per kilowatt-time. Det vil sige, hver gang at de køber strøm til 1 krone, så sælger de den til dig til 1 krone og 10 øre. Det er jo ud over deres abonnementspris, som lyder på 49 kroner om måneden. Der kan jeg gøre det til 29 kroner om måneden. Så har de et netadministrations, øh, hvad hedder det, gebyr på 10 kroner om måneden også. Øhm.\n\nKunden:\n\nOkay.\n\nSælger:\n\nJa. Jeg tror, brugerordet tænker jeg jo faktisk, at en af de, altså har været ude og så advare imod LokalEnergi om, at det er et selskab, man ikke burde være kunde hos i dag.\n\nKunden:\n\nJa.\n\nSælger:\n\nJa.\n\nKunden:\n\nJeg ved, hvad, synes du ikke bare, at jeg skal skifte over hos dig, Bente?\n\nSælger:\n\nDer er i hvert fald ikke, der er i hvert fald ikke noget, jeg tænker, der skulle gøre, at du ikke skulle være kunde herinde. Det er for det første, det bliver billigere igen. Vi er ærlige, der er ikke nogen binding på aftalen eller noget som helst igen, du er, ikke? Og jeg skal nok sørge for alt det praktiske og administrative herinde fra.\n\nKunden:\n\nMmm.\n\nSælger:\n\nJa. Super. Jeg skal egentlig bare lige høre, i forhold til betaling, der kører du det jo over betalingsservicen i dag. Det tænker jeg vel bare, at vi skal fortsætte med.\n\nKunden:\n\nJa, ja, ja, ja, det er det nemmeste.\n\nSælger:\n\nJa, super. Og øh, bare lige et CPR-nummer på dig for lige at finde din elmåler.\n\nKunden:\n\nDen hedder 0302.\n\nSælger:\n\nJa.\n\nKunden:\n\n75.\n\nSælger:\n\nJa.\n\nKunden:\n\n1986.\n\nSælger:\n\nYes. Jeg skal lige se her, vi har en adresse, der hedder Rokhær nummer 36.\n\nKunden:\n\nJa, den er, det er jo den, der er forkert, så jo.\n\nSælger:\n\nJa.\n\nKunden:\n\nDet er ikke den, jeg har mere. Den hedder Lindøvej.\n\nSælger:\n\nLindøvej.\n\nKunden:\n\nJa.\n\nSælger:\n\nJa. Hvad nummer er det?\n\nKunden:\n\nNummer 20.\n\nSælger:\n\nNummer 20. Og det var stadigvæk i Haderslev, ikke også?\n\nKunden:\n\nJa, den ligger bare ude i Starups på den lille landsby lidt udenfor.\n\nSælger:\n\nOkay, men det er samme postnummer?\n\nKunden:\n\nJa, ja.\n\nSælger:\n\nPerfekt. Og i forhold til betaling, så sætter jeg det jo op på betalingsservice for dig, så skal jeg bare lige høre registreringsnummer og kontonummer, det skal køre over. Kan du huske det i hovedet, eller skal du lige finde det frem engang?\n\nKunden:\n\nØh, lige to sekunder, jeg skal lige have fundet kortet.\n\nSælger:\n\nJa, ja, det er så fint.\n\nKunden:\n\nJa. Den hedder 2450.\n\nSælger:\n\n2450, ja, og kontonummer?\n\nKunden:\n\nDen hedder 688.\n\nSælger:\n\n688.\n\nKunden:\n\n9939.\n\nSælger:\n\n9939.\n\nKunden:\n\n239.\n\nSælger:\n\n239. 246810. Perfekt. Det stemmer også overens her.\n\nKunden:\n\nJa.\n\nSælger:\n\nPerfekt. Hvad hedder det, bare lige det sidste, jeg mangler, det er faktisk bare lige at så læse aftalen højt for dig, så vi er sikre på, at der ikke lige opstår nogen misforståelser. Der går jeg lige ind og optager min egen stemme. Vil det lige være okay med dig?\n\nKunden:\n\nJa, det er bare i orden.\n\nSælger:\n\nJa, perfekt. Gør jeg som aftalt, så optager jeg den næste del af samtalen, og det jeg har aftalt, eller det vi har aftalt, det er, at jeg skifter dig over på en ny privat aftale hos energiselskabet El med opstart til den 1.5. Og vi opretter alle målerne på adressen, som hedder Lindøvej 20, 6100 Haderslev. Du betaler en variabel pris som er en indkøbspris plus et tillæg på 3 øre. Abonnementet er 29 kroner om måneden per måler, og der er som sagt ingen binding på aftalen. Der er et oprettelsesgebyr på 199 kroner, det kommer med på første regning, og du betaler kvartalsvis af konto via betalingsservice. Du skal være opmærksom på, at dit nuværende selskab har 6 uger fra, at du skiftede til os, til at lave en slutafgørelse, og nogle gange kan de godt finde på at sende en faktura fra dem efter vores. Jeg vil anbefale dig at hente vores egen app, der hedder Timepris på din telefon. Der kan du nemlig følge med i strømpriserne og potentielt spare endnu mere på din elregning. Og jeg sender naturligvis en ordrebekræftelse til din mail, som hedder tanjabindestregtfj@hotmail.com, og så skal jeg bare høre, om du har nogen spørgsmål.\n\nKunden:\n\nNej.\n\nSælger:\n\nNej, perfekt.\n\nKunden:\n\nDu siger med, du siger med, at de kan finde på at sende en ekstraregning?\n\nSælger:\n\nDet er nogle elselskaber, de kan godt finde på også at sende en regning fra dem efter vores, hvis det er, at man kører med konto inde hos dem. Så er det jo oftest, at man betaler forud. Øhm, men så skal man bare lige kontakte dem.\n\nKunden:\n\nJa, fordi jeg så ved, hvad den hedder, og jeg kontaktede nemlig OK, da jeg skiftede over til lokal, og der fik jeg en regning på 900 kroner ekstra.\n\nSælger:\n\nJa.\n\nKunden:\n\nSå siger jeg, hvorfor skal jeg det, fordi at, jamen, det var en slutafgørelse.\n\nSælger:\n\nJa.\n\nKunden:\n\nDer var jeg, det blev jeg sådan lidt forarget over.\n\nSælger:\n\nJa, altså en slutafgørelse, det er jo egentlig sådan, du ved, hvis nu at man enten har betalt for meget eller for lidt, så hvis nu for eksempel man har nogle penge til gode derinde, så får man jo selvfølgelig dem tilbage. Hvis de mener, at man har betalt for lidt, jamen så sender de jo selvfølgelig en regning, så man skal betale det resterende, de mener, man mangler. Men det synes jeg lige, man skal holde lidt øje med, især med sådan et elselskab som LokalEnergi. Så få lige, få lige kigget lidt på, og så se, om det virkelig kan passe.\n\nKunden:\n\nJa.\n\nSælger:\n\nØhm, og skulle der ellers være noget, altså nogle problemer med dem eller et eller andet i den dur, så vi har også en kundeservice, så hvis der er spørgsmål ind til os, som vi kan hjælpe dig med, så skal du altid bare ringe ind til os, så skal vi jo nok guide dig så godt, som vi kan, ikke også?\n\nKunden:\n\nFint.\n\nSælger:\n\nJa, perfekt.\n\nKunden:\n\nSuper.\n\nSælger:\n\nDet er super. Jamen, øh, jeg vil sige tak for snakken, og så må du have en god weekend og en god fortsættelse, når du også kommer dertil.\n\nKunden:\n\nJo, tak skal du have i lige måde.\n\nSælger:\n\nTak skal du have.\n\nKunden:\n\nHej.\n\nSælger:\n\nHej."
+}
+
+```json
+{
+  "phase_journey": [
+    {
+      "phase": "opener",
+      "start_ms": 0,
+      "end_ms": 3000,
+      "entry_method": "natural_start",
+      "exit_method": "natural_progression",
+      "summary_da": "Sælgeren præsenterede sig selv og sit firma El. Hun fik bekræftet, at kunden er den rette person at tale med om elregningen.",
+      "seller_effectiveness": {
+        "strengths": ["Kort og målrettet introduktion", "Hurtigt etableret kontakt", "Bekræftede beslutningstager"],
+        "weaknesses": [],
+        "primary_technique": null
+      }
+    },
+    {
+      "phase": "discovery",
+      "start_ms": 3000,
+      "end_ms": 25000,
+      "entry_method": "natural_progression",
+      "exit_method": "natural_progression",
+      "summary_da": "Sælgeren udforskede kundens nuværende situation. Kunden nævnte en binding hos LokalEnergi og et højt forbrug på 3.000 kr for tre måneder. Sælgeren indsamlede information om boligstørrelse (95 m² rækkehus) og husholdning (en teenager, vaskemaskine, tørretumbler).",
+      "seller_effectiveness": {
+        "strengths": ["Stillede relevante spørgsmål", "Identificerede potentielt problem med høje omkostninger", "Opdagede ulovlig binding"],
+        "weaknesses": [],
+        "primary_technique": "needs_discovery"
+      }
+    },
+    {
+      "phase": "pitch",
+      "start_ms": 25000,
+      "end_ms": 45000,
+      "entry_method": "natural_progression",
+      "exit_method": "natural_progression",
+      "summary_da": "Sælgeren fremlagde et tilbud med en gennemsnitlig pris på 531,50 kr om måneden baseret på 3.000 kWh årligt. Hun forklarede fordelene: lavere abonnement (29 kr vs 49 kr), ingen binding, og advarede om kundens nuværende selskabs praksis.",
+      "seller_effectiveness": {
+        "strengths": ["Brugte kundens egne tal til besparelsesberegning", "Etablerede troværdighed ved at nævne lovgivning", "Kontrasterede med nuværende selskab"],
+        "weaknesses": [],
+        "primary_technique": "value_presentation"
+      }
+    },
+    {
+      "phase": "close",
+      "start_ms": 45000,
+      "end_ms": 100000,
+      "entry_method": "natural_progression",
+      "exit_method": "call_ended",
+      "summary_da": "Sælgeren indsamlede alle nødvendige oplysninger: CPR-nummer, korrekt adresse, bankoplysninger. Hun læste aftalen højt, forklarede betalingsforhold og afsluttede professionelt.",
+      "seller_effectiveness": {
+        "strengths": ["Systematisk indsamling af information", "Sikrede korrekthed af alle detaljer", "Håndterede kundens spørgsmål om slutafgørelse"],
+        "weaknesses": [],
+        "primary_technique": "closing"
+      }
+    }
+  ],
+  "objections": [
+    {
+      "objection_type": "contract_binding",
+      "objection_subtype": "binding på variabel aftale",
+      "core_concern_da": "Kunden mener at være i binding hos nuværende selskab og kan ikke skifte",
+      "is_recurring": false,
+      "handling_steps": [
+        {
+          "technique": "clarification_question",
+          "seller_action_da": "Spurgte om kunden var i binding",
+          "customer_reaction_da": "Bekræftede bindingen",
+          "moved_toward_resolution": true
+        },
+        {
+          "technique": "information_disclosure",
+          "seller_action_da": "Forklarede at bindinger på variable aftaler er ulovlige ifølge lov fra januar 2024",
+          "customer_reaction_da": "Virkede modtagelig og fortsatte med at give information",
+          "moved_toward_resolution": true
+        },
+        {
+          "technique": "provider_identification",
+          "seller_action_da": "Spurgte hvilket selskab der havde påstået bindingen",
+          "customer_reaction_da": "Oplyste at det var LokalEnergi",
+          "moved_toward_resolution": true
+        }
+      ],
+      "resolved": true,
+      "resolution_summary_da": "Kunden accepterede forklaringen om lovgivningen og fortsatte med at give information, hvilket indikerer at indvendingen blev overvundet."
+    }
+  ],
+  "trigger_points": [
+    {
+      "trigger_type": "objection_surfaced",
+      "timestamp_ms": 3000,
+      "customer_action_da": "Kunden sagde direkte at de ikke kunne skifte på grund af binding",
+      "seller_action_da": "Sælgeren anerkendte indvendingen og spurgte ind til detaljer",
+      "impact_da": "Samtalen skiftede fokus til at forstå kundens nuværende kontrakt",
+      "technique": {
+        "category": "objection_handling",
+        "description_da": "Anerkendelse og afklarende spørgsmål",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_type": "information_disclosed",
+      "timestamp_ms": 8000,
+      "customer_action_da": "Kunden oplyste at have en variabel aftale",
+      "seller_action_da": "Sælgeren forklarede lovgivning om bindinger på variable aftaler",
+      "impact_da": "Kunden blev informeret om sine rettigheder, hvilket åbnede for muligheden for skift",
+      "technique": {
+        "category": "education",
+        "description_da": "Juridisk information om forbrugerrettigheder",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_type": "pain_surfaced",
+      "timestamp_ms": 15000,
+      "customer_action_da": "Kunden udtrykte frustration over at have betalt 3.000 kr for tre måneder og sammenlignede med tidligere 700 kr/måned",
+      "seller_action_da": "Sælgeren anerkendte problemet og spurgte ind til forbrug",
+      "impact_da": "Identificerede et stærkt motivationsgrundlag for skift",
+      "technique": {
+        "category": "pain_identification",
+        "description_da": "Afdækning af økonomisk smerte",
+        "framework_mapping": "spin:implication"
+      }
+    },
+    {
+      "trigger_type": "value_connected",
+      "timestamp_ms": 25000,
+      "customer_action_da": "Kunden lyttede aktivt til prisberegningen",
+      "seller_action_da": "Sælgeren præsenterede konkret besparelse på 531,50 kr/måned",
+      "impact_da": "Kunden så tydelig værdi i tilbuddet og udtrykte interesse",
+      "technique": {
+        "category": "value_presentation",
+        "description_da": "Kvantificeret økonomisk besparelse",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_type": "commitment_gained",
+      "timestamp_ms": 45000,
+      "customer_action_da": "Kunden spurgte direkte 'synes du ikke bare, at jeg skal skifte over hos dig'",
+      "seller_action_da": "Sælgeren bekræftede og begyndte lukkeprocessen",
+      "impact_da": "Kunden gik fra interesseret til købsklar",
+      "technique": {
+        "category": "closing",
+        "description_da": "Kunden-initieret commitment",
+        "framework_mapping": null
+      }
+    },
+    {
+      "trigger_type": "customer_initiative",
+      "timestamp_ms": 50000,
+      "customer_action_da": "Kunden begyndte at oplyse CPR-nummer uden at blive bedt om det specifikt",
+      "seller_action_da": "Sælgeren modtog informationen og bekræftede",
+      "impact_da": "Demonstrerede høj tillid og samarbejdsvilje",
+      "technique": null
+    },
+    {
+      "trigger_type": "information_disclosed",
+      "timestamp_ms": 55000,
+      "customer_action_da": "Kunden rettede adressen",
+      "seller_action_da": "Sælgeren opdaterede adressen og bekræftede detaljer",
+      "impact_da": "Sikrede korrekt leveringsadresse for aftalen",
+      "technique": null
+    },
+    {
+      "trigger_type": "commitment_gained",
+      "timestamp_ms": 70000,
+      "customer_action_da": "Kunden gav bankoplysninger og var proaktiv med at finde kortet",
+      "seller_action_da": "Sælgeren bekræftede oplysningerne og fortsatte processen",
+      "impact_da": "Finansielle detaljer blev sikret, aftalen blev konkretiseret",
+      "technique": null
+    },
+    {
+      "trigger_type": "engagement_spike",
+      "timestamp_ms": 85000,
+      "customer_action_da": "Kunden stillede spørgsmål om potentiel ekstraregning fra tidligere selskab",
+      "seller_action_da": "Sælgeren gav uddybende forklaring og advarsler",
+      "impact_da": "Kunden viste engagement og bekymring for detaljer, sælgeren byggede tillid",
+      "technique": {
+        "category": "objection_prevention",
+        "description_da": "Proaktiv risiko-håndtering",
+        "framework_mapping": null
+      }
+    }
+  ],
+  "engagement_arc": [
+    {
+      "timestamp_ms": 0,
+      "engagement_level": "moderate",
+      "signals_da": ["Kunden svarede høfligt men kortfattet", "Goddag, hvem er du?"],
+      "trend": "stable",
+      "shift_cause_da": null
+    },
+    {
+      "timestamp_ms": 3000,
+      "engagement_level": "resistant",
+      "signals_da": ["Kunden afviste direkte: 'Jeg kan ikke skifte'", "Kort og bestemt svar"],
+      "trend": "declining",
+      "shift_cause_da": "Kundens opfattelse af binding"
+    },
+    {
+      "timestamp_ms": 8000,
+      "engagement_level": "moderate",
+      "signals_da": ["Kunden begyndte at give information om kontrakt", "Svar på spørgsmål"],
+      "trend": "improving",
+      "shift_cause_da": "Sælgerens forklaring om lovgivning"
+    },
+    {
+      "timestamp_ms": 15000,
+      "engagement_level": "high",
+      "signals_da": ["Kunden udtrykte frustration med 'det synes jeg nemlig også'", "Sammenlignede aktivt med tidligere leverandør", "Gav detaljerede forbrugsoplysninger"],
+      "trend": "improving",
+      "shift_cause_da": "Smerte blev identificeret og anerkendt"
+    },
+    {
+      "timestamp_ms": 25000,
+      "engagement_level": "high",
+      "signals_da": ["Kunden lyttede aktivt", "Interagerede med beregninger", "'Okay, det var næsten forskel'"],
+      "trend": "stable",
+      "shift_cause_da": null
+    },
+    {
+      "timestamp_ms": 45000,
+      "engagement_level": "high",
+      "signals_da": ["Kunden initiativtagende: 'synes du ikke bare, at jeg skal skifte'", "Viste købsklarhed"],
+      "trend": "improving",
+      "shift_cause_da": "Værdi blev tydelig og overbevisende"
+    },
+    {
+      "timestamp_ms": 70000,
+      "engagement_level": "high",
+      "signals_da": ["Kunden proaktiv med at finde bankkort", "Gav detaljerede oplysninger uden at blive spurgt"],
+      "trend": "stable",
+      "shift_cause_da": null
+    },
+    {
+      "timestamp_ms": 85000,
+      "engagement_level": "high",
+      "signals_da": ["Kunden stillede relevante spørgsmål", "Viste interesse for detaljer", "Delte personlig erfaring med slutafgørelse"],
+      "trend": "stable",
+      "shift_cause_da": null
+    }
+  ],
+  "callbuddy_alignment": [],
+  "outcome": {
+    "primary_outcome_type": "sale_completed",
+    "phase_diagnostic_da": "Alle faser blev nået succesfuldt. Opkaldsforløbet var lineært: opener → discovery → pitch → close uden regressioner eller afbrydelser.",
+    "objection_summary": {
+      "total_count": 1,
+      "resolved_count": 1,
+      "unresolved_types": []
+    },
+    "callbuddy_summary": {
+      "total_suggestions_tracked": 0,
+      "followed_count": 0
+    },
+    "engagement_trend_da": "Engagement startede moderat, faldt kortvarigt ved initial indvending, men steg derefter stabilt gennem hele samtalen og endte på et højt niveau med aktiv kundeparticipation og initiativ."
+  }
+}
+```

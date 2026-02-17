@@ -1,0 +1,175 @@
+================================================================================
+  STATE PATCHER EXPERIMENT LOG
+================================================================================
+  Dataset:      conv_1_incremental_v1_20260214_193802
+  Prompt:       elg_b2c_state_patcher (v1)
+  Model:        Kimi K2 Thinking (Fireworks) (accounts/fireworks/models/kimi-k2-thinking)
+  Conversation: conv_1.mp3
+  Run:          conv_1_incremental_v1_20260214_193802
+================================================================================
+
+
+[Step 0 · Utterances 0–0 · 1317ms TTFT · 1433ms E2E]
+
+Kunden:
+  Hallo?
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─
+
+
+[Step 1 · Utterances 1–2 · 891ms TTFT · 1365ms E2E]
+
+Sælger:
+  Goddag, goddag.
+
+Kunden:
+  Det er dig der har ringet til mig.
+
+    ╭─ Patches (1)
+    │  1. set_phase
+    │     phase: "discovery"
+    │     completed_phase_summary: "Opener fase afsluttet. Kunden er korrekt identificeret og er opmærksom på, at det er sælgeren, der har ringet op."
+    ╰─
+
+
+[Step 2 · Utterances 3–5 · 719ms TTFT · 927ms E2E]
+
+Sælger:
+  Ja. Ja, det var det. Og så ringede du tilbage til mig.
+
+Kunden:
+  Ja, og men så røg jeg i kø, og så vidste jeg ikke, hvem jeg ringede til. Så tænkte jeg, ved du hvad, så skulle jeg nok til at sælge, og det har jeg nok også.
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─
+
+
+[Step 3 · Utterances 6–7 · 1236ms TTFT · 1281ms E2E]
+
+Sælger:
+  Ja, det kan jeg da love dig for, du.
+
+Kunden:
+  Og hvad sælger du? Toiletpapir eller hvad?
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─
+
+
+[Step 4 · Utterances 8–9 · 869ms TTFT · 1392ms E2E]
+
+Sælger:
+  Ja, ja, du må sgu godt købe toiletpapir af mig, du. Jeg sælger det hele. Selv svigermor kan du få med i handlen, du.
+
+Kunden:
+  Nå, for helvede.
+
+    ╭─ Patches (2)
+    │  1. upsert_customer_fact
+    │     key: "nuvaerende_udbyder"
+    │     value: "Kunden har ikke nævnt sin nuværende udbyder endnu"
+    │     source: "inferred"
+    │  2. add_phase_progress
+    │     item: "current_situation — Kunden har ikke nævnt sin nuværende udbyder endnu"
+    ╰─
+
+
+[Step 5 · Utterances 10–13 · 788ms TTFT · 1226ms E2E]
+
+Sælger:
+  Ja, for helvede, du, du, du.
+
+Kunden:
+  Ja, nej.
+
+Sælger:
+  Nå, men du, som du nok kan høre, så skal jeg have dig lidt i stødet, jo. Det er energiselskabet El, og jeg går da ud fra, at det er dig, der står for din egen elaftale, derhjemme, unge mand.
+
+Kunden:
+  Jamen, det er det. Og ved du hvad, det er sjovt nok, du er ikke den eneste, der har ringet i dag i en indgående el. Det ved jeg ikke, hvad fanden. Lige pludselig kommer I i bølge, og så ringer I sgu 24/7.
+
+    ╭─ Patches (1)
+    │  1. add_phase_progress
+    │     item: "current_situation — Kunde hos VestEnergi med samlet rabat → bundled deal, svær at bryde op"
+    ╰─
+
+
+[Step 6 · Utterances 14–15 · 980ms TTFT · 2962ms E2E]
+
+Sælger:
+  Det er fandme lækkert at blive smurt, blive smurt sådan ind i kærlighed, jo.
+
+Kunden:
+  Ja, ja. Hvis der er noget at komme efter. Men ved du hvad, jeg har ikke så lang tid siden, jeg har skiftet.
+
+    ╭─ Patches (3)
+    │  1. upsert_customer_fact
+    │     key: "nuvaerende_udbyder"
+    │     value: "Kunden er hos VestEnergi med samlet rabat (bundled deal)"
+    │     source: "confirmed"
+    │  2. upsert_pain_point
+    │     id: "markedsoverskuelighed"
+    │     description: "Kunden er frustreret over at blive bombarderet med opkald fra elselskaber"
+    │     severity: "medium"
+    │     status: "expressed"
+    │  3. add_phase_progress
+    │     item: "pain_identified — Kunden er frustreret over at blive bombarderet med opkald fra elselskaber → skaber defensivitet og kræver respekt for tid"
+    ╰─
+
+
+[Step 7 · Utterances 16–17 · 1112ms TTFT · 1123ms E2E]
+
+Sælger:
+  Næ, sig noget mere.
+
+Kunden:
+  Det er ikke så lang tid siden, jeg har skiftet. Jeg har lavet elaftale.
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─
+
+
+[Step 8 · Utterances 18–21 · 1001ms TTFT · 1892ms E2E]
+
+Sælger:
+  Med hvem?
+
+Kunden:
+  Med OK.
+
+Sælger:
+  Altså tankstationen?
+
+Kunden:
+  Ja, ja, det er de har også. De gør i mange ting. De gør også i varmepumper og gas.
+
+    ╭─ Patches (3)
+    │  1. upsert_customer_fact
+    │     key: "nuvaerende_udbyder"
+    │     value: "Kunden er hos OK"
+    │     source: "corrected"
+    │  2. upsert_customer_fact
+    │     key: "nuvaerende_produkter"
+    │     value: "OK tilbyder også varmepumper og gas"
+    │     source: "confirmed"
+    │  3. add_phase_progress
+    │     item: "current_situation — Nuværende udbyder er OK, ikke VestEnergi. Kunden har lavet elaftale for nylig"
+    ╰─
+
+
+[Step 9 · Utterances 22–23 · 1061ms TTFT · 1179ms E2E]
+
+Sælger:
+  Men har du gas?
+
+Kunden:
+  Jeg har gas, ja. Jeg tager ikke gas fra dig, ja.
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─

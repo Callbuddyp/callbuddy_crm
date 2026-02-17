@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "callbuddy_service",
+			"path": "../.."
+		},
+		{
+			"name": "Notes",
+			"path": "../../../Notes"
+		},
+		{
+			"name": "callbuddy_supabase",
+			"path": "../../../callbuddy_supabase"
+		},
+		{
+			"name": "callbuddy",
+			"path": "../../../callbuddy"
+		},
+		{
+			"name": "callbuddy_render",
+			"path": "../../../callbuddy_render"
+		},
+		{
+			"path": "../../../callbuddy_llm_server"
+		}
+	],
+	"settings": {}
+}

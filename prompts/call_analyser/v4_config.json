@@ -1,0 +1,96 @@
+{
+  "json_schema": {
+    "type": "object",
+    "required": ["technique_instances", "call_outcome", "callbuddy_alignment", "callbuddy_usage_summary"],
+    "additionalProperties": false,
+    "properties": {
+      "technique_instances": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "primary_category", "technique_subtype", "offset_ms", "phase_context",
+            "engagement_before", "engagement_after", "customer_concern",
+            "seller_approach_description", "seller_quote", "key_elements",
+            "customer_reaction", "led_to_progression"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "primary_category": {
+              "type": "string",
+              "enum": ["objection_handling", "opener_technique", "discovery_technique", "pitch_technique", "close_technique", "rapport_technique"]
+            },
+            "technique_subtype": { "type": "string" },
+            "offset_ms": { "type": "integer", "description": "Millisecond offset from call start" },
+            "phase_context": {
+              "type": "string",
+              "enum": ["opener", "discovery", "pitch", "close", "objection_loop"]
+            },
+            "engagement_before": {
+              "type": "string",
+              "enum": ["high", "moderate", "low", "resistant", "closed"]
+            },
+            "engagement_after": {
+              "type": "string",
+              "enum": ["high", "moderate", "low", "resistant", "closed"]
+            },
+            "customer_concern": { "type": "string" },
+            "seller_approach_description": { "type": "string" },
+            "seller_quote": { "type": "string" },
+            "key_elements": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "customer_reaction": { "type": "string" },
+            "led_to_progression": { "type": "boolean" }
+          }
+        }
+      },
+      "call_outcome": {
+        "type": "string",
+        "enum": ["sale_completed", "callback_scheduled", "interest_expressed", "soft_rejection", "hard_rejection", "call_abandoned", "other"]
+      },
+      "callbuddy_alignment": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["offset_ms", "during_phase", "suggestion_shown", "seller_action", "alignment", "outcome"],
+          "additionalProperties": false,
+          "properties": {
+            "offset_ms": { "type": "integer" },
+            "during_phase": {
+              "type": "string",
+              "enum": ["opener", "discovery", "pitch", "close", "objection_loop"]
+            },
+            "suggestion_shown": { "type": "string" },
+            "seller_action": { "type": "string" },
+            "alignment": {
+              "type": "string",
+              "enum": ["followed", "adapted", "ignored"]
+            },
+            "outcome": {
+              "type": "string",
+              "enum": ["positive", "negative", "neutral"]
+            }
+          }
+        }
+      },
+      "callbuddy_usage_summary": {
+        "type": "object",
+        "required": ["total_suggestions_tracked", "followed_count", "adapted_count", "ignored_count", "follow_rate", "usage_level"],
+        "additionalProperties": false,
+        "properties": {
+          "total_suggestions_tracked": { "type": "integer", "minimum": 0 },
+          "followed_count": { "type": "integer", "minimum": 0 },
+          "adapted_count": { "type": "integer", "minimum": 0 },
+          "ignored_count": { "type": "integer", "minimum": 0 },
+          "follow_rate": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+          "usage_level": {
+            "type": "string",
+            "enum": ["heavy", "moderate", "light", "minimal", "none", "no_suggestions"]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,189 @@
+================================================================================
+  STATE PATCHER EXPERIMENT LOG
+================================================================================
+  Dataset:      conv_1_incremental_v12_20260214_171445
+  Prompt:       elg_b2c_state_patcher (v12)
+  Model:        Kimi K2 Thinking (Fireworks) (accounts/fireworks/models/kimi-k2-thinking)
+  Conversation: conv_1.mp3
+  Run:          conv_1_incremental_v12_20260214_171445
+================================================================================
+
+
+[Step 0 · Utterances 0–0 · 3747ms TTFT · 3747ms E2E]
+
+Kunden:
+  Hallo?
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─
+
+
+[Step 1 · Utterances 1–2 · 9206ms TTFT · 9206ms E2E]
+
+Sælger:
+  Goddag, goddag.
+
+Kunden:
+  Det er dig der har ringet til mig.
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─
+
+
+[Step 2 · Utterances 3–5 · 15150ms TTFT · 15150ms E2E]
+
+Sælger:
+  Ja. Ja, det var det. Og så ringede du tilbage til mig.
+
+Kunden:
+  Ja, og men så røg jeg i kø, og så vidste jeg ikke, hvem jeg ringede til. Så tænkte jeg, ved du hvad, så skulle jeg nok til at sælge, og det har jeg nok også.
+
+    ╭─ Patches (2)
+    │  1. add_phase_progress
+    │     item: "permission_obtained — Kunden skeptisk men fortsætter: 'så skulle jeg nok til at sælge' → humor som forsvar, men ikke afviste opkaldet"
+    │  2. update_customer_profile
+    │     disc_primary: "D"
+    │     disc_secondary: "I"
+    │     communication_style: "Direkte og uformel med skeptisk humor. Vil have pointen hurtigt uden omsvøb. Responderer på ærlighed og ligeværdig tone."
+    │     decision_driver: "Gennemsigtighed og respekt for tid — vil ikke spilde tid på salgstricks"
+    │     resistance_style: "Direkte konfrontation med humor som buffer. Siger tingene som de er, men med et glimt i øjet."
+    │     trust_builders: ["ærlighed om at det er et salgsopkald", "direkte svar uden floskler", "respekt for deres skepsis", "hurtigt komme til pointen"]
+    │     approach_note: "Match den uformelle, direkte tone. Vær ærlig om at det er et salgsopkald. Kom hurtigt til hvad det drejer sig om. Ingen salgstricks."
+    ╰─
+
+
+[Step 3 · Utterances 6–7 · 7878ms TTFT · 7878ms E2E]
+
+Sælger:
+  Ja, det kan jeg da love dig for, du.
+
+Kunden:
+  Og hvad sælger du? Toiletpapir eller hvad?
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─
+
+
+[Step 4 · Utterances 8–9 · 6110ms TTFT · 6110ms E2E]
+
+Sælger:
+  Ja, ja, du må sgu godt købe toiletpapir af mig, du. Jeg sælger det hele. Selv svigermor kan du få med i handlen, du.
+
+Kunden:
+  Nå, for helvede.
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─
+
+
+[Step 5 · Utterances 10–13 · 22015ms TTFT · 22015ms E2E]
+
+Sælger:
+  Ja, for helvede, du, du, du.
+
+Kunden:
+  Ja, nej.
+
+Sælger:
+  Nå, men du, som du nok kan høre, så skal jeg have dig lidt i stødet, jo. Det er energiselskabet El, og jeg går da ud fra, at det er dig, der står for din egen elaftale, derhjemme, unge mand.
+
+Kunden:
+  Jamen, det er det. Og ved du hvad, det er sjovt nok, du er ikke den eneste, der har ringet i dag i en indgående el. Det ved jeg ikke, hvad fanden. Lige pludselig kommer I i bølge, og så ringer I sgu 24/7.
+
+    ╭─ Patches (3)
+    │  1. add_phase_progress
+    │     item: "identity_confirmed — Kunden bekræftede at sælger taler med den rigtige person"
+    │  2. add_phase_progress
+    │     item: "responsibility_confirmed — Kunden bekræftede han står for sin egen elaftale"
+    │  3. upsert_pain_point
+    │     id: "frustration_over_many_calls"
+    │     description: "Kunden er frustreret over at blive bombarderet med opkald fra energiselskaber - flere opkald samme dag, føles som en bølge"
+    │     severity: "medium"
+    │     status: "expressed"
+    ╰─
+
+
+[Step 6 · Utterances 14–15 · 25465ms TTFT · 25465ms E2E]
+
+Sælger:
+  Det er fandme lækkert at blive smurt, blive smurt sådan ind i kærlighed, jo.
+
+Kunden:
+  Ja, ja. Hvis der er noget at komme efter. Men ved du hvad, jeg har ikke så lang tid siden, jeg har skiftet.
+
+    ╭─ Patches (2)
+    │  1. upsert_customer_fact
+    │     key: "recently_switched_energy"
+    │     value: "Har skiftet for nylig - ikke så lang tid siden"
+    │     source: "confirmed"
+    │  2. add_phase_progress
+    │     item: "current_situation — Kunden har for nylig skiftet el-aftale → potentiel timing-indvending, skal forstå nuværende setup"
+    ╰─
+
+
+[Step 7 · Utterances 16–17 · 16736ms TTFT · 16736ms E2E]
+
+Sælger:
+  Næ, sig noget mere.
+
+Kunden:
+  Det er ikke så lang tid siden, jeg har skiftet. Jeg har lavet elaftale.
+
+    ╭─ Patches (0)
+    │  (no patches)
+    ╰─
+
+
+[Step 8 · Utterances 18–21 · 7348ms TTFT · 38792ms E2E]
+
+Sælger:
+  Med hvem?
+
+Kunden:
+  Med OK.
+
+Sælger:
+  Altså tankstationen?
+
+Kunden:
+  Ja, ja, det er de har også. De gør i mange ting. De gør også i varmepumper og gas.
+
+    ╭─ Tool Call
+    │  lookup_competitor(competitor_id="ok")
+    │  Response: 2323 chars
+    ╰─
+
+    ╭─ Patches (3)
+    │  1. add_phase_progress
+    │     item: "current_situation — Kunde hos OK med nyligt skiftet aftale → timing-indvending mulig, stærk brandloyalitet forventet"
+    │  2. upsert_customer_fact
+    │     key: "current_supplier"
+    │     value: "OK (tankstationen)"
+    │     source: "confirmed"
+    │  3. upsert_customer_fact
+    │     key: "ok_products_perception"
+    │     value: "OK tilbyder mange produkter: el, varmepumper og gas"
+    │     source: "confirmed"
+    ╰─
+
+
+[Step 10 · Utterances 24–25 · 10954ms TTFT · 10954ms E2E]
+
+Sælger:
+  Nå, nå. Jamen, jeg havde jo tilbudt mig ikke til dig på gas.
+
+Kunden:
+  Jamen, ved du hvad, ved du hvad, og det, det, det regner jeg med, at jeg stopper med inden udgangen af i år, nemlig. Jeg er en af dem, der skal få fjernvarme.
+
+    ╭─ Patches (2)
+    │  1. add_phase_progress
+    │     item: "current_situation — Skifter til fjernvarme inden årets udgang → timing-kritisk, gas bliver irrelevant snart"
+    │  2. upsert_customer_fact
+    │     key: "planned_heating_change"
+    │     value: "Skifter til fjernvarme inden udgangen af i år, stopper med gas"
+    │     source: "confirmed"
+    ╰─

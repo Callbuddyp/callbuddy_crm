@@ -1,0 +1,9 @@
+================================================================================
+  STATE PATCHER EXPERIMENT LOG
+================================================================================
+  Dataset:      conv_1_incremental_v13_20260214_173833
+  Prompt:       elg_b2c_state_patcher (v13)
+  Model:        Kimi K2 Thinking (Vertex AI) (publishers/moonshotai/models/kimi-k2-thinking-maas)
+  Conversation: conv_1.mp3
+  Run:          conv_1_incremental_v13_20260214_173833
+================================================================================
